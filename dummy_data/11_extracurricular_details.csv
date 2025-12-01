@@ -1,0 +1,1298 @@
+student_id,activity_name,activity_category,registration_date,role,activity_level,hours_per_week,total_events_participated,achievement,status,faculty_coordinator
+1,Alumni Relations,Other,2025-08-11,Active Member,Medium,5,4,Winner - Intra College Competition,Active,Prof. Mehta
+1,Badminton Club,Sports,2025-08-15,Member,High,7,5,,Active,Prof. Sharma
+1,Rotaract Club,Social,2025-08-31,Active Member,High,9,6,,Inactive,Prof. Sharma
+2,Innovation Club,Academic,2025-08-08,Member,High,7,10,,Active,Prof. Reddy
+2,Chess Club,Sports,2025-08-25,Member,High,6,6,,Active,Prof. Sharma
+3,Literary Club,Cultural,2025-08-21,Member,High,7,6,,Active,Prof. Mehta
+4,Paper Presentation Team,Academic,2025-08-24,Member,Low,2,1,Certificate of Excellence,Active,Prof. Gupta
+5,Quiz Club,Academic,2025-08-21,Member,Medium,3,4,,Active,Prof. Sharma
+7,Volleyball Team,Sports,2025-08-22,Active Member,Medium,5,2,Participation Certificate,Active,Prof. Sharma
+7,Student Council,Other,2025-08-18,Active Member,Medium,4,3,,Active,Prof. Mehta
+7,Photography Club,Cultural,2025-08-27,Member,Medium,4,4,,Inactive,Prof. Sharma
+9,Photography Club,Cultural,2025-08-15,Core Team,Very High,13,14,,Active,Prof. Mehta
+9,Alumni Relations,Other,2025-08-21,Core Team,High,9,7,Certificate of Excellence,Inactive,Prof. Sharma
+9,IoT Club,Technical,2025-08-19,Member,Low,3,1,,Active,Prof. Mehta
+9,NCC (National Cadet Corps),Social,2025-08-23,Active Member,High,7,5,,Active,Prof. Reddy
+10,Mathematics Club,Academic,2025-08-11,Member,Low,3,2,,Active,Prof. Sharma
+11,Cybersecurity Club,Technical,2025-08-17,Member,Medium,3,5,,Active,Prof. Gupta
+11,Science Club,Academic,2025-08-26,Member,Low,2,0,,Active,Prof. Gupta
+12,Mathematics Club,Academic,2025-08-06,Active Member,High,6,6,,Active,Prof. Mehta
+12,Drama Club,Cultural,2025-08-25,Active Member,High,6,10,,Active,Prof. Gupta
+15,College Magazine,Other,2025-08-26,Member,Medium,6,2,,Active,Prof. Reddy
+15,Science Club,Academic,2025-08-23,Active Member,High,8,10,,Active,Prof. Sharma
+16,Paper Presentation Team,Academic,2025-08-10,Active Member,Medium,3,2,,Inactive,Prof. Mehta
+16,Event Management Team,Other,2025-08-13,Member,High,7,9,,Active,Prof. Reddy
+17,NCC (National Cadet Corps),Social,2025-08-10,Member,Low,3,0,,Active,Prof. Gupta
+18,Research Club,Academic,2025-08-04,Member,High,8,5,,Active,Prof. Gupta
+18,Literary Club,Cultural,2025-08-05,Member,Medium,4,3,,Active,Prof. Reddy
+20,Cybersecurity Club,Technical,2025-08-06,President/Head,Very High,11,14,,Active,Prof. Mehta
+20,College Magazine,Other,2025-08-12,Active Member,High,8,9,,Active,Prof. Mehta
+20,Debating Society,Cultural,2025-08-22,Member,Medium,6,4,Winner - Intra College Competition,Active,Prof. Reddy
+22,Innovation Club,Academic,2025-08-30,Active Member,High,6,6,,Inactive,Prof. Reddy
+23,Chess Club,Sports,2025-08-29,Member,Low,2,2,,Active,Prof. Mehta
+24,Table Tennis Club,Sports,2025-08-19,Core Team,Very High,12,20,,Active,Prof. Mehta
+24,NSS (National Service Scheme),Social,2025-08-25,Coordinator,Very High,13,13,,Active,Prof. Sharma
+24,Debating Society,Cultural,2025-08-18,Member,Medium,6,4,,Active,Prof. Reddy
+25,Event Management Team,Other,2025-08-12,Core Team,High,10,8,,Active,Prof. Sharma
+25,Music Club,Cultural,2025-08-07,Member,Low,2,0,,Active,Prof. Mehta
+26,Drama Club,Cultural,2025-08-29,Active Member,High,9,5,,Active,Prof. Mehta
+27,Student Council,Other,2025-08-05,Member,Medium,4,2,,Active,Prof. Gupta
+27,Literary Club,Cultural,2025-08-29,Member,Medium,5,3,,Active,Prof. Sharma
+30,Cybersecurity Club,Technical,2025-08-19,President/Head,Very High,14,12,,Active,Prof. Reddy
+31,NCC (National Cadet Corps),Social,2025-08-07,Active Member,High,9,9,,Active,Prof. Sharma
+32,NSS (National Service Scheme),Social,2025-08-15,Active Member,Medium,6,4,,Active,Prof. Reddy
+33,Robotics Club,Technical,2025-08-26,Member,Medium,4,2,Winner - Intra College Competition,Active,Prof. Sharma
+33,College Magazine,Other,2025-08-04,Member,Medium,4,3,,Active,Prof. Sharma
+33,Research Club,Academic,2025-08-08,Active Member,Medium,3,2,Winner - Intra College Competition,Inactive,Prof. Sharma
+36,Research Club,Academic,2025-08-02,Member,Medium,3,5,,Active,Prof. Sharma
+36,Basketball Team,Sports,2025-08-18,Member,Low,1,0,,Inactive,Prof. Sharma
+39,Data Science Club,Technical,2025-08-04,Member,Low,1,1,,Active,Prof. Reddy
+39,Mathematics Club,Academic,2025-08-11,Member,Low,3,1,,Active,Prof. Mehta
+39,Dance Club,Cultural,2025-08-26,President/Head,Very High,15,17,,Active,Prof. Sharma
+41,Hackathon Team,Technical,2025-08-17,Core Team,High,7,8,,Active,Prof. Gupta
+42,Football Team,Sports,2025-08-06,Active Member,High,10,5,,Active,Prof. Reddy
+43,Fine Arts Club,Cultural,2025-08-18,Member,Low,3,2,Best Performer Award,Active,Prof. Mehta
+44,Badminton Club,Sports,2025-08-14,Member,Low,1,1,,Active,Prof. Gupta
+44,Yoga Club,Other,2025-08-14,Member,Medium,3,3,,Active,Prof. Reddy
+45,Environmental Club,Social,2025-08-16,Core Team,High,6,7,,Active,Prof. Reddy
+46,Dance Club,Cultural,2025-08-29,Member,High,8,8,,Active,Prof. Sharma
+46,AI/ML Club,Technical,2025-08-16,Member,High,10,6,,Active,Prof. Mehta
+49,Data Science Club,Technical,2025-08-07,Member,Low,3,1,Winner - Intra College Competition,Active,Prof. Mehta
+50,IoT Club,Technical,2025-08-25,Member,Medium,6,5,,Active,Prof. Reddy
+51,Literary Club,Cultural,2025-08-16,Member,High,9,6,,Inactive,Prof. Gupta
+51,Football Team,Sports,2025-08-31,Member,Medium,5,3,Winner - Inter College Competition,Active,Prof. Sharma
+53,Entrepreneurship Cell,Academic,2025-08-31,Member,Medium,5,3,Participation Certificate,Active,Prof. Mehta
+53,Dance Club,Cultural,2025-08-12,Member,Medium,6,3,,Active,Prof. Reddy
+53,NCC (National Cadet Corps),Social,2025-08-19,Active Member,Medium,6,3,,Active,Prof. Gupta
+54,Blood Donation Team,Social,2025-08-28,Active Member,High,6,7,,Active,Prof. Gupta
+56,College Magazine,Other,2025-08-14,Member,High,7,9,,Active,Prof. Mehta
+56,Mathematics Club,Academic,2025-08-18,Member,Medium,5,4,,Active,Prof. Mehta
+57,Data Science Club,Technical,2025-08-18,Core Team,Very High,10,10,,Inactive,Prof. Reddy
+57,Mathematics Club,Academic,2025-08-05,Active Member,Medium,3,2,Certificate of Excellence,Active,Prof. Mehta
+57,Literary Club,Cultural,2025-08-16,Member,Low,2,0,,Active,Prof. Reddy
+59,Table Tennis Club,Sports,2025-08-30,Active Member,Medium,4,4,,Active,Prof. Sharma
+61,NSS (National Service Scheme),Social,2025-08-15,Core Team,High,7,7,,Inactive,Prof. Gupta
+61,Cybersecurity Club,Technical,2025-08-05,Coordinator,Very High,15,19,,Inactive,Prof. Reddy
+63,Entrepreneurship Cell,Academic,2025-08-18,Active Member,Medium,5,2,,Active,Prof. Gupta
+65,Web Development Club,Technical,2025-08-12,Member,Medium,6,3,,Active,Prof. Reddy
+66,IoT Club,Technical,2025-08-05,Active Member,Medium,6,4,Participation Certificate,Active,Prof. Mehta
+66,Badminton Club,Sports,2025-08-12,Member,Low,2,0,Best Performer Award,Active,Prof. Sharma
+66,NSS (National Service Scheme),Social,2025-08-28,Core Team,High,10,6,,Active,Prof. Gupta
+68,Paper Presentation Team,Academic,2025-08-21,Member,Medium,4,5,,Inactive,Prof. Mehta
+68,Student Council,Other,2025-08-18,Member,Medium,5,5,,Inactive,Prof. Sharma
+69,Environmental Club,Social,2025-08-04,Coordinator,Very High,13,10,,Active,Prof. Reddy
+69,Yoga Club,Other,2025-08-28,Member,Medium,5,5,,Active,Prof. Sharma
+70,Student Council,Other,2025-08-24,Member,Medium,6,2,Best Performer Award,Active,Prof. Sharma
+70,Basketball Team,Sports,2025-08-30,Active Member,Medium,5,4,Best Performer Award,Active,Prof. Mehta
+72,NSS (National Service Scheme),Social,2025-08-11,Core Team,Very High,15,13,,Inactive,Prof. Gupta
+72,Robotics Club,Technical,2025-08-22,Member,High,7,7,,Active,Prof. Reddy
+76,Table Tennis Club,Sports,2025-08-18,Member,Low,1,1,,Active,Prof. Gupta
+77,Rotaract Club,Social,2025-08-10,Member,Low,3,1,,Active,Prof. Gupta
+78,Music Club,Cultural,2025-08-10,Member,High,10,6,,Active,Prof. Gupta
+78,Research Club,Academic,2025-08-24,Member,High,8,5,,Active,Prof. Gupta
+79,Fitness Club,Other,2025-08-17,Active Member,Medium,6,4,,Active,Prof. Gupta
+79,NSS (National Service Scheme),Social,2025-08-05,Member,High,6,8,,Active,Prof. Mehta
+79,IoT Club,Technical,2025-08-25,Coordinator,Very High,10,19,,Inactive,Prof. Gupta
+79,Dance Club,Cultural,2025-08-08,Core Team,Very High,12,14,,Active,Prof. Reddy
+80,Placement Cell,Other,2025-08-04,Member,Low,2,1,Best Performer Award,Active,Prof. Sharma
+80,Music Club,Cultural,2025-08-06,Member,High,7,10,,Active,Prof. Reddy
+80,Red Cross,Social,2025-08-12,Member,Low,2,2,Certificate of Excellence,Active,Prof. Mehta
+82,Film Making Club,Cultural,2025-08-25,Active Member,Medium,5,3,,Active,Prof. Mehta
+84,Event Management Team,Other,2025-08-25,Core Team,High,9,10,,Active,Prof. Reddy
+85,Table Tennis Club,Sports,2025-08-27,Active Member,Medium,4,3,,Active,Prof. Gupta
+86,Dance Club,Cultural,2025-08-23,Active Member,High,7,10,,Active,Prof. Sharma
+86,Red Cross,Social,2025-08-08,Member,Low,2,1,Winner - Inter College Competition,Active,Prof. Sharma
+86,Chess Club,Sports,2025-08-05,Member,Medium,5,2,,Active,Prof. Mehta
+87,Student Council,Other,2025-08-27,Member,High,10,10,,Active,Prof. Gupta
+87,Hockey Team,Sports,2025-08-23,Core Team,High,6,5,Participation Certificate,Active,Prof. Sharma
+87,Mathematics Club,Academic,2025-08-28,Member,Medium,4,3,,Active,Prof. Gupta
+88,Fitness Club,Other,2025-08-29,Member,Low,2,1,,Active,Prof. Reddy
+90,Data Science Club,Technical,2025-08-21,Member,Low,3,2,,Active,Prof. Mehta
+90,Rotaract Club,Social,2025-08-11,Active Member,Medium,4,4,,Active,Prof. Sharma
+91,Fine Arts Club,Cultural,2025-08-31,Member,Medium,6,5,,Active,Prof. Mehta
+92,Fitness Club,Other,2025-08-24,President/Head,Very High,13,19,,Inactive,Prof. Sharma
+92,Research Club,Academic,2025-08-25,Member,Medium,3,3,,Active,Prof. Reddy
+94,Web Development Club,Technical,2025-08-03,Active Member,Medium,3,2,,Inactive,Prof. Sharma
+97,Mathematics Club,Academic,2025-08-17,Member,Low,3,1,Winner - Intra College Competition,Active,Prof. Mehta
+100,Environmental Club,Social,2025-08-03,Member,Low,2,1,,Active,Prof. Gupta
+101,Table Tennis Club,Sports,2025-08-14,Member,High,6,6,,Active,Prof. Gupta
+101,Robotics Club,Technical,2025-08-26,Member,Medium,6,2,,Active,Prof. Sharma
+101,Music Club,Cultural,2025-08-22,Member,Medium,5,4,Winner - Intra College Competition,Active,Prof. Sharma
+102,Blood Donation Team,Social,2025-08-24,Coordinator,Very High,12,18,,Active,Prof. Mehta
+102,Cybersecurity Club,Technical,2025-08-17,Active Member,High,6,6,,Active,Prof. Gupta
+103,Alumni Relations,Other,2025-08-05,Member,Low,2,2,,Inactive,Prof. Mehta
+103,Cybersecurity Club,Technical,2025-08-10,Member,Medium,3,5,,Inactive,Prof. Mehta
+105,Basketball Team,Sports,2025-08-02,Member,Low,3,1,,Active,Prof. Reddy
+107,Fine Arts Club,Cultural,2025-08-13,Member,Medium,6,4,,Active,Prof. Mehta
+108,Film Making Club,Cultural,2025-08-02,Member,Medium,4,5,,Active,Prof. Mehta
+109,Kabaddi Team,Sports,2025-08-17,Member,Medium,3,3,,Active,Prof. Reddy
+109,Yoga Club,Other,2025-08-21,Member,Low,1,2,,Active,Prof. Gupta
+110,College Magazine,Other,2025-08-07,Core Team,Very High,13,18,,Active,Prof. Gupta
+111,IoT Club,Technical,2025-08-21,Member,Medium,3,3,,Active,Prof. Sharma
+112,IoT Club,Technical,2025-08-30,Member,Medium,3,2,,Active,Prof. Reddy
+112,Debating Society,Cultural,2025-08-17,Core Team,High,6,8,,Active,Prof. Gupta
+113,Mathematics Club,Academic,2025-08-30,Member,Low,2,0,,Active,Prof. Mehta
+113,Student Council,Other,2025-08-13,Member,Low,1,0,Winner - Intra College Competition,Active,Prof. Mehta
+113,IoT Club,Technical,2025-08-04,Member,High,8,6,,Active,Prof. Mehta
+116,Student Council,Other,2025-08-03,Member,Medium,3,3,,Active,Prof. Gupta
+116,Coding Club,Technical,2025-08-16,Core Team,Very High,12,19,,Active,Prof. Reddy
+116,Paper Presentation Team,Academic,2025-08-13,Member,Low,2,2,,Active,Prof. Reddy
+116,Red Cross,Social,2025-08-15,Active Member,Medium,4,5,Winner - Inter College Competition,Active,Prof. Reddy
+117,Debating Society,Cultural,2025-08-29,Active Member,High,8,5,,Active,Prof. Sharma
+117,Entrepreneurship Cell,Academic,2025-08-11,Member,Low,3,0,Best Performer Award,Active,Prof. Mehta
+117,Fitness Club,Other,2025-08-17,Member,Low,1,0,,Active,Prof. Sharma
+121,Rotaract Club,Social,2025-08-16,Member,Low,1,2,,Active,Prof. Reddy
+122,Fine Arts Club,Cultural,2025-08-31,Member,Low,2,1,,Active,Prof. Mehta
+123,Entrepreneurship Cell,Academic,2025-08-21,Member,Low,2,2,,Active,Prof. Gupta
+123,Event Management Team,Other,2025-08-04,Member,Low,3,0,,Active,Prof. Sharma
+123,Film Making Club,Cultural,2025-08-28,Active Member,High,7,6,,Active,Prof. Reddy
+123,Basketball Team,Sports,2025-08-31,Member,Low,1,2,,Active,Prof. Mehta
+125,Rotaract Club,Social,2025-08-04,Member,Medium,3,2,,Inactive,Prof. Reddy
+125,Innovation Club,Academic,2025-08-20,Member,Low,2,0,,Inactive,Prof. Sharma
+126,Rotaract Club,Social,2025-08-02,Active Member,High,10,9,Best Performer Award,Active,Prof. Gupta
+126,Coding Club,Technical,2025-08-18,Core Team,Very High,15,16,,Active,Prof. Sharma
+126,Paper Presentation Team,Academic,2025-08-08,Member,Medium,5,4,,Active,Prof. Gupta
+126,Hockey Team,Sports,2025-08-17,Member,Low,1,1,Certificate of Excellence,Active,Prof. Reddy
+127,Cricket Team,Sports,2025-08-29,Active Member,Medium,3,2,,Active,Prof. Reddy
+127,Mathematics Club,Academic,2025-08-09,Member,Low,1,2,,Active,Prof. Gupta
+128,Badminton Club,Sports,2025-08-25,Member,Low,2,1,,Active,Prof. Mehta
+132,Red Cross,Social,2025-08-23,Member,Medium,3,2,,Active,Prof. Gupta
+133,Red Cross,Social,2025-08-26,Member,Medium,3,4,Winner - Inter College Competition,Active,Prof. Sharma
+134,Film Making Club,Cultural,2025-08-21,Member,High,10,7,,Active,Prof. Reddy
+135,Coding Club,Technical,2025-08-03,Active Member,High,6,9,,Active,Prof. Gupta
+136,Cybersecurity Club,Technical,2025-08-29,Member,Medium,6,4,,Active,Prof. Sharma
+138,Paper Presentation Team,Academic,2025-08-29,Member,Low,2,0,Participation Certificate,Active,Prof. Reddy
+138,Alumni Relations,Other,2025-08-09,Active Member,High,9,5,,Inactive,Prof. Mehta
+138,Web Development Club,Technical,2025-08-26,Member,Low,2,1,,Inactive,Prof. Sharma
+142,Student Council,Other,2025-08-17,Member,High,8,10,,Active,Prof. Mehta
+143,AI/ML Club,Technical,2025-08-29,Active Member,Medium,6,3,,Active,Prof. Reddy
+144,Athletics Team,Sports,2025-08-11,Member,Low,1,1,,Active,Prof. Sharma
+144,Quiz Club,Academic,2025-08-30,Active Member,Medium,3,4,,Inactive,Prof. Sharma
+146,Photography Club,Cultural,2025-08-25,Active Member,Medium,6,3,,Inactive,Prof. Reddy
+146,Cricket Team,Sports,2025-08-08,Member,Low,3,1,Best Performer Award,Active,Prof. Sharma
+146,Blood Donation Team,Social,2025-08-08,Member,High,6,8,,Active,Prof. Sharma
+146,Mathematics Club,Academic,2025-08-25,Member,High,6,6,,Inactive,Prof. Gupta
+147,Table Tennis Club,Sports,2025-08-14,Active Member,Medium,3,5,Winner - Intra College Competition,Active,Prof. Mehta
+148,AI/ML Club,Technical,2025-08-26,Member,High,7,7,,Active,Prof. Mehta
+148,Red Cross,Social,2025-08-19,Member,Low,3,2,,Active,Prof. Sharma
+150,Mathematics Club,Academic,2025-08-08,Active Member,High,7,5,,Active,Prof. Sharma
+150,Data Science Club,Technical,2025-08-15,Member,Low,2,2,,Inactive,Prof. Reddy
+151,IoT Club,Technical,2025-08-31,Active Member,High,8,10,Winner - Inter College Competition,Active,Prof. Reddy
+151,Event Management Team,Other,2025-08-08,Active Member,High,10,6,,Inactive,Prof. Reddy
+151,Athletics Team,Sports,2025-08-18,Member,Low,3,1,,Active,Prof. Mehta
+152,Environmental Club,Social,2025-08-30,Member,Medium,4,5,,Inactive,Prof. Reddy
+153,Event Management Team,Other,2025-08-02,Member,Medium,4,5,,Active,Prof. Reddy
+154,Basketball Team,Sports,2025-08-18,Member,Low,1,0,,Active,Prof. Mehta
+156,Red Cross,Social,2025-08-21,Member,High,7,5,,Active,Prof. Gupta
+158,Data Science Club,Technical,2025-08-08,Coordinator,Very High,10,15,,Active,Prof. Reddy
+158,Film Making Club,Cultural,2025-08-26,Active Member,Medium,3,5,Certificate of Excellence,Active,Prof. Gupta
+159,Blood Donation Team,Social,2025-08-26,Core Team,Very High,15,14,,Active,Prof. Reddy
+161,Paper Presentation Team,Academic,2025-08-06,Active Member,Medium,4,3,,Inactive,Prof. Gupta
+161,Red Cross,Social,2025-08-14,Active Member,Medium,5,3,,Active,Prof. Gupta
+162,IoT Club,Technical,2025-08-10,Member,Low,1,2,,Active,Prof. Sharma
+162,Literary Club,Cultural,2025-08-14,Member,High,9,5,,Active,Prof. Mehta
+163,Literary Club,Cultural,2025-08-13,Active Member,High,9,5,,Active,Prof. Mehta
+164,Hockey Team,Sports,2025-08-12,Member,Low,3,2,,Active,Prof. Sharma
+165,Quiz Club,Academic,2025-08-30,Member,Medium,3,2,,Active,Prof. Gupta
+165,Event Management Team,Other,2025-08-22,Active Member,Medium,6,3,,Active,Prof. Mehta
+165,NCC (National Cadet Corps),Social,2025-08-13,Member,Medium,6,2,,Active,Prof. Mehta
+166,Environmental Club,Social,2025-08-04,Member,Low,2,2,,Active,Prof. Reddy
+166,Chess Club,Sports,2025-08-13,Active Member,Medium,6,3,,Active,Prof. Mehta
+167,Environmental Club,Social,2025-08-09,Member,Low,1,0,,Active,Prof. Reddy
+167,Mathematics Club,Academic,2025-08-09,Coordinator,Very High,15,18,Winner - Inter College Competition,Active,Prof. Reddy
+169,Entrepreneurship Cell,Academic,2025-08-20,Active Member,High,10,10,,Active,Prof. Mehta
+169,Environmental Club,Social,2025-08-08,Member,Medium,4,5,Winner - Inter College Competition,Active,Prof. Gupta
+173,College Magazine,Other,2025-08-16,Member,Low,1,0,,Active,Prof. Sharma
+175,Athletics Team,Sports,2025-08-14,Active Member,High,9,5,,Active,Prof. Reddy
+175,Student Council,Other,2025-08-18,President/Head,Very High,14,18,,Active,Prof. Reddy
+176,Rotaract Club,Social,2025-08-10,Member,Medium,5,3,Winner - Inter College Competition,Active,Prof. Sharma
+178,Innovation Club,Academic,2025-08-23,Active Member,Medium,6,5,,Active,Prof. Reddy
+178,Photography Club,Cultural,2025-08-29,Member,Medium,5,2,,Active,Prof. Sharma
+178,Student Council,Other,2025-08-05,Member,High,7,10,,Active,Prof. Sharma
+179,Coding Club,Technical,2025-08-13,Member,High,6,6,,Active,Prof. Sharma
+180,College Magazine,Other,2025-08-06,Active Member,High,9,10,Winner - Intra College Competition,Active,Prof. Sharma
+180,Drama Club,Cultural,2025-08-28,Active Member,High,10,7,,Active,Prof. Sharma
+180,Badminton Club,Sports,2025-08-04,Active Member,High,7,5,,Inactive,Prof. Sharma
+180,NCC (National Cadet Corps),Social,2025-08-04,Member,Medium,3,3,,Active,Prof. Gupta
+181,Film Making Club,Cultural,2025-08-29,Member,Medium,4,4,,Inactive,Prof. Gupta
+181,Cricket Team,Sports,2025-08-22,Member,Medium,4,5,,Active,Prof. Sharma
+181,Quiz Club,Academic,2025-08-17,Member,Medium,5,4,,Active,Prof. Mehta
+183,Football Team,Sports,2025-08-09,Core Team,High,9,6,,Inactive,Prof. Reddy
+183,Data Science Club,Technical,2025-08-17,Member,Low,2,0,,Active,Prof. Gupta
+184,Dance Club,Cultural,2025-08-03,Member,Low,1,1,,Inactive,Prof. Gupta
+184,Kabaddi Team,Sports,2025-08-14,Core Team,High,9,5,,Inactive,Prof. Sharma
+184,Web Development Club,Technical,2025-08-20,Member,Low,1,2,Certificate of Excellence,Active,Prof. Sharma
+185,NSS (National Service Scheme),Social,2025-08-02,Active Member,High,6,6,Participation Certificate,Active,Prof. Reddy
+188,Alumni Relations,Other,2025-08-24,Member,Low,2,1,Winner - Inter College Competition,Active,Prof. Mehta
+188,Blood Donation Team,Social,2025-08-20,Member,Medium,4,3,,Active,Prof. Sharma
+188,Debating Society,Cultural,2025-08-28,Member,Medium,4,5,,Active,Prof. Sharma
+189,Chess Club,Sports,2025-08-28,Member,High,7,8,,Inactive,Prof. Reddy
+189,Rotaract Club,Social,2025-08-24,Active Member,Medium,4,5,,Active,Prof. Reddy
+189,Event Management Team,Other,2025-08-02,Member,High,7,7,Winner - Intra College Competition,Active,Prof. Gupta
+192,Football Team,Sports,2025-08-08,Member,Medium,3,2,,Active,Prof. Sharma
+194,Research Club,Academic,2025-08-03,Member,Medium,3,3,,Active,Prof. Reddy
+194,College Magazine,Other,2025-08-29,Active Member,Medium,6,2,,Inactive,Prof. Mehta
+195,Mathematics Club,Academic,2025-08-11,Core Team,High,10,8,Participation Certificate,Active,Prof. Gupta
+198,Cybersecurity Club,Technical,2025-08-13,Active Member,High,8,10,,Active,Prof. Reddy
+198,Entrepreneurship Cell,Academic,2025-08-26,Member,Low,2,2,Winner - Inter College Competition,Active,Prof. Reddy
+199,Yoga Club,Other,2025-08-13,Active Member,High,10,10,,Inactive,Prof. Gupta
+199,Rotaract Club,Social,2025-08-26,Member,Low,1,2,,Active,Prof. Reddy
+199,IoT Club,Technical,2025-08-20,Member,Low,2,0,,Active,Prof. Gupta
+200,Alumni Relations,Other,2025-08-15,Active Member,Medium,5,3,,Active,Prof. Sharma
+202,NCC (National Cadet Corps),Social,2025-08-03,Member,Medium,3,5,,Active,Prof. Mehta
+202,Literary Club,Cultural,2025-08-14,Member,Low,2,2,Best Performer Award,Inactive,Prof. Sharma
+209,Cricket Team,Sports,2025-08-29,Active Member,High,10,10,,Inactive,Prof. Mehta
+210,Fine Arts Club,Cultural,2025-08-26,Active Member,Medium,4,5,,Active,Prof. Mehta
+210,Event Management Team,Other,2025-08-29,Active Member,Medium,6,5,,Active,Prof. Reddy
+210,Web Development Club,Technical,2025-08-11,Active Member,Medium,3,4,Best Performer Award,Active,Prof. Reddy
+210,Chess Club,Sports,2025-08-21,Member,Medium,3,5,Winner - Intra College Competition,Inactive,Prof. Mehta
+211,Environmental Club,Social,2025-08-26,Member,Low,3,1,,Active,Prof. Gupta
+211,Cricket Team,Sports,2025-08-03,Member,High,8,7,,Active,Prof. Mehta
+211,Innovation Club,Academic,2025-08-16,Coordinator,Very High,14,15,,Active,Prof. Gupta
+212,Event Management Team,Other,2025-08-26,Member,Medium,5,3,,Active,Prof. Sharma
+212,Environmental Club,Social,2025-08-03,Member,Medium,3,4,,Active,Prof. Mehta
+213,Red Cross,Social,2025-08-21,Member,High,6,9,,Active,Prof. Sharma
+213,Research Club,Academic,2025-08-15,Member,Medium,4,3,,Active,Prof. Gupta
+213,Basketball Team,Sports,2025-08-09,Active Member,High,9,9,,Inactive,Prof. Sharma
+214,Innovation Club,Academic,2025-08-18,Member,High,9,8,,Active,Prof. Reddy
+214,Badminton Club,Sports,2025-08-17,Member,Medium,6,2,Best Performer Award,Inactive,Prof. Gupta
+214,College Magazine,Other,2025-08-06,Member,Low,2,1,,Active,Prof. Gupta
+215,NCC (National Cadet Corps),Social,2025-08-12,Active Member,Medium,4,4,,Active,Prof. Reddy
+215,Basketball Team,Sports,2025-08-13,Member,Medium,5,5,,Active,Prof. Sharma
+218,Debating Society,Cultural,2025-08-02,Active Member,Medium,5,5,,Active,Prof. Reddy
+219,Football Team,Sports,2025-08-24,Member,Medium,6,3,,Inactive,Prof. Gupta
+221,Placement Cell,Other,2025-08-08,Member,High,9,7,,Active,Prof. Sharma
+221,AI/ML Club,Technical,2025-08-12,Active Member,Medium,3,2,Participation Certificate,Active,Prof. Gupta
+223,Blood Donation Team,Social,2025-08-27,Member,High,7,6,Winner - Inter College Competition,Active,Prof. Mehta
+223,Volleyball Team,Sports,2025-08-14,Member,Medium,4,5,,Inactive,Prof. Gupta
+225,Hockey Team,Sports,2025-08-30,Member,Medium,6,5,Participation Certificate,Active,Prof. Gupta
+226,College Magazine,Other,2025-08-24,Member,Low,2,1,,Active,Prof. Mehta
+228,Alumni Relations,Other,2025-08-05,Member,High,8,10,,Active,Prof. Mehta
+229,Web Development Club,Technical,2025-08-07,Active Member,Medium,6,3,,Active,Prof. Gupta
+233,Quiz Club,Academic,2025-08-16,Member,Low,2,0,,Active,Prof. Reddy
+235,Rotaract Club,Social,2025-08-30,Active Member,High,7,7,,Active,Prof. Sharma
+236,Literary Club,Cultural,2025-08-22,Member,High,6,10,,Active,Prof. Mehta
+236,Rotaract Club,Social,2025-08-25,Member,Medium,4,4,,Active,Prof. Mehta
+239,Hockey Team,Sports,2025-08-27,Member,Low,1,2,,Active,Prof. Mehta
+239,Alumni Relations,Other,2025-08-27,Member,High,8,10,Winner - Intra College Competition,Active,Prof. Sharma
+239,NSS (National Service Scheme),Social,2025-08-12,Member,Medium,5,5,Certificate of Excellence,Active,Prof. Reddy
+240,Film Making Club,Cultural,2025-08-11,Core Team,Very High,13,16,Certificate of Excellence,Active,Prof. Gupta
+240,Environmental Club,Social,2025-08-07,Coordinator,Very High,13,20,,Active,Prof. Reddy
+242,Paper Presentation Team,Academic,2025-08-16,Member,Medium,6,4,,Active,Prof. Mehta
+242,Table Tennis Club,Sports,2025-08-12,Member,High,7,9,Winner - Intra College Competition,Inactive,Prof. Mehta
+242,Placement Cell,Other,2025-08-15,Member,Medium,3,4,,Active,Prof. Reddy
+243,Basketball Team,Sports,2025-08-23,Member,High,6,7,Winner - Inter College Competition,Active,Prof. Reddy
+243,Blood Donation Team,Social,2025-08-09,Active Member,Medium,3,4,,Active,Prof. Mehta
+243,Yoga Club,Other,2025-08-31,Member,Medium,3,3,,Active,Prof. Reddy
+244,Fitness Club,Other,2025-08-10,Active Member,Medium,3,2,,Active,Prof. Reddy
+244,Basketball Team,Sports,2025-08-24,Member,Low,2,1,,Inactive,Prof. Gupta
+244,NSS (National Service Scheme),Social,2025-08-18,Member,Low,2,1,,Active,Prof. Sharma
+245,Debating Society,Cultural,2025-08-24,President/Head,Very High,10,18,,Active,Prof. Sharma
+246,Web Development Club,Technical,2025-08-24,Member,High,10,6,,Active,Prof. Gupta
+247,Cybersecurity Club,Technical,2025-08-20,Active Member,High,10,6,,Active,Prof. Gupta
+247,Literary Club,Cultural,2025-08-30,Member,Medium,6,3,,Active,Prof. Gupta
+247,Student Council,Other,2025-08-25,Member,Low,1,1,Best Performer Award,Active,Prof. Mehta
+249,Yoga Club,Other,2025-08-30,Active Member,High,6,5,,Active,Prof. Mehta
+249,Data Science Club,Technical,2025-08-14,Coordinator,Very High,14,16,,Active,Prof. Sharma
+249,Dance Club,Cultural,2025-08-02,Member,High,10,7,Winner - Inter College Competition,Active,Prof. Reddy
+251,Cricket Team,Sports,2025-08-16,Coordinator,Very High,12,16,,Active,Prof. Gupta
+251,NSS (National Service Scheme),Social,2025-08-22,Member,High,7,7,,Active,Prof. Mehta
+251,Literary Club,Cultural,2025-08-19,Member,High,9,9,,Active,Prof. Gupta
+253,Table Tennis Club,Sports,2025-08-12,Member,High,7,10,,Active,Prof. Reddy
+253,Cybersecurity Club,Technical,2025-08-14,Member,Medium,4,5,Best Performer Award,Active,Prof. Gupta
+254,Paper Presentation Team,Academic,2025-08-07,Member,Medium,6,4,,Active,Prof. Gupta
+255,Athletics Team,Sports,2025-08-03,Member,Medium,3,3,,Inactive,Prof. Sharma
+255,College Magazine,Other,2025-08-22,Active Member,Medium,5,3,,Active,Prof. Reddy
+256,Paper Presentation Team,Academic,2025-08-31,Member,Low,2,1,,Active,Prof. Reddy
+256,Fitness Club,Other,2025-08-03,Member,Low,1,2,,Active,Prof. Mehta
+257,Basketball Team,Sports,2025-08-26,Active Member,High,10,8,Winner - Inter College Competition,Inactive,Prof. Mehta
+257,Blood Donation Team,Social,2025-08-25,Member,Medium,3,3,,Active,Prof. Gupta
+258,Volleyball Team,Sports,2025-08-22,President/Head,Very High,13,12,Certificate of Excellence,Inactive,Prof. Reddy
+258,Innovation Club,Academic,2025-08-09,Member,Low,3,1,Winner - Intra College Competition,Active,Prof. Sharma
+260,Student Council,Other,2025-08-04,Member,Low,3,2,,Active,Prof. Reddy
+261,Quiz Club,Academic,2025-08-17,Active Member,High,7,6,,Active,Prof. Sharma
+261,Athletics Team,Sports,2025-08-02,Member,High,10,8,,Active,Prof. Sharma
+261,Hackathon Team,Technical,2025-08-08,Member,Low,1,0,,Active,Prof. Sharma
+262,Student Council,Other,2025-08-20,Active Member,High,9,10,Winner - Intra College Competition,Active,Prof. Reddy
+263,Photography Club,Cultural,2025-08-24,Member,Low,2,2,Winner - Inter College Competition,Active,Prof. Mehta
+263,Event Management Team,Other,2025-08-20,President/Head,Very High,12,18,,Active,Prof. Mehta
+265,Coding Club,Technical,2025-08-11,Active Member,High,8,6,,Active,Prof. Gupta
+265,Research Club,Academic,2025-08-23,Member,High,8,7,,Active,Prof. Reddy
+265,Drama Club,Cultural,2025-08-09,Member,Medium,4,3,,Active,Prof. Mehta
+265,NSS (National Service Scheme),Social,2025-08-23,Core Team,High,8,10,,Active,Prof. Mehta
+266,Drama Club,Cultural,2025-08-13,Member,High,10,9,,Active,Prof. Gupta
+267,Quiz Club,Academic,2025-08-15,Member,High,6,9,Participation Certificate,Active,Prof. Reddy
+268,College Magazine,Other,2025-08-08,Member,High,9,5,,Active,Prof. Reddy
+268,Music Club,Cultural,2025-08-26,Member,Low,3,2,,Active,Prof. Mehta
+268,Rotaract Club,Social,2025-08-12,Member,Low,2,1,,Active,Prof. Sharma
+269,College Magazine,Other,2025-08-19,Active Member,Medium,6,4,,Active,Prof. Sharma
+269,Fine Arts Club,Cultural,2025-08-22,Active Member,Medium,3,5,,Active,Prof. Mehta
+271,Table Tennis Club,Sports,2025-08-24,Member,Low,3,2,,Active,Prof. Mehta
+271,NSS (National Service Scheme),Social,2025-08-08,Member,Medium,4,2,Winner - Intra College Competition,Active,Prof. Gupta
+271,Hackathon Team,Technical,2025-08-22,President/Head,Very High,13,19,,Active,Prof. Reddy
+273,Football Team,Sports,2025-08-27,Core Team,Very High,15,12,,Active,Prof. Reddy
+275,Kabaddi Team,Sports,2025-08-14,Active Member,High,8,5,,Active,Prof. Reddy
+276,Research Club,Academic,2025-08-08,Member,Low,3,0,,Active,Prof. Reddy
+276,Blood Donation Team,Social,2025-08-20,Member,High,7,10,,Active,Prof. Reddy
+276,Event Management Team,Other,2025-08-13,Member,Low,1,0,,Active,Prof. Reddy
+277,Mathematics Club,Academic,2025-08-05,Member,Medium,5,5,,Active,Prof. Gupta
+277,Yoga Club,Other,2025-08-22,Active Member,Medium,6,5,Participation Certificate,Active,Prof. Gupta
+277,Basketball Team,Sports,2025-08-20,Member,Low,3,0,,Active,Prof. Mehta
+278,Event Management Team,Other,2025-08-29,Active Member,Medium,3,3,,Inactive,Prof. Mehta
+278,Science Club,Academic,2025-08-13,Coordinator,Very High,12,17,,Active,Prof. Sharma
+279,Robotics Club,Technical,2025-08-30,Core Team,Very High,10,18,,Active,Prof. Reddy
+279,Innovation Club,Academic,2025-08-04,Member,High,7,9,,Active,Prof. Mehta
+279,College Magazine,Other,2025-08-18,Member,High,9,10,Best Performer Award,Inactive,Prof. Gupta
+280,Robotics Club,Technical,2025-08-05,Member,Low,3,1,,Active,Prof. Sharma
+280,College Magazine,Other,2025-08-30,Member,Low,1,0,Winner - Inter College Competition,Active,Prof. Sharma
+281,Hockey Team,Sports,2025-08-27,Member,Low,2,1,Best Performer Award,Active,Prof. Mehta
+282,Coding Club,Technical,2025-08-28,Member,Low,3,0,,Active,Prof. Sharma
+285,Event Management Team,Other,2025-08-30,Core Team,Very High,10,16,,Active,Prof. Sharma
+285,Film Making Club,Cultural,2025-08-27,Coordinator,Very High,12,14,,Inactive,Prof. Reddy
+287,Innovation Club,Academic,2025-08-30,Member,Medium,4,5,Participation Certificate,Active,Prof. Mehta
+287,Student Council,Other,2025-08-30,Member,Low,1,0,,Active,Prof. Mehta
+289,Kabaddi Team,Sports,2025-08-15,Member,High,7,9,,Active,Prof. Sharma
+289,Fine Arts Club,Cultural,2025-08-24,Active Member,High,8,10,,Inactive,Prof. Sharma
+289,Coding Club,Technical,2025-08-07,Active Member,Medium,4,2,,Active,Prof. Gupta
+290,Yoga Club,Other,2025-08-17,Active Member,High,7,9,,Inactive,Prof. Sharma
+291,Cybersecurity Club,Technical,2025-08-15,Active Member,High,8,6,,Active,Prof. Sharma
+291,Football Team,Sports,2025-08-08,Member,High,8,7,,Active,Prof. Reddy
+292,Table Tennis Club,Sports,2025-08-21,Member,Medium,5,3,Best Performer Award,Active,Prof. Gupta
+294,Cricket Team,Sports,2025-08-07,Core Team,High,10,8,Participation Certificate,Active,Prof. Gupta
+294,Entrepreneurship Cell,Academic,2025-08-19,Member,Medium,3,4,Best Performer Award,Active,Prof. Reddy
+295,Photography Club,Cultural,2025-08-02,Member,High,6,6,,Active,Prof. Mehta
+296,Coding Club,Technical,2025-08-06,Active Member,High,10,8,Best Performer Award,Active,Prof. Mehta
+296,Photography Club,Cultural,2025-08-14,Member,Medium,5,3,,Active,Prof. Mehta
+296,Alumni Relations,Other,2025-08-19,Member,Low,2,2,,Active,Prof. Reddy
+298,Music Club,Cultural,2025-08-10,Member,Medium,4,5,,Active,Prof. Sharma
+298,Innovation Club,Academic,2025-08-22,Member,Medium,5,2,,Active,Prof. Mehta
+299,IoT Club,Technical,2025-08-10,Core Team,Very High,12,18,Participation Certificate,Inactive,Prof. Reddy
+299,Kabaddi Team,Sports,2025-08-28,Active Member,High,7,8,,Active,Prof. Sharma
+300,Rotaract Club,Social,2025-08-05,Member,High,6,6,Participation Certificate,Active,Prof. Gupta
+301,Alumni Relations,Other,2025-08-23,Active Member,High,6,5,,Inactive,Prof. Sharma
+302,Hockey Team,Sports,2025-08-28,Core Team,High,10,9,,Active,Prof. Sharma
+302,Science Club,Academic,2025-08-15,Core Team,Very High,12,13,,Inactive,Prof. Reddy
+302,Cybersecurity Club,Technical,2025-08-09,Active Member,Medium,6,5,,Active,Prof. Mehta
+302,Event Management Team,Other,2025-08-06,Member,High,10,6,Winner - Inter College Competition,Active,Prof. Sharma
+306,Mathematics Club,Academic,2025-08-24,Active Member,Medium,3,5,,Active,Prof. Gupta
+307,Hackathon Team,Technical,2025-08-14,Member,Medium,3,3,Participation Certificate,Inactive,Prof. Sharma
+307,Environmental Club,Social,2025-08-05,Core Team,High,10,10,,Inactive,Prof. Gupta
+309,Student Council,Other,2025-08-03,Active Member,Medium,4,5,,Active,Prof. Mehta
+309,Football Team,Sports,2025-08-14,Member,Medium,4,5,,Active,Prof. Gupta
+309,AI/ML Club,Technical,2025-08-28,Member,Low,1,2,Participation Certificate,Active,Prof. Gupta
+309,Music Club,Cultural,2025-08-06,Member,Medium,6,4,,Active,Prof. Gupta
+313,Dance Club,Cultural,2025-08-22,Member,Medium,3,3,,Active,Prof. Mehta
+313,Rotaract Club,Social,2025-08-13,Member,Low,2,1,,Active,Prof. Gupta
+313,Innovation Club,Academic,2025-08-22,Member,Low,2,2,,Active,Prof. Mehta
+314,Volleyball Team,Sports,2025-08-10,Member,Medium,4,4,Certificate of Excellence,Active,Prof. Gupta
+314,Film Making Club,Cultural,2025-08-19,Member,Medium,6,2,,Active,Prof. Mehta
+314,IoT Club,Technical,2025-08-22,Active Member,Medium,6,5,,Active,Prof. Sharma
+319,Coding Club,Technical,2025-08-28,Active Member,High,10,7,,Active,Prof. Gupta
+319,Debating Society,Cultural,2025-08-12,Member,Low,2,1,Participation Certificate,Active,Prof. Gupta
+319,Yoga Club,Other,2025-08-15,Core Team,High,6,7,Participation Certificate,Active,Prof. Reddy
+320,Kabaddi Team,Sports,2025-08-06,Active Member,Medium,4,2,,Active,Prof. Sharma
+320,Coding Club,Technical,2025-08-21,Member,Medium,6,4,,Active,Prof. Gupta
+320,NSS (National Service Scheme),Social,2025-08-21,Member,Medium,6,3,,Active,Prof. Reddy
+321,Entrepreneurship Cell,Academic,2025-08-15,Core Team,High,7,5,Participation Certificate,Active,Prof. Reddy
+321,Environmental Club,Social,2025-08-29,Member,Low,2,2,,Inactive,Prof. Mehta
+321,Fitness Club,Other,2025-08-23,Member,Medium,6,4,,Active,Prof. Reddy
+323,College Magazine,Other,2025-08-29,Member,Low,2,1,Best Performer Award,Inactive,Prof. Mehta
+323,IoT Club,Technical,2025-08-17,Member,Medium,4,2,Best Performer Award,Active,Prof. Sharma
+324,Data Science Club,Technical,2025-08-17,Core Team,Very High,10,13,,Active,Prof. Sharma
+324,Placement Cell,Other,2025-08-31,President/Head,Very High,15,12,,Active,Prof. Mehta
+326,College Magazine,Other,2025-08-30,Core Team,High,7,5,,Inactive,Prof. Sharma
+326,Cricket Team,Sports,2025-08-19,Active Member,High,10,8,,Active,Prof. Sharma
+327,Hockey Team,Sports,2025-08-03,Member,High,6,5,,Active,Prof. Gupta
+331,Chess Club,Sports,2025-08-06,Active Member,Medium,5,3,,Active,Prof. Sharma
+331,Event Management Team,Other,2025-08-18,Member,High,6,10,,Inactive,Prof. Sharma
+331,Science Club,Academic,2025-08-05,Member,High,6,9,,Inactive,Prof. Mehta
+333,Literary Club,Cultural,2025-08-24,Coordinator,Very High,13,19,Winner - Intra College Competition,Inactive,Prof. Mehta
+334,NCC (National Cadet Corps),Social,2025-08-27,Member,Medium,3,5,,Active,Prof. Reddy
+335,Student Council,Other,2025-08-31,Member,Medium,3,2,,Active,Prof. Gupta
+336,Basketball Team,Sports,2025-08-02,Core Team,High,7,5,,Active,Prof. Gupta
+336,Photography Club,Cultural,2025-08-19,Member,Medium,6,5,Best Performer Award,Active,Prof. Sharma
+336,Placement Cell,Other,2025-08-07,Member,Low,1,1,,Active,Prof. Sharma
+337,Paper Presentation Team,Academic,2025-08-18,Member,Medium,3,3,,Active,Prof. Sharma
+337,Robotics Club,Technical,2025-08-24,Active Member,High,10,6,,Active,Prof. Sharma
+337,Event Management Team,Other,2025-08-21,Member,Low,1,1,,Active,Prof. Sharma
+337,NCC (National Cadet Corps),Social,2025-08-12,Active Member,High,6,7,,Active,Prof. Sharma
+338,Entrepreneurship Cell,Academic,2025-08-31,Active Member,High,9,6,,Active,Prof. Sharma
+338,NCC (National Cadet Corps),Social,2025-08-20,Member,High,6,6,Winner - Intra College Competition,Active,Prof. Reddy
+339,Red Cross,Social,2025-08-29,Member,Medium,4,3,,Active,Prof. Mehta
+339,Dance Club,Cultural,2025-08-27,Active Member,High,6,9,,Active,Prof. Gupta
+340,Quiz Club,Academic,2025-08-31,Active Member,High,6,5,,Active,Prof. Mehta
+340,Film Making Club,Cultural,2025-08-19,Member,High,9,7,,Active,Prof. Reddy
+340,Coding Club,Technical,2025-08-05,Member,Low,2,2,,Active,Prof. Reddy
+340,NCC (National Cadet Corps),Social,2025-08-22,Member,Low,2,0,,Active,Prof. Reddy
+344,Science Club,Academic,2025-08-31,Core Team,High,8,6,,Active,Prof. Gupta
+346,Dance Club,Cultural,2025-08-15,Core Team,High,6,8,,Active,Prof. Gupta
+346,Alumni Relations,Other,2025-08-23,Active Member,Medium,6,3,,Active,Prof. Sharma
+347,Environmental Club,Social,2025-08-05,Active Member,High,8,8,,Inactive,Prof. Gupta
+347,Student Council,Other,2025-08-13,Core Team,High,8,6,,Active,Prof. Sharma
+350,Football Team,Sports,2025-08-03,Member,High,10,5,,Inactive,Prof. Reddy
+350,Photography Club,Cultural,2025-08-20,Active Member,High,10,9,,Active,Prof. Mehta
+350,Science Club,Academic,2025-08-20,Active Member,High,10,9,Best Performer Award,Active,Prof. Reddy
+351,Coding Club,Technical,2025-08-24,Core Team,High,9,7,Participation Certificate,Active,Prof. Sharma
+353,Entrepreneurship Cell,Academic,2025-08-05,Member,High,9,5,,Active,Prof. Gupta
+354,Student Council,Other,2025-08-18,Active Member,Medium,5,4,,Active,Prof. Sharma
+354,NSS (National Service Scheme),Social,2025-08-29,Active Member,Medium,6,5,,Active,Prof. Reddy
+354,Research Club,Academic,2025-08-30,Member,Low,3,1,Best Performer Award,Active,Prof. Gupta
+356,Kabaddi Team,Sports,2025-08-09,Core Team,Very High,11,10,,Active,Prof. Sharma
+357,Web Development Club,Technical,2025-08-23,Active Member,High,6,10,,Active,Prof. Reddy
+357,Fine Arts Club,Cultural,2025-08-07,Member,High,8,10,Winner - Inter College Competition,Active,Prof. Reddy
+357,Mathematics Club,Academic,2025-08-13,Member,High,8,5,,Active,Prof. Mehta
+358,Athletics Team,Sports,2025-08-23,Core Team,High,10,5,Best Performer Award,Active,Prof. Reddy
+361,Dance Club,Cultural,2025-08-12,Member,Low,2,0,,Inactive,Prof. Gupta
+361,Volleyball Team,Sports,2025-08-29,Active Member,Medium,4,2,,Active,Prof. Mehta
+361,Fitness Club,Other,2025-08-12,Coordinator,Very High,12,12,Participation Certificate,Active,Prof. Mehta
+363,Literary Club,Cultural,2025-08-08,Active Member,Medium,6,4,Certificate of Excellence,Active,Prof. Sharma
+363,Quiz Club,Academic,2025-08-19,Active Member,Medium,5,2,Winner - Intra College Competition,Inactive,Prof. Sharma
+364,NSS (National Service Scheme),Social,2025-08-27,Member,Low,2,1,Participation Certificate,Inactive,Prof. Sharma
+365,Hackathon Team,Technical,2025-08-30,Member,Medium,3,2,,Active,Prof. Gupta
+367,Quiz Club,Academic,2025-08-07,Active Member,High,10,9,,Active,Prof. Reddy
+369,Entrepreneurship Cell,Academic,2025-08-28,Active Member,High,7,7,,Inactive,Prof. Mehta
+369,Basketball Team,Sports,2025-08-26,President/Head,Very High,11,12,,Active,Prof. Reddy
+369,Red Cross,Social,2025-08-16,Member,Low,1,1,,Active,Prof. Mehta
+372,Data Science Club,Technical,2025-08-22,Member,Medium,3,4,Best Performer Award,Inactive,Prof. Reddy
+372,Mathematics Club,Academic,2025-08-22,Member,High,9,5,,Inactive,Prof. Reddy
+372,Athletics Team,Sports,2025-08-19,Core Team,High,10,7,,Inactive,Prof. Reddy
+373,Web Development Club,Technical,2025-08-10,Member,High,9,9,,Active,Prof. Gupta
+375,Blood Donation Team,Social,2025-08-28,Active Member,High,9,10,,Active,Prof. Reddy
+377,IoT Club,Technical,2025-08-10,Member,Medium,4,3,,Active,Prof. Mehta
+377,Debating Society,Cultural,2025-08-30,Coordinator,Very High,13,11,,Active,Prof. Mehta
+377,NSS (National Service Scheme),Social,2025-08-07,Member,Medium,6,4,,Active,Prof. Gupta
+378,Chess Club,Sports,2025-08-28,Member,Low,2,1,,Inactive,Prof. Sharma
+378,NCC (National Cadet Corps),Social,2025-08-29,Member,Medium,5,5,,Inactive,Prof. Mehta
+381,Drama Club,Cultural,2025-08-13,Member,Medium,5,3,Best Performer Award,Active,Prof. Mehta
+381,Chess Club,Sports,2025-08-11,Core Team,Very High,12,19,,Active,Prof. Gupta
+381,NCC (National Cadet Corps),Social,2025-08-20,Core Team,Very High,11,12,,Active,Prof. Reddy
+382,Literary Club,Cultural,2025-08-03,President/Head,Very High,13,20,,Active,Prof. Sharma
+382,Quiz Club,Academic,2025-08-16,Coordinator,Very High,14,10,,Inactive,Prof. Reddy
+382,Table Tennis Club,Sports,2025-08-29,Member,Low,2,0,,Inactive,Prof. Sharma
+382,Placement Cell,Other,2025-08-05,Member,High,7,6,,Inactive,Prof. Sharma
+383,Entrepreneurship Cell,Academic,2025-08-12,Member,High,6,9,,Active,Prof. Mehta
+383,Kabaddi Team,Sports,2025-08-05,Active Member,High,10,8,Winner - Intra College Competition,Active,Prof. Gupta
+383,Debating Society,Cultural,2025-08-25,Member,Low,3,0,,Active,Prof. Reddy
+384,Hockey Team,Sports,2025-08-17,Member,Medium,6,4,,Active,Prof. Mehta
+384,Debating Society,Cultural,2025-08-27,Member,Low,2,1,,Active,Prof. Mehta
+385,Fitness Club,Other,2025-08-25,Member,Low,2,2,Participation Certificate,Active,Prof. Sharma
+385,Debating Society,Cultural,2025-08-30,Member,Low,3,2,,Active,Prof. Gupta
+385,NSS (National Service Scheme),Social,2025-08-09,Member,Low,3,2,,Active,Prof. Reddy
+387,Rotaract Club,Social,2025-08-18,Member,High,9,7,,Active,Prof. Reddy
+387,Badminton Club,Sports,2025-08-15,Active Member,Medium,4,2,,Active,Prof. Sharma
+387,Mathematics Club,Academic,2025-08-04,Active Member,High,7,6,,Active,Prof. Gupta
+389,Red Cross,Social,2025-08-18,Active Member,Medium,6,2,,Active,Prof. Sharma
+389,Chess Club,Sports,2025-08-11,Active Member,Medium,6,4,Best Performer Award,Active,Prof. Reddy
+391,Drama Club,Cultural,2025-08-28,Member,Low,1,0,,Active,Prof. Sharma
+393,Photography Club,Cultural,2025-08-21,Member,Low,1,1,,Active,Prof. Gupta
+393,Event Management Team,Other,2025-08-23,Member,High,9,5,Certificate of Excellence,Active,Prof. Mehta
+394,Drama Club,Cultural,2025-08-23,Member,Medium,6,2,,Active,Prof. Reddy
+394,Kabaddi Team,Sports,2025-08-08,President/Head,Very High,11,17,Best Performer Award,Active,Prof. Sharma
+395,College Magazine,Other,2025-08-20,Active Member,High,6,9,,Active,Prof. Reddy
+397,Fine Arts Club,Cultural,2025-08-03,Core Team,Very High,12,13,Winner - Intra College Competition,Active,Prof. Sharma
+398,Data Science Club,Technical,2025-08-18,Member,Medium,5,2,Certificate of Excellence,Inactive,Prof. Mehta
+399,Hockey Team,Sports,2025-08-19,Member,Medium,6,4,,Active,Prof. Sharma
+399,Quiz Club,Academic,2025-08-16,Member,Medium,3,4,,Active,Prof. Mehta
+400,Music Club,Cultural,2025-08-05,Member,Low,3,1,,Inactive,Prof. Reddy
+402,Kabaddi Team,Sports,2025-08-30,Member,Medium,3,3,,Active,Prof. Reddy
+402,Film Making Club,Cultural,2025-08-03,Member,Medium,4,4,,Active,Prof. Reddy
+403,Volleyball Team,Sports,2025-08-09,Member,Medium,5,4,Certificate of Excellence,Active,Prof. Mehta
+403,College Magazine,Other,2025-08-04,Member,Medium,4,5,,Active,Prof. Sharma
+403,Quiz Club,Academic,2025-08-17,Member,High,7,9,,Active,Prof. Sharma
+403,Music Club,Cultural,2025-08-17,Member,Low,2,0,,Active,Prof. Sharma
+404,Entrepreneurship Cell,Academic,2025-08-09,President/Head,Very High,11,10,,Active,Prof. Reddy
+406,Volleyball Team,Sports,2025-08-29,Active Member,Medium,5,3,Participation Certificate,Active,Prof. Reddy
+406,Paper Presentation Team,Academic,2025-08-21,Member,Low,1,1,Winner - Intra College Competition,Active,Prof. Gupta
+406,Yoga Club,Other,2025-08-27,Member,Medium,4,3,,Active,Prof. Reddy
+408,Table Tennis Club,Sports,2025-08-30,Member,High,8,5,,Inactive,Prof. Gupta
+408,Research Club,Academic,2025-08-03,Active Member,Medium,6,5,,Active,Prof. Mehta
+408,Drama Club,Cultural,2025-08-28,Member,Medium,5,5,,Active,Prof. Mehta
+411,Athletics Team,Sports,2025-08-27,Active Member,Medium,3,3,,Active,Prof. Mehta
+413,Entrepreneurship Cell,Academic,2025-08-20,Member,Medium,4,5,Participation Certificate,Active,Prof. Mehta
+416,Chess Club,Sports,2025-08-10,Member,Medium,3,2,,Active,Prof. Sharma
+417,NSS (National Service Scheme),Social,2025-08-02,Active Member,High,10,9,,Active,Prof. Reddy
+417,Fitness Club,Other,2025-08-18,Member,High,6,10,,Active,Prof. Sharma
+419,Placement Cell,Other,2025-08-16,Coordinator,Very High,11,17,,Active,Prof. Sharma
+419,Kabaddi Team,Sports,2025-08-25,Member,High,9,8,,Active,Prof. Gupta
+419,NSS (National Service Scheme),Social,2025-08-06,Member,High,9,5,,Inactive,Prof. Reddy
+419,Science Club,Academic,2025-08-14,Member,Medium,3,2,,Active,Prof. Gupta
+422,Placement Cell,Other,2025-08-13,Member,Low,3,1,,Active,Prof. Reddy
+423,Entrepreneurship Cell,Academic,2025-08-12,Member,Low,2,2,,Inactive,Prof. Reddy
+423,Cricket Team,Sports,2025-08-18,Member,Medium,5,5,,Inactive,Prof. Sharma
+423,Environmental Club,Social,2025-08-05,Member,Low,1,1,,Active,Prof. Sharma
+424,NCC (National Cadet Corps),Social,2025-08-17,Member,Medium,5,5,,Active,Prof. Mehta
+424,Chess Club,Sports,2025-08-22,Active Member,Medium,5,4,,Active,Prof. Reddy
+424,Placement Cell,Other,2025-08-28,Coordinator,Very High,15,17,,Active,Prof. Sharma
+425,Drama Club,Cultural,2025-08-02,Active Member,High,6,6,,Active,Prof. Gupta
+426,Music Club,Cultural,2025-08-22,Member,Medium,5,2,Certificate of Excellence,Active,Prof. Sharma
+427,Film Making Club,Cultural,2025-08-26,President/Head,Very High,15,18,Winner - Intra College Competition,Active,Prof. Mehta
+427,NCC (National Cadet Corps),Social,2025-08-26,President/Head,Very High,13,13,,Active,Prof. Mehta
+428,Mathematics Club,Academic,2025-08-23,Member,Low,3,1,,Active,Prof. Gupta
+428,Fine Arts Club,Cultural,2025-08-12,Member,Low,1,1,,Active,Prof. Sharma
+430,NSS (National Service Scheme),Social,2025-08-06,Member,Low,3,1,,Active,Prof. Mehta
+430,AI/ML Club,Technical,2025-08-14,Member,Medium,6,4,Winner - Inter College Competition,Active,Prof. Gupta
+430,Football Team,Sports,2025-08-20,Active Member,High,10,7,,Active,Prof. Gupta
+435,Fitness Club,Other,2025-08-30,Member,Medium,6,4,,Active,Prof. Gupta
+436,AI/ML Club,Technical,2025-08-15,Coordinator,Very High,11,15,Winner - Inter College Competition,Active,Prof. Gupta
+436,Placement Cell,Other,2025-08-24,Member,Low,3,1,,Active,Prof. Mehta
+437,Kabaddi Team,Sports,2025-08-11,Member,High,10,9,,Inactive,Prof. Sharma
+439,Alumni Relations,Other,2025-08-22,Active Member,High,9,5,,Active,Prof. Sharma
+439,Music Club,Cultural,2025-08-09,Member,Medium,3,4,,Active,Prof. Reddy
+441,Music Club,Cultural,2025-08-15,Member,Medium,3,5,,Active,Prof. Sharma
+442,AI/ML Club,Technical,2025-08-29,Member,Low,2,2,,Active,Prof. Reddy
+442,Alumni Relations,Other,2025-08-31,Core Team,Very High,13,11,,Active,Prof. Mehta
+442,NSS (National Service Scheme),Social,2025-08-30,Member,Medium,3,4,,Active,Prof. Reddy
+443,Yoga Club,Other,2025-08-05,Member,High,6,10,Best Performer Award,Active,Prof. Gupta
+443,Hockey Team,Sports,2025-08-26,Core Team,Very High,13,14,,Active,Prof. Sharma
+444,Alumni Relations,Other,2025-08-08,Member,Low,2,0,,Active,Prof. Reddy
+445,Badminton Club,Sports,2025-08-07,Member,High,6,7,,Active,Prof. Mehta
+445,Research Club,Academic,2025-08-16,Member,Medium,5,2,,Active,Prof. Mehta
+446,Robotics Club,Technical,2025-08-22,Core Team,Very High,14,15,Participation Certificate,Active,Prof. Mehta
+447,Football Team,Sports,2025-08-06,Member,Medium,6,2,,Active,Prof. Reddy
+448,Basketball Team,Sports,2025-08-12,Core Team,Very High,15,15,,Active,Prof. Mehta
+448,Alumni Relations,Other,2025-08-18,Core Team,High,8,8,,Inactive,Prof. Gupta
+449,Literary Club,Cultural,2025-08-17,Member,Low,1,0,,Active,Prof. Sharma
+449,Blood Donation Team,Social,2025-08-17,Core Team,High,7,7,,Active,Prof. Reddy
+449,Paper Presentation Team,Academic,2025-08-20,Active Member,High,8,6,,Active,Prof. Gupta
+450,College Magazine,Other,2025-08-09,Member,Low,3,2,,Active,Prof. Sharma
+450,Chess Club,Sports,2025-08-17,Member,Medium,5,4,,Active,Prof. Sharma
+451,Fitness Club,Other,2025-08-07,Member,High,6,10,,Active,Prof. Gupta
+451,Photography Club,Cultural,2025-08-25,Member,Medium,3,4,,Active,Prof. Sharma
+452,Red Cross,Social,2025-08-19,Active Member,Medium,4,5,,Active,Prof. Reddy
+452,Basketball Team,Sports,2025-08-12,Member,Low,3,2,,Active,Prof. Reddy
+452,Robotics Club,Technical,2025-08-08,Member,Low,1,2,,Active,Prof. Gupta
+455,Event Management Team,Other,2025-08-27,Member,Medium,3,5,,Active,Prof. Sharma
+455,Table Tennis Club,Sports,2025-08-08,Member,Low,3,0,,Active,Prof. Mehta
+455,Cybersecurity Club,Technical,2025-08-14,Member,Medium,3,3,Best Performer Award,Active,Prof. Reddy
+456,IoT Club,Technical,2025-08-02,Member,Low,2,2,,Active,Prof. Mehta
+457,Kabaddi Team,Sports,2025-08-06,Core Team,High,6,8,,Active,Prof. Reddy
+458,Film Making Club,Cultural,2025-08-05,Active Member,Medium,5,5,,Active,Prof. Reddy
+459,Robotics Club,Technical,2025-08-09,Core Team,High,10,5,,Active,Prof. Sharma
+459,Basketball Team,Sports,2025-08-05,Member,Medium,6,4,,Active,Prof. Mehta
+459,Drama Club,Cultural,2025-08-06,Member,Medium,5,5,,Active,Prof. Gupta
+461,Yoga Club,Other,2025-08-13,Core Team,High,7,9,Winner - Inter College Competition,Active,Prof. Reddy
+461,Quiz Club,Academic,2025-08-05,Member,Medium,5,2,Winner - Intra College Competition,Active,Prof. Mehta
+462,Football Team,Sports,2025-08-13,Member,Low,1,2,,Active,Prof. Reddy
+463,Athletics Team,Sports,2025-08-11,Member,Medium,4,5,,Active,Prof. Gupta
+464,Drama Club,Cultural,2025-08-06,Member,High,6,9,,Active,Prof. Gupta
+464,Entrepreneurship Cell,Academic,2025-08-10,Coordinator,Very High,13,15,,Active,Prof. Mehta
+464,Robotics Club,Technical,2025-08-28,Active Member,High,7,9,,Active,Prof. Gupta
+464,Fitness Club,Other,2025-08-08,Member,Low,2,1,,Active,Prof. Mehta
+465,NSS (National Service Scheme),Social,2025-08-30,Core Team,High,8,5,,Active,Prof. Sharma
+467,Volleyball Team,Sports,2025-08-09,President/Head,Very High,14,12,,Active,Prof. Mehta
+467,Research Club,Academic,2025-08-21,Core Team,Very High,12,18,Winner - Intra College Competition,Active,Prof. Gupta
+467,Coding Club,Technical,2025-08-23,Member,Medium,3,3,Certificate of Excellence,Active,Prof. Mehta
+467,Debating Society,Cultural,2025-08-10,Active Member,High,10,6,Participation Certificate,Active,Prof. Sharma
+468,Event Management Team,Other,2025-08-19,Member,Medium,4,5,,Active,Prof. Gupta
+469,Chess Club,Sports,2025-08-17,Coordinator,Very High,15,11,Certificate of Excellence,Active,Prof. Reddy
+469,Coding Club,Technical,2025-08-23,Member,Low,2,1,,Active,Prof. Gupta
+469,Film Making Club,Cultural,2025-08-13,Active Member,Medium,4,2,Participation Certificate,Active,Prof. Sharma
+471,Coding Club,Technical,2025-08-27,Active Member,High,8,10,,Active,Prof. Sharma
+471,Event Management Team,Other,2025-08-29,Active Member,Medium,3,3,,Active,Prof. Gupta
+472,Dance Club,Cultural,2025-08-02,Active Member,High,7,10,,Active,Prof. Mehta
+472,Data Science Club,Technical,2025-08-12,Member,Medium,5,3,Winner - Inter College Competition,Active,Prof. Mehta
+472,NSS (National Service Scheme),Social,2025-08-22,Active Member,Medium,3,2,,Active,Prof. Mehta
+472,Kabaddi Team,Sports,2025-08-25,Member,Medium,3,4,Certificate of Excellence,Active,Prof. Sharma
+473,Fitness Club,Other,2025-08-16,Active Member,Medium,4,2,,Active,Prof. Mehta
+473,AI/ML Club,Technical,2025-08-11,Active Member,Medium,5,2,Best Performer Award,Inactive,Prof. Reddy
+473,Science Club,Academic,2025-08-23,Member,Medium,5,2,Certificate of Excellence,Active,Prof. Sharma
+473,NCC (National Cadet Corps),Social,2025-08-10,Member,Low,2,1,,Active,Prof. Reddy
+474,IoT Club,Technical,2025-08-20,Member,Medium,5,5,,Active,Prof. Mehta
+478,Film Making Club,Cultural,2025-08-28,Member,Low,1,1,,Active,Prof. Gupta
+479,College Magazine,Other,2025-08-28,Member,Low,1,2,,Active,Prof. Gupta
+479,Basketball Team,Sports,2025-08-04,Member,Medium,5,3,,Active,Prof. Sharma
+479,Coding Club,Technical,2025-08-06,Member,Low,3,1,Certificate of Excellence,Inactive,Prof. Gupta
+480,Alumni Relations,Other,2025-08-29,Active Member,High,6,6,Certificate of Excellence,Inactive,Prof. Reddy
+480,Environmental Club,Social,2025-08-17,Member,Low,2,0,,Active,Prof. Gupta
+480,Research Club,Academic,2025-08-10,Member,Low,1,2,,Active,Prof. Sharma
+483,AI/ML Club,Technical,2025-08-14,Member,High,7,7,,Inactive,Prof. Gupta
+483,Drama Club,Cultural,2025-08-31,Active Member,High,9,9,,Active,Prof. Sharma
+483,NCC (National Cadet Corps),Social,2025-08-09,Active Member,High,7,10,,Inactive,Prof. Gupta
+483,Yoga Club,Other,2025-08-29,Member,Low,2,2,,Active,Prof. Sharma
+484,Football Team,Sports,2025-08-27,Member,Low,2,1,,Active,Prof. Mehta
+484,Event Management Team,Other,2025-08-03,Member,Medium,4,3,,Active,Prof. Sharma
+485,Rotaract Club,Social,2025-08-28,Member,Low,3,2,,Active,Prof. Reddy
+488,Badminton Club,Sports,2025-08-19,Member,Medium,6,5,,Active,Prof. Mehta
+488,NSS (National Service Scheme),Social,2025-08-21,Member,Medium,6,4,,Active,Prof. Gupta
+488,Paper Presentation Team,Academic,2025-08-21,Member,Medium,3,5,,Active,Prof. Mehta
+489,Data Science Club,Technical,2025-08-15,Member,Medium,3,2,,Active,Prof. Mehta
+489,Red Cross,Social,2025-08-30,Member,Low,2,1,,Inactive,Prof. Mehta
+490,Athletics Team,Sports,2025-08-19,Active Member,Medium,4,5,,Active,Prof. Sharma
+490,Photography Club,Cultural,2025-08-25,Active Member,High,6,5,,Active,Prof. Gupta
+491,Data Science Club,Technical,2025-08-27,Member,High,7,6,,Active,Prof. Sharma
+491,Music Club,Cultural,2025-08-13,Active Member,Medium,5,3,,Active,Prof. Mehta
+491,Innovation Club,Academic,2025-08-13,Member,High,6,8,,Inactive,Prof. Mehta
+492,Basketball Team,Sports,2025-08-12,Active Member,Medium,3,2,,Active,Prof. Mehta
+493,Film Making Club,Cultural,2025-08-14,Member,Medium,5,3,,Active,Prof. Gupta
+493,Yoga Club,Other,2025-08-05,Member,High,8,9,,Active,Prof. Reddy
+493,NCC (National Cadet Corps),Social,2025-08-29,Member,High,8,9,,Active,Prof. Mehta
+494,Basketball Team,Sports,2025-08-15,Member,Low,2,2,,Active,Prof. Sharma
+495,Research Club,Academic,2025-08-24,Member,Medium,5,3,Certificate of Excellence,Active,Prof. Reddy
+495,Rotaract Club,Social,2025-08-29,Member,Medium,3,5,,Active,Prof. Gupta
+496,Drama Club,Cultural,2025-08-24,Member,High,7,8,,Active,Prof. Sharma
+496,Entrepreneurship Cell,Academic,2025-08-17,Member,Low,2,2,,Active,Prof. Sharma
+496,Cybersecurity Club,Technical,2025-08-25,Active Member,High,9,6,,Active,Prof. Gupta
+497,Quiz Club,Academic,2025-08-26,Active Member,Medium,4,5,,Active,Prof. Mehta
+497,Coding Club,Technical,2025-08-23,Member,Low,3,2,,Active,Prof. Mehta
+498,Yoga Club,Other,2025-08-15,Member,Medium,4,2,,Active,Prof. Gupta
+498,Blood Donation Team,Social,2025-08-12,Member,Low,2,1,,Active,Prof. Reddy
+500,Photography Club,Cultural,2025-08-27,Active Member,Medium,3,5,,Active,Prof. Sharma
+500,Research Club,Academic,2025-08-16,Member,Low,1,0,,Active,Prof. Reddy
+502,Research Club,Academic,2025-08-19,Member,Medium,4,4,Best Performer Award,Inactive,Prof. Reddy
+502,NCC (National Cadet Corps),Social,2025-08-29,Active Member,High,7,8,,Active,Prof. Sharma
+503,Data Science Club,Technical,2025-08-02,Active Member,High,8,7,Winner - Inter College Competition,Active,Prof. Sharma
+503,Fitness Club,Other,2025-08-26,Active Member,Medium,5,5,,Active,Prof. Sharma
+506,College Magazine,Other,2025-08-02,Core Team,High,8,7,Best Performer Award,Active,Prof. Reddy
+506,Cybersecurity Club,Technical,2025-08-17,Member,Low,1,1,,Active,Prof. Mehta
+508,Mathematics Club,Academic,2025-08-26,Active Member,Medium,5,3,,Inactive,Prof. Gupta
+510,Dance Club,Cultural,2025-08-14,Member,High,6,9,,Active,Prof. Reddy
+510,Research Club,Academic,2025-08-19,Member,Low,3,2,,Active,Prof. Gupta
+512,Dance Club,Cultural,2025-08-20,President/Head,Very High,14,13,,Active,Prof. Reddy
+512,IoT Club,Technical,2025-08-26,Coordinator,Very High,11,17,,Active,Prof. Gupta
+512,NSS (National Service Scheme),Social,2025-08-09,Active Member,Medium,6,2,,Active,Prof. Reddy
+514,Chess Club,Sports,2025-08-05,Active Member,High,10,6,,Active,Prof. Gupta
+514,Fine Arts Club,Cultural,2025-08-14,Member,High,9,7,Participation Certificate,Active,Prof. Reddy
+514,NSS (National Service Scheme),Social,2025-08-29,Active Member,High,9,9,,Active,Prof. Mehta
+515,Student Council,Other,2025-08-09,Member,Medium,3,3,,Active,Prof. Reddy
+515,Environmental Club,Social,2025-08-09,Member,Low,1,0,,Inactive,Prof. Mehta
+516,Event Management Team,Other,2025-08-11,Member,Low,3,0,,Active,Prof. Gupta
+518,Event Management Team,Other,2025-08-25,Core Team,High,8,6,,Active,Prof. Sharma
+518,Debating Society,Cultural,2025-08-14,Active Member,High,9,5,,Active,Prof. Gupta
+521,Fitness Club,Other,2025-08-09,Member,Low,3,2,,Inactive,Prof. Gupta
+521,Robotics Club,Technical,2025-08-27,Member,Low,1,2,,Active,Prof. Gupta
+521,Science Club,Academic,2025-08-30,Member,Medium,4,5,Participation Certificate,Active,Prof. Reddy
+521,Drama Club,Cultural,2025-08-10,Active Member,High,6,8,,Active,Prof. Reddy
+523,Rotaract Club,Social,2025-08-04,Core Team,High,9,10,,Active,Prof. Reddy
+524,Dance Club,Cultural,2025-08-25,Core Team,High,8,7,,Active,Prof. Sharma
+524,Kabaddi Team,Sports,2025-08-29,Member,High,9,9,,Active,Prof. Gupta
+524,IoT Club,Technical,2025-08-28,Core Team,Very High,13,15,,Inactive,Prof. Gupta
+524,Yoga Club,Other,2025-08-10,Member,Low,2,1,,Active,Prof. Mehta
+526,Quiz Club,Academic,2025-08-31,Member,High,9,10,,Active,Prof. Reddy
+526,Fitness Club,Other,2025-08-15,Member,High,9,5,,Active,Prof. Gupta
+527,Science Club,Academic,2025-08-15,Core Team,Very High,11,13,,Active,Prof. Gupta
+527,Robotics Club,Technical,2025-08-25,Core Team,Very High,10,16,,Active,Prof. Mehta
+528,Football Team,Sports,2025-08-11,Member,Medium,5,4,Best Performer Award,Active,Prof. Gupta
+528,Music Club,Cultural,2025-08-11,Member,Low,3,1,,Active,Prof. Gupta
+529,AI/ML Club,Technical,2025-08-14,Member,Medium,4,3,,Active,Prof. Reddy
+530,Literary Club,Cultural,2025-08-10,Active Member,High,8,8,,Active,Prof. Sharma
+530,Web Development Club,Technical,2025-08-30,Core Team,Very High,13,11,,Active,Prof. Gupta
+533,Yoga Club,Other,2025-08-21,Core Team,Very High,10,13,,Inactive,Prof. Sharma
+533,Red Cross,Social,2025-08-23,Member,Medium,3,4,Participation Certificate,Active,Prof. Mehta
+533,Chess Club,Sports,2025-08-07,Active Member,High,7,8,,Inactive,Prof. Mehta
+533,Literary Club,Cultural,2025-08-26,Active Member,High,10,6,,Active,Prof. Gupta
+534,Paper Presentation Team,Academic,2025-08-20,Member,Low,2,1,,Active,Prof. Gupta
+534,Football Team,Sports,2025-08-09,Core Team,Very High,10,13,,Active,Prof. Sharma
+534,Drama Club,Cultural,2025-08-28,Member,Medium,4,3,Winner - Intra College Competition,Active,Prof. Sharma
+536,Entrepreneurship Cell,Academic,2025-08-23,Member,Medium,6,5,,Active,Prof. Sharma
+537,Badminton Club,Sports,2025-08-07,Member,Medium,3,2,,Active,Prof. Mehta
+539,Literary Club,Cultural,2025-08-11,Member,High,10,6,,Active,Prof. Gupta
+539,Rotaract Club,Social,2025-08-27,Active Member,High,10,5,,Active,Prof. Reddy
+541,Yoga Club,Other,2025-08-22,Member,Medium,5,4,Best Performer Award,Active,Prof. Sharma
+543,Music Club,Cultural,2025-08-04,Member,Low,1,2,,Active,Prof. Sharma
+543,Mathematics Club,Academic,2025-08-05,Member,High,9,5,,Active,Prof. Mehta
+543,Hockey Team,Sports,2025-08-23,Member,Medium,3,4,,Active,Prof. Reddy
+544,Blood Donation Team,Social,2025-08-31,Member,Medium,4,3,,Active,Prof. Reddy
+545,Table Tennis Club,Sports,2025-08-27,Active Member,High,10,9,,Active,Prof. Mehta
+546,Alumni Relations,Other,2025-08-06,Member,High,7,5,,Inactive,Prof. Mehta
+547,Cricket Team,Sports,2025-08-27,Member,High,8,7,Winner - Inter College Competition,Inactive,Prof. Gupta
+547,Yoga Club,Other,2025-08-27,Member,Low,1,0,,Active,Prof. Gupta
+548,Kabaddi Team,Sports,2025-08-29,Member,Medium,3,5,,Active,Prof. Sharma
+549,AI/ML Club,Technical,2025-08-24,Member,Medium,4,3,,Inactive,Prof. Sharma
+549,NSS (National Service Scheme),Social,2025-08-30,Core Team,Very High,13,12,,Active,Prof. Reddy
+550,AI/ML Club,Technical,2025-08-22,Member,Medium,3,5,,Active,Prof. Gupta
+550,Quiz Club,Academic,2025-08-22,Active Member,High,8,6,Winner - Inter College Competition,Active,Prof. Gupta
+551,Quiz Club,Academic,2025-08-08,Member,High,10,8,,Active,Prof. Mehta
+551,Fine Arts Club,Cultural,2025-08-07,Member,Medium,6,3,,Active,Prof. Gupta
+551,AI/ML Club,Technical,2025-08-17,Member,High,9,8,,Active,Prof. Sharma
+552,NCC (National Cadet Corps),Social,2025-08-30,Active Member,Medium,3,5,,Active,Prof. Sharma
+555,Table Tennis Club,Sports,2025-08-15,Member,Medium,4,5,,Active,Prof. Sharma
+556,Mathematics Club,Academic,2025-08-24,Member,Medium,5,5,,Inactive,Prof. Gupta
+557,Alumni Relations,Other,2025-08-04,Coordinator,Very High,14,19,,Active,Prof. Sharma
+558,Mathematics Club,Academic,2025-08-11,Member,Low,3,0,,Active,Prof. Mehta
+559,Entrepreneurship Cell,Academic,2025-08-05,Member,Low,3,2,,Active,Prof. Mehta
+561,Music Club,Cultural,2025-08-17,Active Member,Medium,6,4,,Active,Prof. Sharma
+565,Event Management Team,Other,2025-08-12,Core Team,High,7,5,,Active,Prof. Gupta
+565,Paper Presentation Team,Academic,2025-08-06,Member,Medium,4,3,,Active,Prof. Mehta
+565,Robotics Club,Technical,2025-08-21,Member,Low,2,0,Winner - Intra College Competition,Active,Prof. Sharma
+566,Kabaddi Team,Sports,2025-08-24,Member,High,7,7,,Active,Prof. Mehta
+566,Cybersecurity Club,Technical,2025-08-19,Member,Low,2,1,Certificate of Excellence,Active,Prof. Reddy
+566,Mathematics Club,Academic,2025-08-19,Member,Medium,6,4,,Active,Prof. Gupta
+567,NCC (National Cadet Corps),Social,2025-08-05,Member,High,7,6,,Active,Prof. Gupta
+568,AI/ML Club,Technical,2025-08-30,Member,Medium,3,2,,Active,Prof. Reddy
+568,College Magazine,Other,2025-08-29,Active Member,High,6,10,,Active,Prof. Mehta
+568,NCC (National Cadet Corps),Social,2025-08-13,Member,Medium,5,3,Winner - Intra College Competition,Active,Prof. Sharma
+569,NSS (National Service Scheme),Social,2025-08-21,Member,Low,2,1,,Active,Prof. Gupta
+569,Data Science Club,Technical,2025-08-12,Member,Low,2,0,,Active,Prof. Reddy
+570,Football Team,Sports,2025-08-29,Active Member,High,8,5,,Active,Prof. Reddy
+570,AI/ML Club,Technical,2025-08-21,Core Team,Very High,12,20,,Active,Prof. Mehta
+571,Hockey Team,Sports,2025-08-31,Member,Medium,3,3,,Active,Prof. Mehta
+571,College Magazine,Other,2025-08-22,Member,Low,3,1,,Active,Prof. Mehta
+572,Alumni Relations,Other,2025-08-24,Member,Low,1,0,,Active,Prof. Sharma
+572,Literary Club,Cultural,2025-08-19,Member,High,9,7,,Active,Prof. Sharma
+573,Fine Arts Club,Cultural,2025-08-11,President/Head,Very High,13,14,,Active,Prof. Gupta
+573,Innovation Club,Academic,2025-08-13,Member,Low,1,2,,Active,Prof. Reddy
+573,Blood Donation Team,Social,2025-08-26,Member,Medium,4,3,Winner - Inter College Competition,Active,Prof. Sharma
+574,NSS (National Service Scheme),Social,2025-08-31,Member,Low,3,0,,Inactive,Prof. Reddy
+574,Innovation Club,Academic,2025-08-11,Member,High,8,7,,Active,Prof. Reddy
+575,Kabaddi Team,Sports,2025-08-19,Member,Low,3,1,,Active,Prof. Mehta
+576,Environmental Club,Social,2025-08-31,Member,Low,1,2,,Active,Prof. Gupta
+576,Chess Club,Sports,2025-08-05,Member,High,6,7,,Active,Prof. Mehta
+576,Placement Cell,Other,2025-08-30,Member,Low,3,1,,Active,Prof. Reddy
+577,Photography Club,Cultural,2025-08-04,Core Team,Very High,12,12,,Inactive,Prof. Mehta
+577,Data Science Club,Technical,2025-08-13,Member,Low,3,0,,Active,Prof. Reddy
+578,Placement Cell,Other,2025-08-13,Coordinator,Very High,10,14,Certificate of Excellence,Active,Prof. Sharma
+578,Environmental Club,Social,2025-08-24,Core Team,High,7,9,Winner - Intra College Competition,Inactive,Prof. Mehta
+579,Red Cross,Social,2025-08-14,Member,High,8,8,,Inactive,Prof. Reddy
+580,Yoga Club,Other,2025-08-12,Member,Medium,5,4,Winner - Intra College Competition,Active,Prof. Gupta
+580,Blood Donation Team,Social,2025-08-16,Core Team,High,10,6,Best Performer Award,Inactive,Prof. Mehta
+580,Mathematics Club,Academic,2025-08-21,Member,Low,2,0,Best Performer Award,Active,Prof. Reddy
+582,Volleyball Team,Sports,2025-08-12,Member,Low,2,2,Winner - Inter College Competition,Active,Prof. Gupta
+583,Mathematics Club,Academic,2025-08-20,Member,Medium,3,3,,Active,Prof. Mehta
+583,NSS (National Service Scheme),Social,2025-08-06,Member,Medium,5,3,Certificate of Excellence,Active,Prof. Mehta
+583,Football Team,Sports,2025-08-16,Member,Medium,6,3,,Active,Prof. Gupta
+583,College Magazine,Other,2025-08-13,Active Member,High,7,8,,Active,Prof. Sharma
+585,NSS (National Service Scheme),Social,2025-08-07,Member,Medium,4,2,,Active,Prof. Mehta
+587,Blood Donation Team,Social,2025-08-26,Active Member,High,8,5,,Active,Prof. Reddy
+591,Film Making Club,Cultural,2025-08-20,Member,Low,2,1,,Inactive,Prof. Gupta
+594,Drama Club,Cultural,2025-08-11,Member,Medium,4,3,Best Performer Award,Inactive,Prof. Gupta
+595,Drama Club,Cultural,2025-08-10,Member,Medium,5,2,,Active,Prof. Reddy
+595,Chess Club,Sports,2025-08-06,Active Member,Medium,4,3,,Active,Prof. Sharma
+595,Blood Donation Team,Social,2025-08-09,Member,Medium,6,3,,Active,Prof. Sharma
+597,Innovation Club,Academic,2025-08-30,Member,Low,1,0,,Active,Prof. Mehta
+600,NCC (National Cadet Corps),Social,2025-08-28,Core Team,High,6,5,,Active,Prof. Sharma
+601,Rotaract Club,Social,2025-08-29,Active Member,Medium,5,4,,Active,Prof. Sharma
+602,Entrepreneurship Cell,Academic,2025-08-23,Member,Medium,5,3,,Inactive,Prof. Sharma
+602,Robotics Club,Technical,2025-08-21,Active Member,High,9,7,,Active,Prof. Gupta
+602,Debating Society,Cultural,2025-08-26,Member,High,9,9,,Active,Prof. Gupta
+603,Entrepreneurship Cell,Academic,2025-08-06,Member,Low,1,0,Best Performer Award,Active,Prof. Mehta
+603,Event Management Team,Other,2025-08-15,Member,Medium,4,3,Certificate of Excellence,Inactive,Prof. Reddy
+603,NCC (National Cadet Corps),Social,2025-08-30,Member,Low,1,2,,Inactive,Prof. Gupta
+605,Hackathon Team,Technical,2025-08-15,Member,Medium,3,5,Best Performer Award,Active,Prof. Reddy
+609,Entrepreneurship Cell,Academic,2025-08-14,Coordinator,Very High,10,13,,Active,Prof. Sharma
+609,Blood Donation Team,Social,2025-08-30,Member,Low,2,0,,Active,Prof. Mehta
+609,Placement Cell,Other,2025-08-08,Active Member,High,10,10,,Inactive,Prof. Reddy
+611,Debating Society,Cultural,2025-08-14,Core Team,Very High,15,20,Certificate of Excellence,Active,Prof. Gupta
+611,IoT Club,Technical,2025-08-15,Member,Medium,6,4,,Active,Prof. Reddy
+611,Placement Cell,Other,2025-08-31,Member,High,8,5,,Inactive,Prof. Sharma
+611,Innovation Club,Academic,2025-08-09,Active Member,High,6,6,Winner - Inter College Competition,Active,Prof. Mehta
+613,AI/ML Club,Technical,2025-08-27,Member,Low,2,1,,Active,Prof. Reddy
+614,Paper Presentation Team,Academic,2025-08-29,Member,Low,2,1,,Active,Prof. Gupta
+614,NCC (National Cadet Corps),Social,2025-08-11,Active Member,Medium,3,3,,Active,Prof. Reddy
+614,Volleyball Team,Sports,2025-08-23,Member,Low,1,0,Participation Certificate,Active,Prof. Reddy
+615,Cybersecurity Club,Technical,2025-08-19,Member,Low,1,1,,Active,Prof. Gupta
+615,College Magazine,Other,2025-08-07,Member,Low,3,1,Certificate of Excellence,Active,Prof. Reddy
+617,NCC (National Cadet Corps),Social,2025-08-24,Member,Medium,3,3,,Active,Prof. Gupta
+617,Cybersecurity Club,Technical,2025-08-20,Member,Low,3,0,,Active,Prof. Reddy
+619,Hackathon Team,Technical,2025-08-16,Member,Medium,3,4,Participation Certificate,Active,Prof. Mehta
+620,Event Management Team,Other,2025-08-18,Active Member,Medium,5,2,,Active,Prof. Sharma
+620,Photography Club,Cultural,2025-08-26,Member,High,6,6,,Active,Prof. Mehta
+621,Research Club,Academic,2025-08-27,Member,Medium,6,4,,Active,Prof. Mehta
+622,Coding Club,Technical,2025-08-18,Active Member,Medium,3,2,Winner - Intra College Competition,Active,Prof. Sharma
+622,Hockey Team,Sports,2025-08-21,Member,Low,1,1,,Active,Prof. Mehta
+623,Alumni Relations,Other,2025-08-18,Core Team,High,9,10,Winner - Intra College Competition,Inactive,Prof. Reddy
+623,Paper Presentation Team,Academic,2025-08-22,Member,Medium,5,4,,Active,Prof. Mehta
+624,Mathematics Club,Academic,2025-08-08,Member,Low,3,2,,Active,Prof. Sharma
+625,Mathematics Club,Academic,2025-08-04,Member,Medium,4,5,,Active,Prof. Reddy
+625,Fitness Club,Other,2025-08-14,Core Team,Very High,13,14,,Active,Prof. Reddy
+625,Hackathon Team,Technical,2025-08-05,Member,Low,1,1,,Active,Prof. Mehta
+628,Red Cross,Social,2025-08-15,Core Team,Very High,13,13,,Active,Prof. Gupta
+628,Mathematics Club,Academic,2025-08-09,Core Team,Very High,12,12,,Active,Prof. Gupta
+629,Science Club,Academic,2025-08-29,Member,Low,2,1,,Active,Prof. Gupta
+629,Robotics Club,Technical,2025-08-11,Member,Low,3,2,,Active,Prof. Gupta
+630,Coding Club,Technical,2025-08-11,Active Member,Medium,6,4,,Inactive,Prof. Sharma
+630,Innovation Club,Academic,2025-08-12,Member,Medium,3,3,,Inactive,Prof. Sharma
+631,Blood Donation Team,Social,2025-08-22,Active Member,High,6,10,,Inactive,Prof. Gupta
+632,Music Club,Cultural,2025-08-10,Member,Medium,4,4,,Active,Prof. Sharma
+633,Innovation Club,Academic,2025-08-11,Member,Low,2,2,,Active,Prof. Reddy
+635,Film Making Club,Cultural,2025-08-28,Member,Low,2,1,,Active,Prof. Reddy
+635,Red Cross,Social,2025-08-18,Active Member,Medium,6,4,,Active,Prof. Mehta
+639,Science Club,Academic,2025-08-20,Member,High,6,7,Certificate of Excellence,Active,Prof. Mehta
+639,Alumni Relations,Other,2025-08-02,Active Member,High,7,10,Best Performer Award,Inactive,Prof. Mehta
+639,Football Team,Sports,2025-08-20,Member,High,6,7,,Inactive,Prof. Sharma
+643,Photography Club,Cultural,2025-08-15,Member,High,9,8,,Active,Prof. Sharma
+644,Quiz Club,Academic,2025-08-09,Active Member,High,6,8,,Active,Prof. Sharma
+644,Debating Society,Cultural,2025-08-26,Member,Medium,3,5,,Active,Prof. Mehta
+645,Hackathon Team,Technical,2025-08-30,Member,Low,3,0,,Active,Prof. Mehta
+645,Blood Donation Team,Social,2025-08-30,Member,High,6,5,,Active,Prof. Reddy
+645,Table Tennis Club,Sports,2025-08-25,Member,Medium,3,5,,Active,Prof. Gupta
+645,Dance Club,Cultural,2025-08-02,Member,Medium,6,4,,Active,Prof. Gupta
+646,Web Development Club,Technical,2025-08-25,Member,High,9,6,,Active,Prof. Gupta
+646,Film Making Club,Cultural,2025-08-12,Active Member,Medium,4,4,,Active,Prof. Mehta
+647,Table Tennis Club,Sports,2025-08-12,Active Member,High,6,9,,Active,Prof. Sharma
+647,Mathematics Club,Academic,2025-08-05,Member,Low,2,0,,Active,Prof. Gupta
+647,Environmental Club,Social,2025-08-11,Active Member,Medium,4,5,,Active,Prof. Reddy
+648,Film Making Club,Cultural,2025-08-12,Active Member,High,9,8,,Inactive,Prof. Gupta
+649,Mathematics Club,Academic,2025-08-23,Active Member,High,9,7,,Active,Prof. Sharma
+649,Football Team,Sports,2025-08-25,Member,High,7,9,,Active,Prof. Gupta
+650,Volleyball Team,Sports,2025-08-03,Active Member,Medium,3,2,Certificate of Excellence,Inactive,Prof. Reddy
+650,NCC (National Cadet Corps),Social,2025-08-04,Member,High,6,10,,Active,Prof. Sharma
+650,Drama Club,Cultural,2025-08-12,Active Member,High,9,8,,Active,Prof. Reddy
+651,Data Science Club,Technical,2025-08-18,Member,Low,1,0,Participation Certificate,Active,Prof. Gupta
+652,Event Management Team,Other,2025-08-27,Member,Low,3,2,,Inactive,Prof. Sharma
+654,Science Club,Academic,2025-08-07,Active Member,Medium,5,4,,Active,Prof. Reddy
+654,Hockey Team,Sports,2025-08-04,Active Member,High,10,5,,Active,Prof. Mehta
+655,Film Making Club,Cultural,2025-08-05,Member,High,7,10,,Active,Prof. Reddy
+655,Hockey Team,Sports,2025-08-27,Active Member,Medium,5,2,Winner - Intra College Competition,Active,Prof. Mehta
+655,Yoga Club,Other,2025-08-21,Active Member,Medium,5,4,,Active,Prof. Mehta
+657,Innovation Club,Academic,2025-08-31,Member,Low,3,2,Winner - Inter College Competition,Active,Prof. Gupta
+659,Music Club,Cultural,2025-08-25,Member,High,8,6,,Active,Prof. Mehta
+660,Hackathon Team,Technical,2025-08-10,Coordinator,Very High,13,15,,Active,Prof. Gupta
+660,Alumni Relations,Other,2025-08-25,Core Team,High,10,10,Winner - Intra College Competition,Active,Prof. Mehta
+661,Fitness Club,Other,2025-08-30,Member,Medium,5,5,,Active,Prof. Gupta
+662,Cricket Team,Sports,2025-08-11,Member,High,7,8,Certificate of Excellence,Active,Prof. Gupta
+662,NSS (National Service Scheme),Social,2025-08-10,Member,Medium,4,3,,Inactive,Prof. Sharma
+662,Data Science Club,Technical,2025-08-26,Member,Low,1,2,Winner - Intra College Competition,Active,Prof. Gupta
+663,Robotics Club,Technical,2025-08-25,Member,Medium,4,3,,Inactive,Prof. Gupta
+663,Placement Cell,Other,2025-08-04,Member,Medium,3,3,,Inactive,Prof. Gupta
+664,Student Council,Other,2025-08-19,Active Member,Medium,3,2,,Active,Prof. Mehta
+664,Environmental Club,Social,2025-08-14,Active Member,High,8,9,,Active,Prof. Reddy
+664,Badminton Club,Sports,2025-08-16,Member,Medium,3,3,,Inactive,Prof. Gupta
+665,Environmental Club,Social,2025-08-29,Member,Low,3,1,,Inactive,Prof. Gupta
+665,Hackathon Team,Technical,2025-08-06,Active Member,High,6,6,Certificate of Excellence,Active,Prof. Sharma
+665,Literary Club,Cultural,2025-08-18,Member,High,7,8,,Active,Prof. Mehta
+665,Research Club,Academic,2025-08-27,President/Head,Very High,13,19,,Active,Prof. Gupta
+666,Environmental Club,Social,2025-08-08,Member,Medium,5,3,,Active,Prof. Mehta
+667,Fine Arts Club,Cultural,2025-08-21,Member,Low,3,0,Best Performer Award,Inactive,Prof. Sharma
+668,NSS (National Service Scheme),Social,2025-08-31,Member,Medium,5,4,,Active,Prof. Sharma
+668,Fine Arts Club,Cultural,2025-08-27,Member,High,8,9,,Active,Prof. Reddy
+668,Yoga Club,Other,2025-08-24,Core Team,Very High,13,15,Best Performer Award,Active,Prof. Gupta
+668,Science Club,Academic,2025-08-12,Member,High,6,9,Winner - Intra College Competition,Active,Prof. Sharma
+669,Coding Club,Technical,2025-08-05,Member,Low,2,2,,Active,Prof. Reddy
+669,Badminton Club,Sports,2025-08-19,Member,Low,3,2,Winner - Inter College Competition,Active,Prof. Reddy
+669,Literary Club,Cultural,2025-08-07,Active Member,Medium,4,5,,Active,Prof. Sharma
+669,NCC (National Cadet Corps),Social,2025-08-28,Member,Medium,5,3,,Active,Prof. Sharma
+670,Web Development Club,Technical,2025-08-11,Member,Medium,5,5,,Active,Prof. Mehta
+670,Mathematics Club,Academic,2025-08-12,Member,Low,1,0,,Active,Prof. Sharma
+673,Dance Club,Cultural,2025-08-25,Active Member,High,6,5,,Inactive,Prof. Reddy
+673,Rotaract Club,Social,2025-08-05,Active Member,Medium,6,5,,Active,Prof. Gupta
+673,Cybersecurity Club,Technical,2025-08-22,Member,Low,2,1,,Active,Prof. Sharma
+674,Film Making Club,Cultural,2025-08-18,Member,Low,3,2,Certificate of Excellence,Active,Prof. Reddy
+675,Environmental Club,Social,2025-08-02,Active Member,Medium,6,4,Participation Certificate,Active,Prof. Sharma
+677,IoT Club,Technical,2025-08-25,Member,High,8,9,Winner - Intra College Competition,Active,Prof. Reddy
+677,Fitness Club,Other,2025-08-31,Active Member,Medium,4,4,,Inactive,Prof. Reddy
+679,Red Cross,Social,2025-08-25,Member,Low,3,1,,Active,Prof. Gupta
+680,Mathematics Club,Academic,2025-08-08,Member,Medium,4,4,,Active,Prof. Mehta
+680,Rotaract Club,Social,2025-08-13,Active Member,High,8,10,Participation Certificate,Active,Prof. Reddy
+680,Coding Club,Technical,2025-08-26,Core Team,High,8,5,,Active,Prof. Reddy
+681,Innovation Club,Academic,2025-08-13,Member,Medium,3,5,,Active,Prof. Gupta
+681,Yoga Club,Other,2025-08-02,Active Member,High,10,5,,Active,Prof. Sharma
+682,Quiz Club,Academic,2025-08-09,Member,Low,3,0,,Active,Prof. Sharma
+682,Hockey Team,Sports,2025-08-03,Member,Medium,6,5,,Active,Prof. Gupta
+682,Film Making Club,Cultural,2025-08-06,Member,Low,1,0,,Active,Prof. Mehta
+684,Robotics Club,Technical,2025-08-16,Active Member,Medium,3,4,,Inactive,Prof. Sharma
+686,Coding Club,Technical,2025-08-03,Core Team,Very High,15,13,,Active,Prof. Mehta
+686,Blood Donation Team,Social,2025-08-16,Member,Low,2,1,,Active,Prof. Mehta
+687,Event Management Team,Other,2025-08-23,Active Member,Medium,6,4,,Active,Prof. Reddy
+687,Mathematics Club,Academic,2025-08-29,Member,Low,2,2,,Active,Prof. Gupta
+687,Drama Club,Cultural,2025-08-10,Member,Medium,3,5,,Active,Prof. Sharma
+687,Table Tennis Club,Sports,2025-08-15,Member,Medium,3,3,,Active,Prof. Mehta
+688,Event Management Team,Other,2025-08-20,Active Member,Medium,3,4,,Active,Prof. Reddy
+689,Film Making Club,Cultural,2025-08-12,Coordinator,Very High,12,20,Winner - Intra College Competition,Active,Prof. Mehta
+690,Web Development Club,Technical,2025-08-20,Member,Medium,5,4,,Active,Prof. Reddy
+690,Kabaddi Team,Sports,2025-08-26,Member,Low,2,2,,Inactive,Prof. Mehta
+691,Red Cross,Social,2025-08-15,Core Team,Very High,11,16,,Inactive,Prof. Sharma
+693,Chess Club,Sports,2025-08-27,Member,High,6,6,,Active,Prof. Sharma
+693,IoT Club,Technical,2025-08-28,Member,Low,2,1,,Active,Prof. Mehta
+693,Red Cross,Social,2025-08-12,President/Head,Very High,11,10,,Active,Prof. Sharma
+694,Web Development Club,Technical,2025-08-09,Member,Medium,5,3,,Active,Prof. Mehta
+696,Mathematics Club,Academic,2025-08-12,Core Team,Very High,10,17,,Active,Prof. Mehta
+697,Entrepreneurship Cell,Academic,2025-08-30,Member,Medium,4,5,,Active,Prof. Gupta
+698,Data Science Club,Technical,2025-08-04,Member,Medium,5,5,,Active,Prof. Sharma
+698,Volleyball Team,Sports,2025-08-12,Member,Low,2,1,,Active,Prof. Reddy
+698,Rotaract Club,Social,2025-08-08,Member,High,8,8,,Active,Prof. Gupta
+700,Coding Club,Technical,2025-08-21,Member,Low,1,0,Best Performer Award,Active,Prof. Gupta
+700,Yoga Club,Other,2025-08-16,Member,Low,1,1,,Active,Prof. Gupta
+700,Football Team,Sports,2025-08-28,Member,Medium,4,3,,Active,Prof. Sharma
+701,NSS (National Service Scheme),Social,2025-08-18,Member,Medium,4,2,,Active,Prof. Gupta
+701,Quiz Club,Academic,2025-08-20,Member,Medium,5,2,,Active,Prof. Sharma
+701,Basketball Team,Sports,2025-08-05,Active Member,High,10,10,,Inactive,Prof. Gupta
+701,Fine Arts Club,Cultural,2025-08-29,Active Member,High,9,7,,Inactive,Prof. Reddy
+702,Basketball Team,Sports,2025-08-28,Member,Low,1,1,,Active,Prof. Mehta
+702,NSS (National Service Scheme),Social,2025-08-18,Core Team,High,10,9,,Active,Prof. Mehta
+702,Fine Arts Club,Cultural,2025-08-19,Member,Low,1,2,,Active,Prof. Mehta
+704,Research Club,Academic,2025-08-23,Core Team,Very High,11,15,,Active,Prof. Reddy
+707,Event Management Team,Other,2025-08-19,Member,High,9,5,,Active,Prof. Gupta
+709,Rotaract Club,Social,2025-08-17,Active Member,Medium,6,5,,Active,Prof. Mehta
+710,Mathematics Club,Academic,2025-08-30,Member,Medium,5,5,,Active,Prof. Reddy
+710,Volleyball Team,Sports,2025-08-27,Member,Low,1,1,,Active,Prof. Sharma
+711,Blood Donation Team,Social,2025-08-27,Active Member,Medium,6,2,,Active,Prof. Mehta
+712,Fine Arts Club,Cultural,2025-08-06,Member,Low,2,1,,Active,Prof. Gupta
+712,Blood Donation Team,Social,2025-08-08,Member,Medium,4,5,,Active,Prof. Reddy
+712,Coding Club,Technical,2025-08-25,Member,Medium,3,4,,Active,Prof. Gupta
+712,Fitness Club,Other,2025-08-28,Active Member,Medium,3,5,,Active,Prof. Mehta
+713,Alumni Relations,Other,2025-08-03,Member,Low,1,0,,Active,Prof. Mehta
+713,Photography Club,Cultural,2025-08-16,Member,Medium,5,2,,Active,Prof. Reddy
+713,Data Science Club,Technical,2025-08-22,Member,Medium,4,2,,Active,Prof. Reddy
+713,Table Tennis Club,Sports,2025-08-05,Member,Medium,4,4,,Active,Prof. Gupta
+714,Dance Club,Cultural,2025-08-15,Member,Low,2,1,,Active,Prof. Sharma
+718,Environmental Club,Social,2025-08-04,Active Member,Medium,4,4,,Active,Prof. Gupta
+719,Hockey Team,Sports,2025-08-07,Member,Medium,5,3,,Active,Prof. Reddy
+719,Event Management Team,Other,2025-08-24,Member,Low,3,0,Winner - Inter College Competition,Active,Prof. Mehta
+720,Quiz Club,Academic,2025-08-07,Core Team,Very High,13,12,,Active,Prof. Sharma
+721,Paper Presentation Team,Academic,2025-08-29,Active Member,Medium,5,3,,Active,Prof. Reddy
+721,Data Science Club,Technical,2025-08-17,Member,Low,3,1,,Active,Prof. Reddy
+721,Basketball Team,Sports,2025-08-02,Core Team,High,7,9,,Active,Prof. Gupta
+721,Literary Club,Cultural,2025-08-04,Member,Medium,6,2,,Inactive,Prof. Gupta
+722,Event Management Team,Other,2025-08-23,Member,Low,2,0,,Active,Prof. Reddy
+722,Cricket Team,Sports,2025-08-29,Active Member,Medium,4,4,,Active,Prof. Sharma
+724,Football Team,Sports,2025-08-06,Member,High,8,9,,Active,Prof. Sharma
+724,Fitness Club,Other,2025-08-02,Member,High,6,9,,Active,Prof. Sharma
+725,Paper Presentation Team,Academic,2025-08-07,Member,Low,3,2,,Active,Prof. Gupta
+725,Rotaract Club,Social,2025-08-28,Active Member,Medium,3,2,,Active,Prof. Sharma
+725,Chess Club,Sports,2025-08-19,Core Team,Very High,13,20,,Active,Prof. Mehta
+726,Robotics Club,Technical,2025-08-04,Member,Medium,3,5,,Active,Prof. Gupta
+726,Badminton Club,Sports,2025-08-02,President/Head,Very High,10,15,,Active,Prof. Gupta
+726,College Magazine,Other,2025-08-02,Member,Low,1,2,,Active,Prof. Mehta
+727,Placement Cell,Other,2025-08-10,Member,Medium,3,4,Best Performer Award,Active,Prof. Gupta
+727,Table Tennis Club,Sports,2025-08-10,Member,Medium,5,5,,Active,Prof. Gupta
+727,Data Science Club,Technical,2025-08-07,Member,Low,3,1,,Inactive,Prof. Sharma
+727,Rotaract Club,Social,2025-08-27,Active Member,Medium,6,2,,Inactive,Prof. Reddy
+729,Science Club,Academic,2025-08-10,Member,High,8,9,,Active,Prof. Mehta
+729,Badminton Club,Sports,2025-08-10,Member,Medium,5,3,Certificate of Excellence,Active,Prof. Sharma
+729,NCC (National Cadet Corps),Social,2025-08-27,Active Member,High,7,7,,Inactive,Prof. Mehta
+730,Badminton Club,Sports,2025-08-24,Core Team,High,9,8,,Active,Prof. Mehta
+730,NSS (National Service Scheme),Social,2025-08-27,Member,High,10,10,,Inactive,Prof. Sharma
+731,Drama Club,Cultural,2025-08-08,Member,Low,1,1,,Active,Prof. Gupta
+732,Blood Donation Team,Social,2025-08-19,Member,Medium,3,2,,Active,Prof. Reddy
+732,IoT Club,Technical,2025-08-02,Member,High,9,5,,Active,Prof. Sharma
+732,Kabaddi Team,Sports,2025-08-27,Member,Medium,4,4,,Active,Prof. Sharma
+732,Yoga Club,Other,2025-08-02,Member,Low,1,0,,Active,Prof. Mehta
+734,Research Club,Academic,2025-08-30,Core Team,High,7,7,Winner - Inter College Competition,Active,Prof. Sharma
+734,Event Management Team,Other,2025-08-25,Member,Medium,5,2,,Inactive,Prof. Mehta
+735,Data Science Club,Technical,2025-08-04,Member,Medium,5,4,,Active,Prof. Sharma
+736,Placement Cell,Other,2025-08-16,Active Member,Medium,4,5,,Active,Prof. Gupta
+736,Research Club,Academic,2025-08-04,Member,Medium,5,2,,Active,Prof. Mehta
+737,Drama Club,Cultural,2025-08-19,Active Member,High,6,9,,Active,Prof. Mehta
+737,Research Club,Academic,2025-08-17,Core Team,High,10,5,Winner - Intra College Competition,Active,Prof. Sharma
+738,Kabaddi Team,Sports,2025-08-10,Member,Medium,5,3,,Active,Prof. Mehta
+738,Rotaract Club,Social,2025-08-06,Core Team,Very High,10,17,,Active,Prof. Sharma
+738,Student Council,Other,2025-08-11,Member,High,10,8,Best Performer Award,Active,Prof. Mehta
+739,Hackathon Team,Technical,2025-08-27,Active Member,High,9,5,Certificate of Excellence,Active,Prof. Gupta
+740,Cybersecurity Club,Technical,2025-08-21,Member,Low,3,2,Winner - Intra College Competition,Active,Prof. Mehta
+740,Volleyball Team,Sports,2025-08-02,Member,Low,2,0,,Active,Prof. Reddy
+740,Placement Cell,Other,2025-08-30,Active Member,High,7,5,,Inactive,Prof. Reddy
+740,Quiz Club,Academic,2025-08-24,Member,Low,2,2,,Active,Prof. Gupta
+742,Football Team,Sports,2025-08-07,Member,Low,1,2,,Inactive,Prof. Reddy
+742,Web Development Club,Technical,2025-08-27,Core Team,Very High,12,16,Winner - Intra College Competition,Active,Prof. Gupta
+743,Placement Cell,Other,2025-08-04,Active Member,High,10,10,Best Performer Award,Active,Prof. Gupta
+743,Athletics Team,Sports,2025-08-10,Member,Low,3,0,,Active,Prof. Reddy
+743,Entrepreneurship Cell,Academic,2025-08-11,Member,Low,2,2,,Active,Prof. Sharma
+744,IoT Club,Technical,2025-08-19,Member,Medium,5,5,,Active,Prof. Mehta
+744,Rotaract Club,Social,2025-08-24,Active Member,Medium,3,3,,Active,Prof. Reddy
+746,Red Cross,Social,2025-08-04,Active Member,High,7,8,,Active,Prof. Reddy
+746,Fine Arts Club,Cultural,2025-08-27,Member,Medium,6,5,,Active,Prof. Mehta
+749,Red Cross,Social,2025-08-15,Member,Low,1,2,Certificate of Excellence,Active,Prof. Mehta
+749,Basketball Team,Sports,2025-08-16,Member,Low,2,1,,Active,Prof. Mehta
+750,Event Management Team,Other,2025-08-21,Member,Low,2,2,,Active,Prof. Gupta
+750,NSS (National Service Scheme),Social,2025-08-22,Member,Low,1,1,Winner - Intra College Competition,Active,Prof. Mehta
+750,Paper Presentation Team,Academic,2025-08-19,Member,Low,2,2,Certificate of Excellence,Active,Prof. Reddy
+752,Coding Club,Technical,2025-08-12,Core Team,High,6,6,,Active,Prof. Gupta
+752,Film Making Club,Cultural,2025-08-29,Active Member,High,6,7,,Active,Prof. Gupta
+753,Fitness Club,Other,2025-08-07,Core Team,Very High,11,17,,Active,Prof. Mehta
+753,Football Team,Sports,2025-08-26,Member,Medium,3,4,,Inactive,Prof. Sharma
+754,Dance Club,Cultural,2025-08-16,Member,Medium,3,2,,Active,Prof. Reddy
+754,NSS (National Service Scheme),Social,2025-08-23,Core Team,Very High,11,13,,Active,Prof. Mehta
+754,Kabaddi Team,Sports,2025-08-20,President/Head,Very High,15,13,,Active,Prof. Gupta
+754,Web Development Club,Technical,2025-08-25,Member,Medium,6,2,Winner - Intra College Competition,Active,Prof. Reddy
+755,AI/ML Club,Technical,2025-08-08,Member,Medium,3,4,,Active,Prof. Sharma
+755,Paper Presentation Team,Academic,2025-08-04,Active Member,Medium,3,2,,Active,Prof. Reddy
+755,Hockey Team,Sports,2025-08-15,Member,Medium,3,5,,Active,Prof. Sharma
+755,Blood Donation Team,Social,2025-08-29,Active Member,Medium,6,4,,Active,Prof. Gupta
+756,Athletics Team,Sports,2025-08-03,Member,Low,1,1,,Active,Prof. Sharma
+757,Photography Club,Cultural,2025-08-31,Active Member,High,6,10,,Active,Prof. Sharma
+757,IoT Club,Technical,2025-08-09,Member,Medium,3,3,Participation Certificate,Active,Prof. Mehta
+758,Robotics Club,Technical,2025-08-03,Member,Low,1,1,,Inactive,Prof. Mehta
+758,Table Tennis Club,Sports,2025-08-26,Member,Low,2,1,,Active,Prof. Sharma
+759,Drama Club,Cultural,2025-08-22,Member,Low,3,0,,Active,Prof. Sharma
+763,Innovation Club,Academic,2025-08-12,Active Member,Medium,5,5,,Active,Prof. Sharma
+765,Alumni Relations,Other,2025-08-21,Core Team,Very High,15,20,,Inactive,Prof. Mehta
+766,Placement Cell,Other,2025-08-05,Member,Low,2,2,,Active,Prof. Gupta
+767,Placement Cell,Other,2025-08-15,Member,Low,3,1,,Active,Prof. Reddy
+768,IoT Club,Technical,2025-08-18,Active Member,Medium,4,2,,Active,Prof. Mehta
+768,Football Team,Sports,2025-08-13,Active Member,High,8,8,,Active,Prof. Mehta
+769,Athletics Team,Sports,2025-08-24,Active Member,Medium,4,4,,Active,Prof. Reddy
+769,Music Club,Cultural,2025-08-13,Member,Medium,6,3,,Active,Prof. Sharma
+770,IoT Club,Technical,2025-08-09,Member,High,10,7,,Active,Prof. Mehta
+770,Chess Club,Sports,2025-08-22,Member,Low,2,0,Winner - Intra College Competition,Active,Prof. Gupta
+770,Student Council,Other,2025-08-22,Core Team,High,7,7,Winner - Intra College Competition,Active,Prof. Reddy
+771,Film Making Club,Cultural,2025-08-03,Member,Low,3,2,Best Performer Award,Active,Prof. Mehta
+771,NSS (National Service Scheme),Social,2025-08-18,Member,High,7,5,,Active,Prof. Mehta
+772,Music Club,Cultural,2025-08-27,Active Member,High,7,10,,Active,Prof. Gupta
+773,Rotaract Club,Social,2025-08-25,Member,Medium,4,4,Winner - Intra College Competition,Active,Prof. Sharma
+773,Alumni Relations,Other,2025-08-24,Member,Low,1,1,,Active,Prof. Reddy
+775,Volleyball Team,Sports,2025-08-21,Member,Medium,4,2,,Active,Prof. Reddy
+775,Fine Arts Club,Cultural,2025-08-15,Member,Low,3,2,,Active,Prof. Mehta
+775,Mathematics Club,Academic,2025-08-05,Active Member,Medium,3,5,,Active,Prof. Mehta
+778,Chess Club,Sports,2025-08-19,Member,Medium,5,2,,Inactive,Prof. Gupta
+778,Film Making Club,Cultural,2025-08-18,Active Member,High,10,6,,Active,Prof. Mehta
+778,AI/ML Club,Technical,2025-08-06,Member,Medium,6,3,,Active,Prof. Mehta
+780,Entrepreneurship Cell,Academic,2025-08-07,Member,Low,2,0,,Active,Prof. Reddy
+780,Data Science Club,Technical,2025-08-29,Core Team,Very High,13,15,,Active,Prof. Sharma
+781,AI/ML Club,Technical,2025-08-06,Member,Medium,3,4,,Active,Prof. Gupta
+781,Film Making Club,Cultural,2025-08-05,Member,Medium,4,5,Winner - Inter College Competition,Inactive,Prof. Mehta
+782,Student Council,Other,2025-08-30,Core Team,Very High,10,14,,Inactive,Prof. Mehta
+782,Research Club,Academic,2025-08-30,Active Member,Medium,4,3,Winner - Inter College Competition,Active,Prof. Mehta
+783,Placement Cell,Other,2025-08-26,Active Member,Medium,3,2,,Active,Prof. Mehta
+783,NSS (National Service Scheme),Social,2025-08-07,Member,Medium,6,5,,Active,Prof. Sharma
+783,Kabaddi Team,Sports,2025-08-02,Member,Medium,3,3,,Active,Prof. Mehta
+785,Cricket Team,Sports,2025-08-06,Member,Low,1,1,,Active,Prof. Reddy
+785,Literary Club,Cultural,2025-08-19,Member,High,8,5,Best Performer Award,Active,Prof. Sharma
+786,Cybersecurity Club,Technical,2025-08-14,President/Head,Very High,14,16,,Active,Prof. Mehta
+789,Mathematics Club,Academic,2025-08-18,Core Team,Very High,14,11,,Active,Prof. Sharma
+789,IoT Club,Technical,2025-08-06,Member,Low,3,2,,Active,Prof. Sharma
+791,Data Science Club,Technical,2025-08-17,Active Member,Medium,3,2,,Active,Prof. Reddy
+791,Kabaddi Team,Sports,2025-08-11,Active Member,High,6,8,,Active,Prof. Mehta
+791,Drama Club,Cultural,2025-08-28,Member,Low,1,2,,Active,Prof. Sharma
+793,Film Making Club,Cultural,2025-08-04,Active Member,High,6,8,,Active,Prof. Gupta
+793,Mathematics Club,Academic,2025-08-07,Member,Low,3,0,,Active,Prof. Gupta
+793,College Magazine,Other,2025-08-27,Member,Medium,5,4,,Active,Prof. Sharma
+794,Drama Club,Cultural,2025-08-20,Coordinator,Very High,12,18,,Inactive,Prof. Reddy
+795,Chess Club,Sports,2025-08-24,Member,Medium,3,4,Winner - Inter College Competition,Active,Prof. Sharma
+797,Environmental Club,Social,2025-08-25,Member,Medium,6,5,,Active,Prof. Mehta
+799,Kabaddi Team,Sports,2025-08-14,Member,High,8,5,,Active,Prof. Sharma
+799,Mathematics Club,Academic,2025-08-23,Active Member,Medium,4,2,,Inactive,Prof. Gupta
+802,Red Cross,Social,2025-08-09,Core Team,Very High,11,18,,Active,Prof. Mehta
+803,Film Making Club,Cultural,2025-08-30,Core Team,High,6,6,Certificate of Excellence,Active,Prof. Sharma
+805,IoT Club,Technical,2025-08-17,Member,Medium,3,3,,Active,Prof. Sharma
+806,Quiz Club,Academic,2025-08-02,Member,Low,1,2,Certificate of Excellence,Active,Prof. Sharma
+807,Mathematics Club,Academic,2025-08-13,Active Member,High,8,10,,Active,Prof. Mehta
+808,Football Team,Sports,2025-08-08,Active Member,High,10,10,,Active,Prof. Sharma
+809,NCC (National Cadet Corps),Social,2025-08-13,Active Member,Medium,6,5,,Active,Prof. Mehta
+810,AI/ML Club,Technical,2025-08-14,Member,High,8,8,,Inactive,Prof. Reddy
+811,Photography Club,Cultural,2025-08-12,Active Member,Medium,3,3,,Active,Prof. Mehta
+812,Chess Club,Sports,2025-08-28,Active Member,High,7,5,,Active,Prof. Gupta
+812,Photography Club,Cultural,2025-08-23,Active Member,High,10,8,,Active,Prof. Mehta
+812,Research Club,Academic,2025-08-26,Member,Medium,5,2,,Active,Prof. Gupta
+813,Paper Presentation Team,Academic,2025-08-21,Member,Low,1,2,Best Performer Award,Active,Prof. Gupta
+815,Hockey Team,Sports,2025-08-12,Active Member,Medium,6,2,,Active,Prof. Gupta
+815,Quiz Club,Academic,2025-08-24,Member,Low,2,1,,Active,Prof. Sharma
+815,Web Development Club,Technical,2025-08-02,Member,Low,3,1,,Active,Prof. Gupta
+817,Innovation Club,Academic,2025-08-13,President/Head,Very High,14,13,,Active,Prof. Reddy
+817,Literary Club,Cultural,2025-08-30,Member,Medium,6,2,,Active,Prof. Sharma
+818,Hockey Team,Sports,2025-08-31,Member,High,8,9,,Active,Prof. Mehta
+818,Innovation Club,Academic,2025-08-18,Member,Low,1,1,Winner - Inter College Competition,Active,Prof. Reddy
+819,Web Development Club,Technical,2025-08-04,Member,High,7,8,Certificate of Excellence,Inactive,Prof. Gupta
+820,Photography Club,Cultural,2025-08-29,Member,High,6,5,,Active,Prof. Gupta
+820,Basketball Team,Sports,2025-08-17,Member,Low,1,1,Best Performer Award,Active,Prof. Sharma
+820,Innovation Club,Academic,2025-08-28,Active Member,High,6,10,,Active,Prof. Sharma
+821,Alumni Relations,Other,2025-08-16,Member,Medium,3,3,Best Performer Award,Active,Prof. Gupta
+822,Hackathon Team,Technical,2025-08-07,Core Team,High,8,8,Participation Certificate,Active,Prof. Mehta
+823,NCC (National Cadet Corps),Social,2025-08-14,Member,Low,2,2,,Active,Prof. Sharma
+823,College Magazine,Other,2025-08-10,Active Member,High,7,7,,Active,Prof. Gupta
+824,Kabaddi Team,Sports,2025-08-26,Active Member,Medium,6,2,,Active,Prof. Reddy
+824,Quiz Club,Academic,2025-08-05,Core Team,High,7,8,Participation Certificate,Inactive,Prof. Mehta
+824,Rotaract Club,Social,2025-08-30,Active Member,High,9,9,,Active,Prof. Gupta
+824,AI/ML Club,Technical,2025-08-15,Active Member,Medium,6,2,,Active,Prof. Reddy
+825,Fitness Club,Other,2025-08-12,Coordinator,Very High,11,12,,Inactive,Prof. Mehta
+825,Hackathon Team,Technical,2025-08-23,Member,Medium,4,3,,Active,Prof. Reddy
+825,Kabaddi Team,Sports,2025-08-30,Member,Medium,4,2,,Active,Prof. Sharma
+826,Web Development Club,Technical,2025-08-08,Active Member,High,9,9,,Active,Prof. Sharma
+829,AI/ML Club,Technical,2025-08-30,Member,Low,3,1,,Active,Prof. Mehta
+830,Quiz Club,Academic,2025-08-17,Member,Medium,4,3,,Active,Prof. Sharma
+833,Robotics Club,Technical,2025-08-18,Member,Medium,6,3,,Inactive,Prof. Gupta
+834,Athletics Team,Sports,2025-08-27,Active Member,Medium,4,3,,Active,Prof. Reddy
+836,Drama Club,Cultural,2025-08-05,Active Member,High,9,8,,Active,Prof. Gupta
+836,Table Tennis Club,Sports,2025-08-16,Member,High,7,6,,Active,Prof. Sharma
+837,NCC (National Cadet Corps),Social,2025-08-26,Member,Low,1,0,,Active,Prof. Mehta
+837,Placement Cell,Other,2025-08-13,Member,Low,2,2,,Active,Prof. Reddy
+837,Mathematics Club,Academic,2025-08-25,Member,Medium,6,5,,Active,Prof. Mehta
+838,Quiz Club,Academic,2025-08-17,Member,Medium,6,5,Certificate of Excellence,Active,Prof. Gupta
+838,NSS (National Service Scheme),Social,2025-08-17,Coordinator,Very High,12,13,Winner - Intra College Competition,Active,Prof. Gupta
+840,Fine Arts Club,Cultural,2025-08-04,Member,Medium,6,5,,Active,Prof. Mehta
+841,Film Making Club,Cultural,2025-08-19,Active Member,Medium,5,4,,Active,Prof. Reddy
+842,Quiz Club,Academic,2025-08-31,Active Member,High,9,6,,Active,Prof. Sharma
+842,Film Making Club,Cultural,2025-08-20,Member,Low,3,0,,Active,Prof. Reddy
+843,Innovation Club,Academic,2025-08-15,Member,Medium,6,4,,Inactive,Prof. Reddy
+843,Student Council,Other,2025-08-13,Core Team,Very High,10,17,,Active,Prof. Gupta
+843,NSS (National Service Scheme),Social,2025-08-14,Active Member,Medium,4,2,Best Performer Award,Active,Prof. Gupta
+844,Research Club,Academic,2025-08-26,Active Member,High,10,7,,Active,Prof. Mehta
+845,Blood Donation Team,Social,2025-08-24,Active Member,Medium,6,4,,Active,Prof. Sharma
+845,Web Development Club,Technical,2025-08-09,Member,Medium,4,2,,Active,Prof. Sharma
+845,Literary Club,Cultural,2025-08-24,Core Team,High,9,5,,Inactive,Prof. Reddy
+847,Volleyball Team,Sports,2025-08-12,Member,Low,1,1,,Active,Prof. Sharma
+847,Event Management Team,Other,2025-08-22,Member,Low,3,1,,Active,Prof. Gupta
+848,Football Team,Sports,2025-08-09,Member,Medium,4,5,,Active,Prof. Gupta
+848,Mathematics Club,Academic,2025-08-21,Member,Low,1,1,,Active,Prof. Gupta
+850,Event Management Team,Other,2025-08-28,Member,Low,2,1,Best Performer Award,Inactive,Prof. Reddy
+850,Cybersecurity Club,Technical,2025-08-05,Coordinator,Very High,15,17,,Active,Prof. Reddy
+853,Red Cross,Social,2025-08-26,Core Team,Very High,11,16,,Active,Prof. Mehta
+853,Placement Cell,Other,2025-08-13,Member,Medium,6,3,Certificate of Excellence,Active,Prof. Gupta
+854,Student Council,Other,2025-08-24,Member,Medium,6,3,,Active,Prof. Mehta
+854,NSS (National Service Scheme),Social,2025-08-13,Member,High,6,7,Winner - Intra College Competition,Active,Prof. Reddy
+857,Photography Club,Cultural,2025-08-09,Member,Medium,3,2,,Active,Prof. Gupta
+857,Innovation Club,Academic,2025-08-31,Core Team,Very High,15,13,,Inactive,Prof. Reddy
+858,Badminton Club,Sports,2025-08-29,Member,Low,3,2,,Active,Prof. Reddy
+858,Science Club,Academic,2025-08-04,Core Team,Very High,12,10,,Active,Prof. Gupta
+858,NCC (National Cadet Corps),Social,2025-08-12,Active Member,High,7,6,Winner - Inter College Competition,Active,Prof. Mehta
+858,Dance Club,Cultural,2025-08-16,Member,Low,3,1,,Active,Prof. Gupta
+859,Cricket Team,Sports,2025-08-07,Member,Low,1,1,,Active,Prof. Reddy
+859,Hackathon Team,Technical,2025-08-25,Member,Medium,3,4,,Inactive,Prof. Reddy
+860,Hockey Team,Sports,2025-08-14,Member,Low,2,0,,Active,Prof. Gupta
+860,Research Club,Academic,2025-08-30,Member,Medium,4,3,Best Performer Award,Inactive,Prof. Reddy
+862,Volleyball Team,Sports,2025-08-16,Member,Medium,3,2,,Inactive,Prof. Gupta
+862,Mathematics Club,Academic,2025-08-14,Member,Medium,5,4,,Active,Prof. Sharma
+864,Chess Club,Sports,2025-08-11,Core Team,High,10,9,,Active,Prof. Mehta
+865,Mathematics Club,Academic,2025-08-17,Active Member,High,9,10,Winner - Inter College Competition,Active,Prof. Mehta
+866,Environmental Club,Social,2025-08-28,Active Member,High,9,5,Best Performer Award,Active,Prof. Gupta
+867,Robotics Club,Technical,2025-08-10,Active Member,Medium,3,4,,Active,Prof. Mehta
+870,Cybersecurity Club,Technical,2025-08-19,Member,Low,3,1,,Active,Prof. Sharma
+870,Debating Society,Cultural,2025-08-25,Member,Low,1,1,,Active,Prof. Mehta
+871,Film Making Club,Cultural,2025-08-15,Member,Low,2,2,,Active,Prof. Mehta
+871,College Magazine,Other,2025-08-16,Member,Low,2,0,,Active,Prof. Sharma
+871,Environmental Club,Social,2025-08-15,Member,Low,2,2,,Active,Prof. Reddy
+872,Alumni Relations,Other,2025-08-05,Member,Low,2,0,,Active,Prof. Gupta
+875,Placement Cell,Other,2025-08-10,Member,Medium,4,4,,Active,Prof. Gupta
+875,Research Club,Academic,2025-08-24,Active Member,High,10,5,,Active,Prof. Reddy
+875,Red Cross,Social,2025-08-11,Active Member,High,9,7,,Active,Prof. Mehta
+875,Data Science Club,Technical,2025-08-16,Member,Low,3,0,Winner - Intra College Competition,Active,Prof. Sharma
+876,Debating Society,Cultural,2025-08-15,Member,Low,2,0,,Active,Prof. Gupta
+876,Event Management Team,Other,2025-08-19,Active Member,High,6,6,,Active,Prof. Mehta
+876,Athletics Team,Sports,2025-08-20,Member,Low,2,2,,Active,Prof. Mehta
+878,Blood Donation Team,Social,2025-08-21,Member,Medium,6,2,,Active,Prof. Gupta
+878,Alumni Relations,Other,2025-08-21,Member,Medium,6,5,,Inactive,Prof. Mehta
+879,Debating Society,Cultural,2025-08-29,Member,Low,1,2,,Active,Prof. Reddy
+879,Alumni Relations,Other,2025-08-23,Member,Medium,3,3,,Inactive,Prof. Gupta
+882,Event Management Team,Other,2025-08-03,Core Team,High,6,7,,Active,Prof. Gupta
+882,AI/ML Club,Technical,2025-08-09,Core Team,High,7,10,,Active,Prof. Sharma
+882,Chess Club,Sports,2025-08-27,Active Member,High,6,6,,Active,Prof. Sharma
+884,Debating Society,Cultural,2025-08-09,Active Member,High,10,9,,Active,Prof. Sharma
+886,Table Tennis Club,Sports,2025-08-21,Member,Medium,3,5,,Active,Prof. Sharma
+887,Music Club,Cultural,2025-08-08,Member,Low,3,2,,Inactive,Prof. Gupta
+889,Blood Donation Team,Social,2025-08-16,Member,Low,3,2,Winner - Intra College Competition,Active,Prof. Reddy
+890,Debating Society,Cultural,2025-08-25,Member,Medium,3,4,Certificate of Excellence,Active,Prof. Gupta
+890,Student Council,Other,2025-08-30,Active Member,High,8,7,Participation Certificate,Active,Prof. Gupta
+890,Research Club,Academic,2025-08-21,Member,High,10,7,,Active,Prof. Reddy
+891,Cybersecurity Club,Technical,2025-08-16,Member,Medium,6,3,,Active,Prof. Sharma
+891,Paper Presentation Team,Academic,2025-08-26,Core Team,High,6,9,Participation Certificate,Active,Prof. Sharma
+891,Chess Club,Sports,2025-08-06,Member,High,10,10,Winner - Intra College Competition,Active,Prof. Reddy
+891,Placement Cell,Other,2025-08-14,Member,Low,3,0,,Active,Prof. Mehta
+893,Debating Society,Cultural,2025-08-30,Member,Low,3,2,,Active,Prof. Gupta
+893,Fitness Club,Other,2025-08-31,Active Member,Medium,4,4,,Active,Prof. Reddy
+893,Hackathon Team,Technical,2025-08-30,Member,Low,1,1,,Active,Prof. Gupta
+894,NCC (National Cadet Corps),Social,2025-08-27,Member,Low,1,1,Winner - Inter College Competition,Active,Prof. Reddy
+894,Mathematics Club,Academic,2025-08-08,Active Member,High,6,7,Winner - Inter College Competition,Active,Prof. Gupta
+895,Red Cross,Social,2025-08-22,Member,Low,2,0,,Inactive,Prof. Reddy
+895,Basketball Team,Sports,2025-08-05,Active Member,High,9,6,,Active,Prof. Gupta
+895,Fine Arts Club,Cultural,2025-08-26,Member,High,7,6,,Inactive,Prof. Sharma
+897,Fitness Club,Other,2025-08-27,Active Member,High,8,7,,Inactive,Prof. Gupta
+897,Mathematics Club,Academic,2025-08-11,Active Member,High,8,10,,Active,Prof. Gupta
+897,Literary Club,Cultural,2025-08-02,President/Head,Very High,14,16,,Active,Prof. Sharma
+898,Red Cross,Social,2025-08-25,Core Team,Very High,11,14,,Active,Prof. Gupta
+899,Rotaract Club,Social,2025-08-30,Active Member,High,9,10,,Active,Prof. Sharma
+899,Dance Club,Cultural,2025-08-15,Member,Low,3,0,,Active,Prof. Reddy
+901,Chess Club,Sports,2025-08-12,Member,Low,3,0,,Active,Prof. Sharma
+902,Hockey Team,Sports,2025-08-16,Member,Medium,4,3,,Active,Prof. Mehta
+903,NCC (National Cadet Corps),Social,2025-08-18,Member,Medium,3,3,,Active,Prof. Sharma
+903,Quiz Club,Academic,2025-08-10,Member,Low,3,1,,Active,Prof. Reddy
+905,Football Team,Sports,2025-08-31,President/Head,Very High,13,13,,Inactive,Prof. Gupta
+905,AI/ML Club,Technical,2025-08-30,Member,Medium,6,2,,Inactive,Prof. Sharma
+906,Fitness Club,Other,2025-08-28,Active Member,High,8,10,Participation Certificate,Active,Prof. Sharma
+906,Innovation Club,Academic,2025-08-13,Member,Medium,3,2,,Active,Prof. Gupta
+908,Yoga Club,Other,2025-08-03,Active Member,Medium,3,4,Winner - Intra College Competition,Active,Prof. Reddy
+908,NSS (National Service Scheme),Social,2025-08-14,Member,Medium,6,2,,Active,Prof. Sharma
+908,IoT Club,Technical,2025-08-20,Member,Low,2,1,Winner - Inter College Competition,Active,Prof. Mehta
+910,Mathematics Club,Academic,2025-08-28,Member,Low,3,2,Winner - Intra College Competition,Inactive,Prof. Sharma
+913,Fine Arts Club,Cultural,2025-08-14,Member,High,9,9,,Active,Prof. Mehta
+913,Hackathon Team,Technical,2025-08-02,Member,Low,3,1,,Active,Prof. Mehta
+915,Cybersecurity Club,Technical,2025-08-11,Member,High,6,5,,Active,Prof. Sharma
+915,Music Club,Cultural,2025-08-25,Core Team,Very High,12,10,,Active,Prof. Reddy
+916,Coding Club,Technical,2025-08-17,Member,Medium,4,2,,Active,Prof. Mehta
+916,Literary Club,Cultural,2025-08-09,Active Member,High,7,10,Best Performer Award,Active,Prof. Gupta
+916,Mathematics Club,Academic,2025-08-21,Core Team,High,10,10,,Active,Prof. Gupta
+917,Photography Club,Cultural,2025-08-16,Member,High,6,8,,Active,Prof. Gupta
+917,Blood Donation Team,Social,2025-08-14,Active Member,High,9,7,,Active,Prof. Gupta
+918,AI/ML Club,Technical,2025-08-04,Member,Low,3,2,Best Performer Award,Active,Prof. Sharma
+919,Cricket Team,Sports,2025-08-25,Member,Medium,3,3,,Inactive,Prof. Mehta
+921,Yoga Club,Other,2025-08-20,Core Team,Very High,11,13,,Active,Prof. Mehta
+922,Alumni Relations,Other,2025-08-12,Member,Medium,6,4,,Active,Prof. Sharma
+923,Red Cross,Social,2025-08-14,Member,Low,3,1,,Active,Prof. Reddy
+923,Drama Club,Cultural,2025-08-07,Member,Medium,3,3,,Active,Prof. Sharma
+923,Science Club,Academic,2025-08-09,Active Member,Medium,3,3,,Inactive,Prof. Reddy
+925,Film Making Club,Cultural,2025-08-30,Member,Low,2,0,,Active,Prof. Mehta
+927,NSS (National Service Scheme),Social,2025-08-04,Active Member,Medium,6,4,Winner - Intra College Competition,Active,Prof. Gupta
+928,Chess Club,Sports,2025-08-14,Member,High,6,6,,Inactive,Prof. Mehta
+930,Alumni Relations,Other,2025-08-23,Member,Medium,5,3,Winner - Inter College Competition,Inactive,Prof. Gupta
+930,NCC (National Cadet Corps),Social,2025-08-18,Member,Medium,3,5,,Active,Prof. Reddy
+931,Research Club,Academic,2025-08-29,Member,Low,2,2,,Active,Prof. Reddy
+932,Blood Donation Team,Social,2025-08-05,Member,Medium,5,5,Certificate of Excellence,Active,Prof. Sharma
+933,Coding Club,Technical,2025-08-15,Member,Low,3,0,,Active,Prof. Sharma
+934,Film Making Club,Cultural,2025-08-17,Active Member,Medium,6,5,,Inactive,Prof. Sharma
+934,Environmental Club,Social,2025-08-27,Member,Low,2,0,,Active,Prof. Gupta
+939,Alumni Relations,Other,2025-08-22,Member,Medium,5,5,Best Performer Award,Active,Prof. Mehta
+939,Innovation Club,Academic,2025-08-06,Active Member,Medium,6,2,,Active,Prof. Sharma
+940,Film Making Club,Cultural,2025-08-11,Member,Low,1,1,,Active,Prof. Reddy
+943,Yoga Club,Other,2025-08-02,Active Member,Medium,3,4,,Active,Prof. Reddy
+945,Badminton Club,Sports,2025-08-11,Member,Medium,3,3,,Active,Prof. Sharma
+947,Hockey Team,Sports,2025-08-23,Core Team,Very High,13,11,,Inactive,Prof. Sharma
+950,NSS (National Service Scheme),Social,2025-08-07,Member,Low,3,1,,Active,Prof. Gupta
+950,Innovation Club,Academic,2025-08-15,Core Team,High,10,8,,Inactive,Prof. Mehta
+950,Robotics Club,Technical,2025-08-02,Member,High,8,9,Winner - Intra College Competition,Active,Prof. Gupta
+951,Photography Club,Cultural,2025-08-03,Active Member,High,10,10,,Inactive,Prof. Sharma
+953,Music Club,Cultural,2025-08-28,Member,Medium,4,3,,Active,Prof. Mehta
+954,Rotaract Club,Social,2025-08-22,Member,Low,1,0,,Active,Prof. Gupta
+956,Robotics Club,Technical,2025-08-08,Active Member,Medium,4,5,Certificate of Excellence,Active,Prof. Gupta
+956,Music Club,Cultural,2025-08-30,Member,Low,3,0,,Active,Prof. Mehta
+957,NSS (National Service Scheme),Social,2025-08-04,Member,Medium,6,2,Best Performer Award,Inactive,Prof. Gupta
+957,Hockey Team,Sports,2025-08-21,Active Member,High,7,5,,Inactive,Prof. Gupta
+959,Data Science Club,Technical,2025-08-16,Active Member,Medium,4,5,,Active,Prof. Reddy
+962,Volleyball Team,Sports,2025-08-19,President/Head,Very High,15,11,,Active,Prof. Gupta
+962,Blood Donation Team,Social,2025-08-09,Member,High,8,6,,Active,Prof. Sharma
+963,Debating Society,Cultural,2025-08-20,Member,High,6,5,Best Performer Award,Active,Prof. Reddy
+963,Red Cross,Social,2025-08-11,Member,Medium,6,4,,Active,Prof. Reddy
+963,Science Club,Academic,2025-08-08,President/Head,Very High,15,11,,Active,Prof. Mehta
+963,Event Management Team,Other,2025-08-06,Core Team,Very High,15,11,,Active,Prof. Gupta
+965,IoT Club,Technical,2025-08-22,Core Team,High,7,7,,Inactive,Prof. Sharma
+965,NCC (National Cadet Corps),Social,2025-08-18,Coordinator,Very High,12,20,,Active,Prof. Reddy
+965,Entrepreneurship Cell,Academic,2025-08-31,Member,Low,2,0,Certificate of Excellence,Inactive,Prof. Gupta
+966,Cybersecurity Club,Technical,2025-08-29,Active Member,High,6,9,,Active,Prof. Sharma
+966,Rotaract Club,Social,2025-08-21,Active Member,High,9,8,,Active,Prof. Reddy
+967,Data Science Club,Technical,2025-08-16,Core Team,High,6,9,,Active,Prof. Reddy
+968,AI/ML Club,Technical,2025-08-02,Member,Low,3,0,,Active,Prof. Mehta
+970,Music Club,Cultural,2025-08-24,Member,Low,1,1,,Active,Prof. Reddy
+971,Student Council,Other,2025-08-03,Member,Low,3,0,Winner - Inter College Competition,Inactive,Prof. Mehta
+972,Yoga Club,Other,2025-08-30,Member,Low,2,2,,Inactive,Prof. Sharma
+975,Coding Club,Technical,2025-08-23,Member,Low,2,2,Certificate of Excellence,Active,Prof. Mehta
+975,Environmental Club,Social,2025-08-06,Coordinator,Very High,12,12,,Active,Prof. Sharma
+976,IoT Club,Technical,2025-08-27,Member,Medium,6,2,,Active,Prof. Sharma
+976,Kabaddi Team,Sports,2025-08-07,Member,High,9,8,Best Performer Award,Active,Prof. Gupta
+976,Red Cross,Social,2025-08-08,Active Member,High,7,5,Winner - Intra College Competition,Active,Prof. Sharma
+976,Innovation Club,Academic,2025-08-21,Active Member,High,9,8,,Active,Prof. Sharma
+977,Athletics Team,Sports,2025-08-26,Member,Medium,6,4,,Inactive,Prof. Sharma
+978,Chess Club,Sports,2025-08-19,Member,Low,1,1,,Active,Prof. Reddy
+979,Student Council,Other,2025-08-08,Core Team,High,6,8,,Inactive,Prof. Mehta
+979,Science Club,Academic,2025-08-20,Active Member,Medium,6,2,Best Performer Award,Active,Prof. Reddy
+979,Drama Club,Cultural,2025-08-07,Active Member,High,6,7,Best Performer Award,Active,Prof. Reddy
+980,Research Club,Academic,2025-08-12,Active Member,High,9,8,,Active,Prof. Sharma
+980,Literary Club,Cultural,2025-08-27,Active Member,High,6,8,,Active,Prof. Mehta
+980,Placement Cell,Other,2025-08-18,Member,Medium,4,3,,Active,Prof. Sharma
+980,Data Science Club,Technical,2025-08-22,Core Team,Very High,11,11,,Active,Prof. Gupta
+983,Music Club,Cultural,2025-08-09,Member,Medium,3,4,,Active,Prof. Mehta
+984,Student Council,Other,2025-08-05,Core Team,High,8,10,,Inactive,Prof. Sharma
+985,Debating Society,Cultural,2025-08-24,Member,Low,2,1,,Active,Prof. Mehta
+985,Entrepreneurship Cell,Academic,2025-08-06,Active Member,Medium,5,4,,Active,Prof. Reddy
+986,Paper Presentation Team,Academic,2025-08-11,Member,Low,3,0,,Active,Prof. Gupta
+988,Fine Arts Club,Cultural,2025-08-02,Active Member,Medium,6,2,,Active,Prof. Reddy
+988,Chess Club,Sports,2025-08-28,Member,High,7,8,,Active,Prof. Mehta
+989,Yoga Club,Other,2025-08-08,Core Team,High,9,6,,Active,Prof. Mehta
+989,Data Science Club,Technical,2025-08-22,Member,Low,2,1,Participation Certificate,Active,Prof. Mehta
+990,NSS (National Service Scheme),Social,2025-08-19,Active Member,High,9,6,,Active,Prof. Mehta
+990,Fine Arts Club,Cultural,2025-08-31,Active Member,Medium,5,5,,Inactive,Prof. Gupta
+991,Red Cross,Social,2025-08-25,Member,Medium,5,4,Winner - Intra College Competition,Active,Prof. Reddy
+991,Fitness Club,Other,2025-08-16,Core Team,High,6,7,,Active,Prof. Reddy
+992,Chess Club,Sports,2025-08-19,Active Member,High,7,10,,Active,Prof. Reddy
+993,Robotics Club,Technical,2025-08-31,Member,High,10,6,,Active,Prof. Gupta
+993,Placement Cell,Other,2025-08-10,Member,Low,1,0,Winner - Inter College Competition,Active,Prof. Reddy
+993,NCC (National Cadet Corps),Social,2025-08-17,Member,Medium,3,3,Participation Certificate,Active,Prof. Sharma
+994,Blood Donation Team,Social,2025-08-31,Member,Low,1,2,,Active,Prof. Sharma
+996,Basketball Team,Sports,2025-08-26,Active Member,High,6,5,Winner - Intra College Competition,Active,Prof. Mehta
+996,AI/ML Club,Technical,2025-08-18,Member,Low,1,1,,Active,Prof. Mehta
+996,Quiz Club,Academic,2025-08-11,Member,Low,3,0,,Active,Prof. Reddy
+996,Environmental Club,Social,2025-08-16,Member,Low,3,0,Winner - Inter College Competition,Active,Prof. Reddy
+998,Mathematics Club,Academic,2025-08-05,Member,Medium,5,5,,Active,Prof. Sharma
+998,AI/ML Club,Technical,2025-08-26,Coordinator,Very High,12,14,Best Performer Award,Active,Prof. Sharma
+999,Blood Donation Team,Social,2025-08-12,Member,High,6,10,Winner - Inter College Competition,Active,Prof. Gupta
+999,Alumni Relations,Other,2025-08-08,Active Member,High,10,5,Best Performer Award,Active,Prof. Sharma
+999,AI/ML Club,Technical,2025-08-20,Member,Low,3,1,,Active,Prof. Mehta
+1000,Paper Presentation Team,Academic,2025-08-27,Core Team,High,6,9,,Active,Prof. Reddy
+1000,NCC (National Cadet Corps),Social,2025-08-10,Member,Low,1,2,,Active,Prof. Gupta

@@ -1,89 +1,122 @@
 
 ================================================================================
-DUMMY DATA GENERATION SUMMARY (ENHANCED VERSION)
+COMPLETE DUMMY DATA GENERATION SUMMARY (FINAL VERSION)
 ================================================================================
 
-Generation Date: 2025-12-01 23:06:56
+Generation Date: 2025-12-01 23:53:19
 Total Students: 1000
 
 ## DEMOGRAPHICS
 
-Male Students: 483
-Female Students: 517
+Male Students: 500
+Female Students: 500
 
 Location Distribution:
-- Rural: 409
-- Semi-Urban: 363
-- Urban: 228
+- Rural: 401
+- Semi-Urban: 337
+- Urban: 262
 
 ## FAMILY BACKGROUND
 
 Income Level Distribution:
-- Low: 338
-- Lower-Middle: 317
-- Middle: 224
-- Upper-Middle: 91
-- High: 30
+- Low: 315
+- Lower-Middle: 286
+- Middle: 272
+- Upper-Middle: 100
+- High: 27
 
-## 🆕 ACADEMIC HISTORY (NEW - CRITICAL FEATURES)
+## ACADEMIC HISTORY (CRITICAL FEATURES)
 
-Average Cumulative GPA: 6.70
-Average Credit Completion Rate: 83.70%
+Average Cumulative GPA: 6.61
+Average Credit Completion Rate: 82.94%
 
-Students on Academic Probation: 50
-Students with Course Withdrawals: 314
-Late Registration Students: 244
+Students on Academic Probation: 60
+Students with Course Withdrawals: 315
+Late Registration Students: 254
 
-First Year Students at High Risk: 26
+First Year Students at High Risk: 39
 
 GPA Distribution:
-- Excellent (8.5+): 31
-- Good (7.0-8.5): 379
-- Average (5.5-7.0): 426
-- Below Average (4.0-5.5): 159
-- Poor (<4.0): 5
+- Excellent (8.5+): 27
+- Good (7.0-8.5): 355
+- Average (5.5-7.0): 442
+- Below Average (4.0-5.5): 169
+- Poor (<4.0): 7
 
-## ATTENDANCE
+## ATTENDANCE (CLASS)
 
 Total Attendance Records: 40000
-Average Attendance: 73.92%
-Students with <75% Attendance: 470
+Average Attendance: 74.21%
+Students with <75% Attendance: 444
 
 ## MARKS & EXAMS
 
 Total Marks Records: 36000
-Average Marks: 59.08%
-Students Scoring <40%: 100
+Average Marks: 59.31%
+Students Scoring <40%: 105
 
 ## ASSIGNMENTS
 
 Total Assignment Records: 8000
-Average Completion Rate: 76.54%
-Students with <50% Completion: 22
+Average Completion Rate: 77.39%
+Students with <50% Completion: 19
 
 ## BEHAVIOR REPORTS
 
-Total Behavior Reports: 606
-Positive Reports: 379
-Negative Reports: 227
+Total Behavior Reports: 579
+Positive Reports: 370
+Negative Reports: 209
 
 ## LIBRARY USAGE
 
-Total Library Records: 7293
+Total Library Records: 7525
 Active Library Users: 600
-Average Visits per Student: 12.2
+Average Visits per Student: 12.5
 
 ## FEE PAYMENTS
 
 Total Fee Records: 4000
-Total Fee Collected: ₹78,385,000.00
-Students with Pending Fees: 551
+Total Fee Collected: ₹79,110,000.00
+Students with Pending Fees: 544
+
+## 🆕 EXTRACURRICULAR ACTIVITIES (NEW!)
+
+Total Students Participating: 637
+Participation Rate: 63.7%
+Total Activity Registrations: 1297
+Total Attendance Records: 26600
+
+Activity Categories:
+- Technical: 207
+- Sports: 227
+- Cultural: 213
+- Social: 216
+- Academic: 216
+- Other: 218
+
+Activity Level Distribution:
+- Very High: 128
+- High: 387
+- Medium: 458
+- Low: 324
+
+Leadership Roles:
+- President/Head: 29
+- Coordinator: 35
+- Core Team: 131
+
+Average Activity Attendance: 71.7%
 
 ================================================================================
-🆕 CRITICAL FEATURES ADDED:
+✅ ALL CRITICAL FEATURES INCLUDED:
 1. ✅ Previous Semester GPA
 2. ✅ Credit Hours (Completed vs Registered)
 3. ✅ First Year Performance
 4. ✅ Course Registration Delays
 5. ✅ Mid-Semester Withdrawal History
+6. 🆕 Extracurricular Participation (with detailed attendance)
+================================================================================
+
+TOTAL DATA POINTS: 128,001
+
 ================================================================================
