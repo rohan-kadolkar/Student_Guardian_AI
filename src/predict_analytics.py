@@ -1,12 +1,14 @@
 """
 PREDICTION & ANALYTICS
 Generate predictions and comprehensive student analytics
+OPTIMIZED FOR BATCH PROCESSING
 """
 
 import pandas as pd
 import numpy as np
 import joblib
 import json
+from feature_engineering import FeatureEngineer
 
 
 class StudentAnalytics:
@@ -18,6 +20,89 @@ class StudentAnalytics:
         self.feature_names = joblib.load(f'{model_dir}/feature_names.pkl')
         self.label_mapping = {0: 'Low Risk', 1: 'Medium Risk', 2: 'High Risk'}
         
+        # Initialize feature engineer
+        self.feature_engineer = FeatureEngineer()
+        self.feature_engineer.encoders = self.encoders
+        self.feature_engineer.scaler = self.scaler
+    
+    def batch_predict(self, df):
+        """
+        Predict for multiple students efficiently (OPTIMIZED)
+        Process entire dataframe at once instead of row-by-row
+        """
+        print(f"\n🔮 Processing {len(df)} students in batch mode...")
+        
+        # Store student IDs and original data for analytics
+        student_ids = df['student_id'].values
+        
+        # 1. Engineer features for entire dataframe at once
+        print("🔧 Engineering features for all students...")
+        df_processed = self.feature_engineer.engineer_features(df.copy())
+        
+        # 2. Prepare features (same as training)
+        X = df_processed[self.feature_names].copy()
+        
+        # 3. Encode categorical
+        categorical_cols = X.select_dtypes(include=['object']).columns.tolist()
+        for col in categorical_cols:
+            if col in self.encoders:
+                X[col] = self.encoders[col].transform(X[col].astype(str))
+        
+        # 4. Handle missing values
+        X.fillna(0, inplace=True)
+        
+        # 5. Scale features
+        numeric_cols = X.select_dtypes(include=[np.number]).columns.tolist()
+        X_scaled = X.copy()
+        X_scaled[numeric_cols] = self.scaler.transform(X[numeric_cols])
+        
+        # 6. Batch predictions
+        print("🎯 Generating predictions...")
+        predictions = self.model.predict(X_scaled)
+        probabilities = self.model.predict_proba(X_scaled)
+        
+        # 7. Generate analytics for each student
+        print("📊 Generating individual analytics...")
+        results = []
+        
+        for idx in range(len(df_processed)):
+            student_data = df_processed.iloc[idx]
+            prediction = predictions[idx]
+            probs = probabilities[idx]
+            
+            dropout_risk = self.label_mapping[prediction]
+            risk_confidence = probs[prediction] * 100
+            
+            # Generate analytics
+            analytics = self._generate_analytics(student_data)
+            
+            # Compile results - CONVERT ALL NUMPY TYPES TO PYTHON TYPES
+            result = {
+                'student_id': int(student_ids[idx]),
+                'dropout_risk': str(dropout_risk),
+                'risk_confidence': float(round(risk_confidence, 2)),
+                'risk_probabilities': {
+                    'Low Risk': float(round(probs[0] * 100, 2)),
+                    'Medium Risk': float(round(probs[1] * 100, 2)),
+                    'High Risk': float(round(probs[2] * 100, 2))
+                },
+                'learning_style': str(analytics['learning_style']),
+                'strengths': [str(s) for s in analytics['strengths']],
+                'weaknesses': [str(w) for w in analytics['weaknesses']],
+                'interests': [str(i) for i in analytics['interests']],
+                'recommendations': [str(r) for r in self._generate_recommendations(dropout_risk, analytics)]
+            }
+            
+            results.append(result)
+            
+            # Progress indicator
+            if (idx + 1) % 100 == 0:
+                print(f"   Processed {idx + 1}/{len(df_processed)} students...")
+        
+        print(f"✅ Completed predictions for {len(results)} students")
+        
+        return results
+    
     def predict_student(self, student_data):
         """
         Predict dropout risk and generate analytics for a single student
@@ -34,58 +119,9 @@ class StudentAnalytics:
         else:
             df = pd.DataFrame([student_data.to_dict()])
         
-        student_id = df['student_id'].values[0]
-        
-        # Prepare features (same as training)
-        from feature_engineering import FeatureEngineer
-        engineer = FeatureEngineer()
-        engineer.encoders = self.encoders
-        engineer.scaler = self.scaler
-        
-        df = engineer.engineer_features(df)
-        
-        # Select and encode features
-        X = df[self.feature_names]
-        
-        categorical_cols = X.select_dtypes(include=['object']).columns.tolist()
-        for col in categorical_cols:
-            if col in self.encoders:
-                X[col] = self.encoders[col].transform(X[col].astype(str))
-        
-        X.fillna(0, inplace=True)
-        
-        # Scale
-        numeric_cols = X.select_dtypes(include=[np.number]).columns.tolist()
-        X[numeric_cols] = self.scaler.transform(X[numeric_cols])
-        
-        # Predict
-        prediction = self.model.predict(X)[0]
-        probabilities = self.model.predict_proba(X)[0]
-        
-        dropout_risk = self.label_mapping[prediction]
-        risk_confidence = probabilities[prediction] * 100
-        
-        # Generate analytics
-        analytics = self._generate_analytics(df.iloc[0])
-        
-        # Compile results
-        result = {
-            'student_id': int(student_id),
-            'dropout_risk': dropout_risk,
-            'risk_confidence': round(risk_confidence, 2),
-            'risk_probabilities': {
-                'Low Risk': round(probabilities[0] * 100, 2),
-                'Medium Risk': round(probabilities[1] * 100, 2),
-                'High Risk': round(probabilities[2] * 100, 2)
-            },
-            'learning_style': analytics['learning_style'],
-            'strengths': analytics['strengths'],
-            'weaknesses': analytics['weaknesses'],
-            'interests': analytics['interests'],
-            'recommendations': self._generate_recommendations(dropout_risk, analytics)
-        }
-        
-        return result
+        # Use batch_predict for single student
+        results = self.batch_predict(df)
+        return results[0] if results else None
     
     def _generate_analytics(self, student):
         """Generate individual student analytics"""
@@ -161,9 +197,9 @@ class StudentAnalytics:
         
         return {
             'learning_style': learning_style,
-            'strengths': strengths[:5],  # Top 5
-            'weaknesses': weaknesses[:5],  # Top 5
-            'interests': interests[:5]  # Top 5
+            'strengths': strengths[:5] if strengths else ['None identified'],
+            'weaknesses': weaknesses[:5] if weaknesses else ['None identified'],
+            'interests': interests[:5] if interests else ['None identified']
         }
     
     def _generate_recommendations(self, risk_level, analytics):
@@ -190,46 +226,45 @@ class StudentAnalytics:
             recommendations.append("💰 Discuss financial aid/scholarship options")
         
         # Leverage strengths
-        if analytics['strengths']:
+        if analytics['strengths'] and analytics['strengths'][0] != 'None identified':
             recommendations.append(f"💪 Leverage strengths: {', '.join(analytics['strengths'][:2])}")
         
-        return recommendations[:5]  # Top 5 recommendations
-    
-    def batch_predict(self, df):
-        """Predict for multiple students"""
-        results = []
+        if risk_level == 'Low Risk':
+            recommendations.append("✅ Continue current performance")
+            recommendations.append("🌟 Consider peer mentoring opportunities")
         
-        for idx, student in df.iterrows():
-            try:
-                result = self.predict_student(student)
-                results.append(result)
-            except Exception as e:
-                print(f"⚠️ Error processing student {student.get('student_id', idx)}: {e}")
-                continue
-        
-        return results
+        return recommendations[:6]  # Top 6 recommendations
 
 
 if __name__ == "__main__":
+    import os
+    
     # Load test data
     df = pd.read_csv('processed_data.csv')
     
     # Initialize analytics
-    analytics = StudentAnalytics(model_dir='models')
+    models_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'models')
+    analytics = StudentAnalytics(model_dir=models_dir)
     
-    # Predict for all students
+    # Predict for all students (OPTIMIZED - batch mode)
     print("🔮 Generating predictions for all students...")
     results = analytics.batch_predict(df)
     
     # Save results
-    with open('student_analytics_results.json', 'w') as f:
+    output_dir = os.path.dirname(os.path.dirname(__file__))
+    results_path = os.path.join(output_dir, 'student_analytics_results.json')
+    
+    with open(results_path, 'w') as f:
         json.dump(results, f, indent=2)
     
     print(f"\n✅ Predictions complete: {len(results)} students")
-    print(f"💾 Results saved: student_analytics_results.json")
+    print(f"💾 Results saved: {results_path}")
     
     # Display sample
-    print("\n📋 Sample Results:")
+    print("\n📋 Sample Results (First 3):")
     for i in range(min(3, len(results))):
         print(f"\n{'-'*60}")
-        print(json.dumps(results[i], indent=2))
+        print(f"Student ID: {results[i]['student_id']}")
+        print(f"Risk: {results[i]['dropout_risk']} ({results[i]['risk_confidence']:.1f}%)")
+        print(f"Learning Style: {results[i]['learning_style']}")
+        print(f"Strengths: {', '.join(results[i]['strengths'][:3])}")

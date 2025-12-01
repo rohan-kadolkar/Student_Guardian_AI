@@ -10,7 +10,7 @@ from datetime import datetime
 
 
 class DataLoader:
-    def __init__(self, data_dir='dummy_data'):
+    def __init__(self, data_dir='data/dummy_data'):
         self.data_dir = data_dir
         
     def load_all_data(self):

@@ -13,6 +13,7 @@ import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
+import os
 warnings.filterwarnings('ignore')
 
 from feature_engineering import FeatureEngineer
@@ -176,8 +177,14 @@ class DropoutModel:
         plt.title(f'Top {top_n} Feature Importances')
         plt.xlabel('Importance')
         plt.tight_layout()
-        plt.savefig('models/feature_importance.png', dpi=300)
-        print(f"\n💾 Feature importance plot saved: models/feature_importance.png")
+        # plt.savefig('models/feature_importance.png', dpi=300)error line
+        output_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
+                               'models', 'feature_importance.png')
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        plt.savefig(output_path, dpi=300)
+        plt.close()
+        # print(f"\n💾 Feature importance plot saved: models/feature_importance.png") error line
+        print(f"\n💾 Feature importance plot saved: {output_path}")
     
     def save_model(self, output_dir='models'):
         """Save trained model and preprocessors"""

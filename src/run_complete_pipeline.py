@@ -25,7 +25,7 @@ def main():
     
     # Step 1: Load and process data
     print("\n📥 STEP 1: Loading data...")
-    loader = DataLoader(data_dir='dummy_data')
+    loader = DataLoader(data_dir='data/dummy_data')
     master_df = loader.load_all_data()
     master_df.to_csv('processed_data.csv', index=False)
     
