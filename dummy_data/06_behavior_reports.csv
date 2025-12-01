@@ -1,0 +1,605 @@
+student_id,report_date,behavior_type,behavior,description,reported_by,severity
+632,2025-09-05,Positive,Helpful to Peers,Assists other students,HOD,Positive
+632,2025-10-20,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,Medium
+632,2025-11-16,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+405,2025-10-08,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+405,2025-10-17,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+986,2025-10-08,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+986,2025-09-16,Positive,Good Team Player,Works well in groups,HOD,Positive
+874,2025-11-22,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+874,2025-10-07,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+874,2025-10-14,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Low
+187,2025-10-22,Positive,Punctual,Always on time for classes,HOD,Positive
+187,2025-10-03,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+187,2025-09-10,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+388,2025-09-05,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+388,2025-10-19,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+388,2025-10-05,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+41,2025-09-27,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+259,2025-11-19,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+259,2025-10-13,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+259,2025-10-02,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+969,2025-09-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+365,2025-11-18,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+808,2025-09-22,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+229,2025-09-13,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+234,2025-11-02,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+234,2025-10-03,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+234,2025-10-27,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+849,2025-09-21,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+849,2025-11-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+767,2025-09-25,Negative,Late to Class,Frequently arrives late,Prof. Mehta,Low
+354,2025-11-21,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+354,2025-11-09,Negative,Late to Class,Frequently arrives late,HOD,High
+100,2025-09-24,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+100,2025-11-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+786,2025-09-07,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+786,2025-09-17,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+786,2025-09-30,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+22,2025-11-14,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+22,2025-11-05,Negative,Distracted in Class,Not paying attention,HOD,Low
+22,2025-09-09,Negative,Late to Class,Frequently arrives late,HOD,High
+178,2025-10-17,Negative,Distracted in Class,Not paying attention,HOD,Medium
+471,2025-11-13,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+471,2025-09-13,Negative,Distracted in Class,Not paying attention,HOD,Medium
+718,2025-09-18,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+196,2025-11-01,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+208,2025-09-02,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+72,2025-10-22,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+72,2025-09-22,Positive,Helpful to Peers,Assists other students,HOD,Positive
+109,2025-09-10,Positive,Punctual,Always on time for classes,HOD,Positive
+109,2025-11-26,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+3,2025-09-30,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+278,2025-10-21,Negative,Late to Class,Frequently arrives late,Prof. Sharma,High
+278,2025-10-14,Negative,Late to Class,Frequently arrives late,Prof. Mehta,Medium
+876,2025-09-06,Negative,Distracted in Class,Not paying attention,Prof. Reddy,High
+283,2025-11-28,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+399,2025-09-03,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+399,2025-11-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+403,2025-11-05,Positive,Helpful to Peers,Assists other students,HOD,Positive
+357,2025-09-22,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+556,2025-09-14,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+556,2025-10-06,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+556,2025-10-22,Negative,Distracted in Class,Not paying attention,HOD,Low
+710,2025-10-21,Negative,Late to Class,Frequently arrives late,HOD,Low
+710,2025-09-03,Positive,Punctual,Always on time for classes,HOD,Positive
+697,2025-11-09,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+697,2025-10-18,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+697,2025-10-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+970,2025-11-10,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+970,2025-11-12,Negative,Late to Class,Frequently arrives late,Prof. Mehta,Medium
+970,2025-10-06,Negative,Distracted in Class,Not paying attention,Prof. Reddy,High
+55,2025-10-29,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+544,2025-09-17,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+544,2025-09-12,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+258,2025-11-14,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+258,2025-11-02,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+867,2025-10-25,Negative,Distracted in Class,Not paying attention,HOD,High
+867,2025-10-29,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+867,2025-09-06,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+241,2025-11-11,Negative,Distracted in Class,Not paying attention,Prof. Sharma,High
+811,2025-11-22,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Medium
+811,2025-09-26,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+386,2025-11-19,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+386,2025-09-11,Negative,Irregular Attendance,Missing classes without notice,HOD,High
+386,2025-09-20,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+159,2025-09-02,Positive,Good Team Player,Works well in groups,HOD,Positive
+159,2025-11-28,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+926,2025-09-27,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+926,2025-11-22,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Medium
+926,2025-09-30,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+265,2025-11-27,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+265,2025-10-26,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Low
+265,2025-10-02,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+785,2025-10-28,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+785,2025-09-05,Negative,Late to Class,Frequently arrives late,HOD,Medium
+82,2025-09-25,Negative,Distracted in Class,Not paying attention,Prof. Mehta,High
+470,2025-09-12,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+470,2025-11-13,Negative,Distracted in Class,Not paying attention,HOD,High
+470,2025-09-20,Negative,Late to Class,Frequently arrives late,Prof. Mehta,Medium
+667,2025-11-22,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+667,2025-10-18,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+667,2025-10-23,Negative,Distracted in Class,Not paying attention,Prof. Reddy,High
+858,2025-10-14,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+516,2025-09-15,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+992,2025-11-11,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+992,2025-10-24,Positive,Helpful to Peers,Assists other students,HOD,Positive
+343,2025-10-21,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+108,2025-10-10,Positive,Punctual,Always on time for classes,HOD,Positive
+108,2025-10-03,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+108,2025-09-11,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+263,2025-09-22,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+263,2025-11-18,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+98,2025-09-03,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+462,2025-11-30,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+367,2025-09-19,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+367,2025-09-24,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+367,2025-09-07,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,Low
+796,2025-11-12,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+796,2025-10-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+861,2025-10-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+861,2025-10-24,Positive,Punctual,Always on time for classes,HOD,Positive
+861,2025-10-28,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+326,2025-10-22,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+326,2025-10-27,Negative,Late to Class,Frequently arrives late,Prof. Mehta,High
+326,2025-09-25,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+787,2025-09-11,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+787,2025-10-08,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+787,2025-11-09,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+417,2025-11-23,Positive,Punctual,Always on time for classes,HOD,Positive
+447,2025-10-22,Negative,Late to Class,Frequently arrives late,Prof. Mehta,Medium
+447,2025-11-22,Positive,Good Team Player,Works well in groups,HOD,Positive
+900,2025-10-19,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+900,2025-09-25,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+900,2025-11-04,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+771,2025-11-11,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+771,2025-10-27,Positive,Good Team Player,Works well in groups,HOD,Positive
+771,2025-09-07,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+893,2025-09-13,Negative,Distracted in Class,Not paying attention,HOD,Low
+893,2025-10-29,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+893,2025-11-22,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Medium
+917,2025-10-12,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+917,2025-10-21,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+917,2025-09-30,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+940,2025-10-12,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+946,2025-09-20,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+946,2025-09-14,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Medium
+946,2025-09-22,Negative,Distracted in Class,Not paying attention,HOD,Medium
+731,2025-09-22,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+731,2025-09-12,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+731,2025-10-31,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Low
+748,2025-10-30,Negative,Late to Class,Frequently arrives late,HOD,Low
+748,2025-09-21,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+748,2025-09-09,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+689,2025-09-07,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,Low
+689,2025-09-20,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+689,2025-10-29,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+760,2025-10-10,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+760,2025-09-15,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Low
+760,2025-09-26,Negative,Late to Class,Frequently arrives late,HOD,Low
+328,2025-09-07,Positive,Helpful to Peers,Assists other students,HOD,Positive
+732,2025-10-19,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Medium
+879,2025-09-29,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+616,2025-09-23,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+616,2025-10-17,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+30,2025-11-25,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+30,2025-10-13,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+30,2025-10-16,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+699,2025-11-03,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+699,2025-09-16,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+318,2025-09-30,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+918,2025-10-06,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+918,2025-11-04,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+918,2025-10-16,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+433,2025-11-30,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+433,2025-09-15,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Low
+856,2025-10-09,Negative,Distracted in Class,Not paying attention,Prof. Mehta,High
+856,2025-10-01,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+510,2025-11-13,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+510,2025-09-14,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+150,2025-09-23,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+150,2025-11-28,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+150,2025-10-20,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+509,2025-09-13,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+776,2025-09-22,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+776,2025-11-10,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+776,2025-10-06,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+634,2025-10-30,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+634,2025-11-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+235,2025-11-06,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+183,2025-10-20,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+183,2025-11-28,Negative,Late to Class,Frequently arrives late,HOD,Medium
+169,2025-10-15,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+169,2025-11-20,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,Low
+129,2025-09-06,Negative,Distracted in Class,Not paying attention,HOD,Medium
+129,2025-11-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+129,2025-10-13,Negative,Late to Class,Frequently arrives late,HOD,High
+251,2025-11-11,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+251,2025-09-18,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+209,2025-11-14,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+209,2025-11-29,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+209,2025-10-08,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+162,2025-10-14,Negative,Irregular Attendance,Missing classes without notice,HOD,High
+162,2025-11-26,Negative,Late to Class,Frequently arrives late,HOD,Medium
+162,2025-09-19,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+783,2025-10-24,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+783,2025-10-29,Positive,Punctual,Always on time for classes,HOD,Positive
+111,2025-09-20,Negative,Irregular Attendance,Missing classes without notice,HOD,High
+111,2025-09-10,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+111,2025-09-28,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+50,2025-10-12,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+50,2025-11-07,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Low
+50,2025-09-16,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+350,2025-11-13,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+85,2025-09-28,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+85,2025-09-10,Positive,Punctual,Always on time for classes,HOD,Positive
+552,2025-09-14,Negative,Late to Class,Frequently arrives late,Prof. Mehta,High
+552,2025-10-02,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+552,2025-10-13,Positive,Punctual,Always on time for classes,HOD,Positive
+211,2025-10-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+211,2025-10-09,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+894,2025-11-07,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+894,2025-11-14,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+894,2025-09-17,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+103,2025-09-10,Positive,Good Team Player,Works well in groups,HOD,Positive
+558,2025-09-09,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+558,2025-10-25,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+558,2025-11-24,Positive,Helpful to Peers,Assists other students,HOD,Positive
+95,2025-11-19,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Low
+763,2025-10-16,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+763,2025-10-24,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+214,2025-09-13,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+214,2025-09-24,Negative,Distracted in Class,Not paying attention,Prof. Mehta,High
+214,2025-11-14,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+356,2025-10-01,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+356,2025-11-11,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+994,2025-09-13,Positive,Punctual,Always on time for classes,HOD,Positive
+994,2025-10-18,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+903,2025-09-14,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+903,2025-11-18,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+903,2025-11-18,Positive,Helpful to Peers,Assists other students,HOD,Positive
+62,2025-10-21,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+62,2025-11-09,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+443,2025-11-04,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+133,2025-11-11,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+133,2025-10-05,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+564,2025-10-05,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+564,2025-11-05,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Medium
+564,2025-10-04,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+458,2025-10-20,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+458,2025-09-04,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+458,2025-10-24,Positive,Good Team Player,Works well in groups,HOD,Positive
+650,2025-09-23,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+164,2025-10-27,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+164,2025-11-30,Positive,Helpful to Peers,Assists other students,HOD,Positive
+571,2025-11-06,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+906,2025-09-23,Negative,Late to Class,Frequently arrives late,HOD,Medium
+906,2025-11-26,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+180,2025-10-13,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+519,2025-09-08,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+519,2025-09-14,Negative,Irregular Attendance,Missing classes without notice,HOD,Low
+947,2025-09-16,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,Low
+407,2025-10-15,Negative,Late to Class,Frequently arrives late,HOD,High
+503,2025-09-24,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+503,2025-11-28,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+503,2025-11-11,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+582,2025-11-22,Negative,Distracted in Class,Not paying attention,HOD,High
+582,2025-10-29,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+582,2025-09-22,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,Medium
+250,2025-10-22,Positive,Good Team Player,Works well in groups,HOD,Positive
+501,2025-10-28,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+501,2025-11-26,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+501,2025-11-10,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+508,2025-11-30,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+508,2025-09-15,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+508,2025-11-07,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+340,2025-10-22,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+213,2025-09-09,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+213,2025-10-10,Negative,Late to Class,Frequently arrives late,Prof. Mehta,High
+213,2025-09-14,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+58,2025-11-06,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+58,2025-11-12,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+58,2025-10-29,Positive,Punctual,Always on time for classes,HOD,Positive
+349,2025-10-22,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+349,2025-11-14,Positive,Good Team Player,Works well in groups,HOD,Positive
+349,2025-10-22,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+400,2025-09-19,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+595,2025-09-19,Negative,Distracted in Class,Not paying attention,HOD,High
+595,2025-09-18,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+595,2025-11-14,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+550,2025-10-14,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+550,2025-11-30,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Medium
+536,2025-11-27,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+536,2025-11-29,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+536,2025-09-23,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+104,2025-11-19,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+761,2025-11-25,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+761,2025-10-05,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+761,2025-10-23,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+389,2025-10-06,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+979,2025-10-29,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+979,2025-10-02,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+979,2025-09-13,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,Low
+135,2025-10-03,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+135,2025-09-07,Negative,Late to Class,Frequently arrives late,HOD,Medium
+135,2025-10-17,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+989,2025-10-09,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+989,2025-10-22,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+134,2025-10-04,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+134,2025-11-18,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+584,2025-09-20,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+584,2025-10-28,Positive,Helpful to Peers,Assists other students,HOD,Positive
+944,2025-09-25,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+944,2025-09-20,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+944,2025-11-06,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+514,2025-09-10,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+514,2025-10-09,Negative,Late to Class,Frequently arrives late,Prof. Sharma,High
+581,2025-11-10,Negative,Distracted in Class,Not paying attention,HOD,Low
+888,2025-10-25,Positive,Punctual,Always on time for classes,HOD,Positive
+963,2025-11-06,Negative,Late to Class,Frequently arrives late,HOD,High
+963,2025-11-09,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+963,2025-11-15,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+198,2025-09-16,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+523,2025-09-20,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+746,2025-10-25,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+746,2025-11-10,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+7,2025-11-05,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+765,2025-11-09,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+338,2025-10-17,Negative,Distracted in Class,Not paying attention,HOD,Low
+338,2025-09-23,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+368,2025-10-29,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+368,2025-09-18,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+368,2025-11-20,Positive,Punctual,Always on time for classes,HOD,Positive
+355,2025-10-23,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+355,2025-09-15,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+355,2025-10-05,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+964,2025-11-22,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+964,2025-09-24,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+614,2025-10-14,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+614,2025-09-29,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+614,2025-10-13,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+315,2025-10-20,Positive,Punctual,Always on time for classes,HOD,Positive
+279,2025-10-02,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+279,2025-09-17,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+279,2025-10-29,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+735,2025-11-01,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+735,2025-11-01,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,Low
+735,2025-11-06,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+390,2025-11-17,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+99,2025-11-04,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+420,2025-09-05,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+420,2025-10-12,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+420,2025-09-08,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+450,2025-09-10,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+248,2025-10-07,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+248,2025-09-08,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+961,2025-09-04,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+961,2025-09-12,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+163,2025-10-24,Negative,Distracted in Class,Not paying attention,Prof. Sharma,High
+163,2025-09-04,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+492,2025-11-05,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+492,2025-11-05,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+692,2025-09-11,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+692,2025-10-24,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+828,2025-11-06,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Low
+828,2025-09-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+828,2025-10-30,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+452,2025-11-14,Negative,Irregular Attendance,Missing classes without notice,HOD,High
+452,2025-10-23,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+452,2025-10-22,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+670,2025-11-06,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+670,2025-11-12,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Low
+670,2025-11-10,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+286,2025-09-09,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+286,2025-11-06,Positive,Good Team Player,Works well in groups,HOD,Positive
+937,2025-10-24,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+35,2025-11-02,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+35,2025-09-09,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+904,2025-11-10,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Medium
+161,2025-09-25,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+161,2025-10-15,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+309,2025-11-02,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+309,2025-11-09,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+309,2025-11-14,Negative,Distracted in Class,Not paying attention,Prof. Mehta,High
+224,2025-09-24,Positive,Punctual,Always on time for classes,HOD,Positive
+930,2025-10-13,Negative,Distracted in Class,Not paying attention,HOD,High
+930,2025-10-06,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+538,2025-10-24,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+517,2025-10-16,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+188,2025-11-01,Positive,Good Team Player,Works well in groups,HOD,Positive
+795,2025-10-12,Negative,Distracted in Class,Not paying attention,Prof. Reddy,High
+795,2025-11-30,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+473,2025-10-01,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,Low
+987,2025-11-12,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+987,2025-09-25,Negative,Irregular Attendance,Missing classes without notice,HOD,Low
+987,2025-10-26,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+756,2025-09-07,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+756,2025-11-26,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+600,2025-10-20,Positive,Good Team Player,Works well in groups,HOD,Positive
+600,2025-10-02,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+600,2025-11-20,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+915,2025-10-11,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+915,2025-09-23,Positive,Punctual,Always on time for classes,HOD,Positive
+569,2025-11-29,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+569,2025-09-21,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+569,2025-10-03,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+956,2025-10-26,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+707,2025-09-02,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+707,2025-09-05,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+707,2025-09-18,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+780,2025-09-26,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+780,2025-09-18,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+780,2025-11-16,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+916,2025-10-16,Negative,Irregular Attendance,Missing classes without notice,HOD,Low
+916,2025-09-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+916,2025-09-09,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+525,2025-10-04,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+525,2025-09-27,Negative,Late to Class,Frequently arrives late,Prof. Sharma,High
+626,2025-10-05,Positive,Good Team Player,Works well in groups,HOD,Positive
+626,2025-10-29,Positive,Helpful to Peers,Assists other students,HOD,Positive
+626,2025-10-18,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+661,2025-09-29,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+661,2025-10-13,Negative,Late to Class,Frequently arrives late,Prof. Sharma,High
+792,2025-10-31,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+792,2025-10-14,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+792,2025-10-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+984,2025-10-01,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,High
+984,2025-10-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+984,2025-11-14,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+513,2025-11-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+549,2025-11-25,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+549,2025-11-02,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+549,2025-11-01,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+359,2025-09-23,Negative,Late to Class,Frequently arrives late,HOD,Medium
+359,2025-09-12,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+359,2025-09-06,Positive,Good Team Player,Works well in groups,HOD,Positive
+123,2025-10-03,Positive,Punctual,Always on time for classes,HOD,Positive
+64,2025-11-16,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+64,2025-11-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+641,2025-11-21,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+641,2025-10-28,Negative,Late to Class,Frequently arrives late,Prof. Mehta,High
+613,2025-09-16,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+496,2025-09-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+496,2025-09-25,Negative,Distracted in Class,Not paying attention,HOD,High
+394,2025-10-31,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+394,2025-10-30,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+679,2025-10-09,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+679,2025-11-30,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+646,2025-10-24,Negative,Irregular Attendance,Missing classes without notice,HOD,High
+646,2025-11-29,Positive,Good Team Player,Works well in groups,HOD,Positive
+176,2025-09-08,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Low
+176,2025-11-05,Negative,Distracted in Class,Not paying attention,HOD,Low
+734,2025-10-25,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+145,2025-10-23,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+117,2025-10-28,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+202,2025-10-05,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+823,2025-10-17,Positive,Punctual,Always on time for classes,HOD,Positive
+823,2025-10-20,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+823,2025-10-05,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Low
+477,2025-09-10,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+527,2025-09-27,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+706,2025-10-11,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+706,2025-10-09,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+540,2025-10-27,Positive,Good Team Player,Works well in groups,HOD,Positive
+540,2025-10-29,Negative,Late to Class,Frequently arrives late,Prof. Sharma,High
+320,2025-09-07,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+320,2025-10-04,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+282,2025-09-12,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+282,2025-11-03,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+630,2025-09-02,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+716,2025-11-19,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Low
+454,2025-11-15,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+807,2025-10-16,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+807,2025-10-23,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+719,2025-09-13,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+719,2025-10-16,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+427,2025-09-18,Negative,Distracted in Class,Not paying attention,HOD,High
+437,2025-11-19,Negative,Irregular Attendance,Missing classes without notice,Prof. Reddy,Medium
+437,2025-10-02,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+463,2025-09-07,Negative,Irregular Attendance,Missing classes without notice,HOD,Low
+19,2025-11-13,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+19,2025-11-23,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+19,2025-10-28,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+601,2025-11-15,Negative,Irregular Attendance,Missing classes without notice,HOD,Low
+988,2025-09-20,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+988,2025-10-06,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,Medium
+988,2025-11-03,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+295,2025-10-30,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+295,2025-09-16,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+153,2025-11-16,Negative,Late to Class,Frequently arrives late,Prof. Sharma,High
+153,2025-11-16,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+696,2025-11-07,Positive,Good Team Player,Works well in groups,Prof. Sharma,Positive
+696,2025-10-28,Positive,Good Team Player,Works well in groups,HOD,Positive
+696,2025-11-02,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+659,2025-09-29,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+720,2025-11-22,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+720,2025-10-15,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+720,2025-09-17,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+387,2025-09-13,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+387,2025-10-27,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+387,2025-11-21,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+119,2025-09-25,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Medium
+119,2025-09-20,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+489,2025-11-21,Negative,Distracted in Class,Not paying attention,HOD,Medium
+489,2025-10-24,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,Medium
+512,2025-11-07,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+512,2025-09-06,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+18,2025-09-13,Negative,Irregular Attendance,Missing classes without notice,Prof. Sharma,High
+562,2025-11-26,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+562,2025-09-30,Positive,Helpful to Peers,Assists other students,HOD,Positive
+524,2025-09-28,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+524,2025-11-06,Negative,Irregular Attendance,Missing classes without notice,HOD,High
+441,2025-09-21,Negative,Late to Class,Frequently arrives late,Prof. Mehta,High
+381,2025-11-14,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+381,2025-09-24,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+330,2025-10-12,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+330,2025-11-18,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+702,2025-09-04,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+45,2025-10-21,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+45,2025-11-17,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+181,2025-10-03,Negative,Irregular Attendance,Missing classes without notice,HOD,Low
+181,2025-11-25,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+57,2025-09-09,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+57,2025-11-20,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+57,2025-09-09,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+28,2025-11-18,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+28,2025-10-31,Negative,Late to Class,Frequently arrives late,Prof. Mehta,High
+28,2025-10-11,Positive,Helpful to Peers,Assists other students,HOD,Positive
+599,2025-09-24,Negative,Distracted in Class,Not paying attention,Prof. Reddy,High
+438,2025-09-20,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+554,2025-09-10,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+554,2025-11-02,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+554,2025-11-28,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+168,2025-09-07,Negative,Irregular Attendance,Missing classes without notice,HOD,Medium
+755,2025-09-12,Positive,Excellent Participation,Always participates actively in class,Prof. Sharma,Positive
+755,2025-09-21,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+755,2025-10-29,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+854,2025-11-08,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+854,2025-10-06,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+184,2025-11-11,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+184,2025-11-19,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+184,2025-09-05,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+594,2025-10-30,Negative,Late to Class,Frequently arrives late,HOD,Medium
+594,2025-11-14,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+553,2025-11-15,Positive,Helpful to Peers,Assists other students,HOD,Positive
+121,2025-10-13,Negative,Distracted in Class,Not paying attention,HOD,Low
+121,2025-10-09,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+393,2025-09-26,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+393,2025-09-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+789,2025-11-13,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+789,2025-11-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+789,2025-09-02,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+722,2025-09-22,Positive,Punctual,Always on time for classes,Prof. Mehta,Positive
+351,2025-10-10,Negative,Late to Class,Frequently arrives late,Prof. Reddy,Low
+995,2025-11-12,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+995,2025-11-02,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+995,2025-09-19,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+408,2025-11-06,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Medium
+898,2025-10-30,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+980,2025-11-25,Negative,Distracted in Class,Not paying attention,Prof. Reddy,Low
+980,2025-09-28,Positive,Helpful to Peers,Assists other students,Prof. Mehta,Positive
+385,2025-11-22,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+20,2025-11-19,Negative,Late to Class,Frequently arrives late,Prof. Reddy,High
+300,2025-10-07,Positive,Helpful to Peers,Assists other students,HOD,Positive
+300,2025-11-14,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+155,2025-11-07,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+155,2025-10-05,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+155,2025-10-16,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+712,2025-11-20,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+712,2025-11-03,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+273,2025-11-27,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Reddy,Positive
+444,2025-09-09,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+912,2025-10-03,Positive,Punctual,Always on time for classes,HOD,Positive
+912,2025-09-13,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+912,2025-09-06,Positive,Punctual,Always on time for classes,Prof. Reddy,Positive
+138,2025-10-22,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Low
+138,2025-10-17,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+797,2025-09-15,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,High
+797,2025-11-10,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+772,2025-10-10,Positive,Excellent Participation,Always participates actively in class,Prof. Reddy,Positive
+448,2025-10-01,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+448,2025-11-17,Positive,Helpful to Peers,Assists other students,Prof. Sharma,Positive
+448,2025-09-28,Positive,Helpful to Peers,Assists other students,Prof. Reddy,Positive
+929,2025-10-26,Positive,Helpful to Peers,Assists other students,HOD,Positive
+977,2025-10-29,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+977,2025-10-09,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+977,2025-09-29,Positive,Excellent Participation,Always participates actively in class,Prof. Mehta,Positive
+802,2025-10-30,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+802,2025-11-04,Positive,Punctual,Always on time for classes,Prof. Sharma,Positive
+802,2025-11-28,Positive,Excellent Participation,Always participates actively in class,HOD,Positive
+845,2025-10-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Mehta,Positive
+845,2025-09-23,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+845,2025-09-26,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive
+907,2025-10-24,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+439,2025-11-19,Negative,Distracted in Class,Not paying attention,Prof. Sharma,Medium
+439,2025-11-17,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Medium
+993,2025-11-30,Positive,Respectful Behavior,Shows respect to faculty and peers,HOD,Positive
+993,2025-11-21,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+993,2025-11-01,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Medium
+775,2025-11-26,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+775,2025-10-31,Negative,Late to Class,Frequently arrives late,Prof. Sharma,Low
+126,2025-10-10,Positive,Good Team Player,Works well in groups,Prof. Mehta,Positive
+126,2025-11-14,Negative,Irregular Attendance,Missing classes without notice,Prof. Mehta,Medium
+934,2025-09-07,Negative,Distracted in Class,Not paying attention,Prof. Mehta,Low
+934,2025-09-14,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Sharma,Positive
+644,2025-11-06,Positive,Good Team Player,Works well in groups,Prof. Reddy,Positive

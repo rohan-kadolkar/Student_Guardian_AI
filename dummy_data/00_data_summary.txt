@@ -1,0 +1,66 @@
+
+    ================================================================================
+    DUMMY DATA GENERATION SUMMARY
+    ================================================================================
+
+    Generation Date: 2025-12-01 00:50:06
+    Total Students: 1000
+
+    ## DEMOGRAPHICS
+
+    Male Students: 475
+    Female Students: 525
+
+    Location Distribution:
+
+    - Rural: 391
+    - Semi-Urban: 364
+    - Urban: 245
+
+    ## FAMILY BACKGROUND
+
+    Income Level Distribution:
+
+    - Low: 327
+    - Lower-Middle: 289
+    - Middle: 250
+    - Upper-Middle: 108
+    - High: 26
+
+    ## ATTENDANCE
+
+    Total Attendance Records: 40000
+    Average Attendance: 74.06%
+    Students with <75% Attendance: 473
+
+    ## MARKS & EXAMS
+
+    Total Marks Records: 36000
+    Average Marks: 58.97%
+    Students Scoring <40%: 103
+
+    ## ASSIGNMENTS
+
+    Total Assignment Records: 8000
+    Average Completion Rate: 77.46%
+    Students with <50% Completion: 19
+
+    ## BEHAVIOR REPORTS
+
+    Total Behavior Reports: 604
+    Positive Reports: 397
+    Negative Reports: 207
+
+    ## LIBRARY USAGE
+
+    Total Library Records: 7368
+    Active Library Users: 600
+    Average Visits per Student: 12.3
+
+    ## FEE PAYMENTS
+
+    Total Fee Records: 4000
+    Total Fee Collected: ₹77,965,000.00
+    Students with Pending Fees: 560
+    ================================================================================
+    
