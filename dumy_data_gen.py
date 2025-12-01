@@ -47,7 +47,7 @@ class CompleteDummyDataGenerator:
             'Electronics', 'Mechanical Engineering', 'English', 'Data Structures'
         ]
 
-        print(f"📊 Initializing data generator for {n_students} students...")
+        print(f"📊 Initializing ENHANCED data generator for {n_students} students...")
 
     def generate_student_master(self):
         """Generate main student data"""
@@ -61,7 +61,6 @@ class CompleteDummyDataGenerator:
             age = random.randint(17, 23)
             location = random.choice(self.cities)
             
-            # Weighted selection using random.choices
             location_type = random.choices(['Rural', 'Semi-Urban', 'Urban'], weights=[0.40, 0.35, 0.25], k=1)[0]
 
             branch_code = random.choice(['CS', 'EC', 'ME', 'CE', 'EE'])
@@ -164,6 +163,212 @@ class CompleteDummyDataGenerator:
         print(f"✅ Generated family background for {len(df)} students")
         return df
 
+    # ============================================
+    # 🆕 NEW: ACADEMIC PERFORMANCE HISTORY
+    # ============================================
+    def generate_academic_history(self, students_df):
+        """
+        Generate academic history including:
+        1. Previous Semester GPA (CRITICAL)
+        2. Credit Hours (Registered vs Completed) (CRITICAL)
+        3. First Year Performance (CRITICAL)
+        4. Course Registration Delays (HIGH)
+        5. Mid-Semester Withdrawal History (HIGH)
+        """
+        print("🔄 Generating academic history data (NEW - CRITICAL FEATURES)...")
+        academic_records = []
+
+        for _, student in students_df.iterrows():
+            current_year = student['year']
+            current_semester = student['semester']
+            
+            # Calculate total semesters completed
+            semesters_completed = (current_year - 1) * 2 + (current_semester - 1)
+            
+            # Generate performance trend (declining/stable/improving)
+            performance_trend = random.choices(
+                ['Declining', 'Stable', 'Improving'], 
+                weights=[0.25, 0.50, 0.25], 
+                k=1
+            )[0]
+            
+            # 1. PREVIOUS SEMESTER GPA (Most important predictor)
+            if semesters_completed > 0:
+                # Base GPA influenced by year and trend
+                if performance_trend == 'Declining':
+                    base_gpa = random.uniform(4.0, 7.0)
+                    previous_gpa = base_gpa + random.uniform(0.5, 1.5)  # Was higher before
+                elif performance_trend == 'Improving':
+                    base_gpa = random.uniform(6.0, 9.0)
+                    previous_gpa = base_gpa - random.uniform(0.5, 1.5)  # Was lower before
+                else:  # Stable
+                    base_gpa = random.uniform(5.0, 8.5)
+                    previous_gpa = base_gpa + random.uniform(-0.3, 0.3)
+                
+                current_semester_gpa = round(base_gpa, 2)
+                previous_semester_gpa = round(max(0, min(10, previous_gpa)), 2)
+            else:
+                # First semester students - use entrance exam as proxy
+                entrance_percentile = random.uniform(40, 98)
+                current_semester_gpa = round((entrance_percentile / 10) * random.uniform(0.8, 1.1), 2)
+                previous_semester_gpa = None
+            
+            # Calculate cumulative GPA
+            if semesters_completed > 0:
+                cumulative_gpa = round(
+                    (previous_semester_gpa * 0.6 + current_semester_gpa * 0.4) 
+                    if previous_semester_gpa else current_semester_gpa,
+                    2
+                )
+            else:
+                cumulative_gpa = current_semester_gpa
+            
+            # 2. CREDIT HOURS (Top-3 predictor)
+            # Standard credits per semester: 20-24
+            credits_registered_this_sem = random.choice([18, 20, 22, 24])
+            
+            # Calculate completion rate based on performance
+            if cumulative_gpa >= 8.0:
+                completion_rate = random.uniform(0.95, 1.0)
+            elif cumulative_gpa >= 6.0:
+                completion_rate = random.uniform(0.80, 0.95)
+            elif cumulative_gpa >= 4.0:
+                completion_rate = random.uniform(0.60, 0.85)
+            else:
+                completion_rate = random.uniform(0.40, 0.70)
+            
+            credits_completed_this_sem = int(credits_registered_this_sem * completion_rate)
+            
+            # Total credits (cumulative)
+            total_credits_registered = credits_registered_this_sem * (semesters_completed + 1)
+            total_credits_completed = int(total_credits_registered * completion_rate)
+            
+            # Credit completion rate (CRITICAL METRIC)
+            credit_completion_rate = round((total_credits_completed / total_credits_registered * 100), 2)
+            
+            # 3. FIRST YEAR PERFORMANCE (Year 1 students at highest risk)
+            if current_year == 1:
+                first_year_gpa = current_semester_gpa
+                first_year_credits_completed = credits_completed_this_sem
+                first_year_attendance = random.uniform(60, 95)  # Will correlate with attendance data
+                first_year_dropout_risk = 'High' if first_year_gpa < 5.0 else 'Medium' if first_year_gpa < 7.0 else 'Low'
+            else:
+                # Past first year performance
+                first_year_gpa = round(cumulative_gpa + random.uniform(-1.0, 0.5), 2)
+                first_year_credits_completed = random.choice([36, 38, 40, 42, 44])  # 2 semesters
+                first_year_attendance = random.uniform(65, 95)
+                first_year_dropout_risk = 'Low'  # They survived first year
+            
+            # 4. COURSE REGISTRATION DELAYS (Indicator of disengagement)
+            # Expected registration date: 5 days before semester start
+            expected_registration_date = self.start_date - timedelta(days=5)
+            
+            # Some students register late
+            registration_delay_days = random.choices(
+                [0, 1, 2, 3, 5, 7, 10, 15, 20],
+                weights=[0.50, 0.15, 0.10, 0.08, 0.07, 0.05, 0.03, 0.01, 0.01],
+                k=1
+            )[0]
+            
+            actual_registration_date = expected_registration_date + timedelta(days=registration_delay_days)
+            registration_status = 'On Time' if registration_delay_days <= 2 else 'Late' if registration_delay_days <= 7 else 'Very Late'
+            
+            # 5. MID-SEMESTER WITHDRAWAL HISTORY (Strong predictor)
+            # Number of courses dropped in previous semesters
+            if semesters_completed > 0:
+                # Higher chance of withdrawals for low performers
+                if cumulative_gpa < 5.0:
+                    courses_withdrawn_ever = random.choices([0, 1, 2, 3], weights=[0.30, 0.40, 0.20, 0.10], k=1)[0]
+                elif cumulative_gpa < 7.0:
+                    courses_withdrawn_ever = random.choices([0, 1, 2], weights=[0.60, 0.30, 0.10], k=1)[0]
+                else:
+                    courses_withdrawn_ever = random.choices([0, 1], weights=[0.85, 0.15], k=1)[0]
+            else:
+                courses_withdrawn_ever = 0
+            
+            # Withdrawals in current semester
+            courses_withdrawn_current = 1 if random.random() < 0.05 else 0  # 5% chance
+            
+            # Total withdrawals
+            total_withdrawals = courses_withdrawn_ever + courses_withdrawn_current
+            
+            # Calculate semester number
+            semester_number = semesters_completed + 1
+            
+            # BONUS: Course failures
+            if cumulative_gpa < 5.0:
+                courses_failed = random.choices([0, 1, 2, 3, 4], weights=[0.10, 0.30, 0.30, 0.20, 0.10], k=1)[0]
+            elif cumulative_gpa < 7.0:
+                courses_failed = random.choices([0, 1, 2], weights=[0.50, 0.35, 0.15], k=1)[0]
+            else:
+                courses_failed = random.choices([0, 1], weights=[0.90, 0.10], k=1)[0]
+            
+            # BONUS: Course repeats
+            courses_repeated = min(courses_failed, random.randint(0, 2))
+            
+            academic_record = {
+                'student_id': student['student_id'],
+                
+                # 1. GPA METRICS (CRITICAL - #1 Predictor)
+                'current_semester_gpa': current_semester_gpa,
+                'previous_semester_gpa': previous_semester_gpa,
+                'cumulative_gpa': cumulative_gpa,
+                'gpa_trend': performance_trend,
+                
+                # 2. CREDIT HOURS (CRITICAL - Top-3 Predictor)
+                'credits_registered_current': credits_registered_this_sem,
+                'credits_completed_current': credits_completed_this_sem,
+                'total_credits_registered': total_credits_registered,
+                'total_credits_completed': total_credits_completed,
+                'credit_completion_rate': credit_completion_rate,
+                
+                # 3. FIRST YEAR PERFORMANCE (CRITICAL)
+                'first_year_gpa': round(first_year_gpa, 2),
+                'first_year_credits_completed': first_year_credits_completed,
+                'first_year_attendance_percent': round(first_year_attendance, 2),
+                'first_year_dropout_risk': first_year_dropout_risk,
+                
+                # 4. REGISTRATION (HIGH Impact)
+                'registration_date': actual_registration_date.strftime('%Y-%m-%d'),
+                'registration_delay_days': registration_delay_days,
+                'registration_status': registration_status,
+                
+                # 5. WITHDRAWALS (HIGH Impact)
+                'courses_withdrawn_ever': courses_withdrawn_ever,
+                'courses_withdrawn_current': courses_withdrawn_current,
+                'total_course_withdrawals': total_withdrawals,
+                
+                # BONUS METRICS
+                'semester_number': semester_number,
+                'courses_failed_ever': courses_failed,
+                'courses_repeated': courses_repeated,
+                'academic_standing': self._calculate_academic_standing(cumulative_gpa),
+                'probation_status': 'Yes' if cumulative_gpa < 5.0 else 'No'
+            }
+            
+            academic_records.append(academic_record)
+
+        df = pd.DataFrame(academic_records)
+        print(f"✅ Generated academic history for {len(df)} students with {len(df.columns)} critical features")
+        return df
+    
+    def _calculate_academic_standing(self, gpa):
+        """Calculate academic standing based on GPA"""
+        if gpa >= 8.5:
+            return 'Excellent'
+        elif gpa >= 7.0:
+            return 'Good'
+        elif gpa >= 5.5:
+            return 'Average'
+        elif gpa >= 4.0:
+            return 'Below Average'
+        else:
+            return 'Poor'
+
+    # ============================================
+    # EXISTING METHODS (UNCHANGED)
+    # ============================================
+    
     def generate_daily_attendance(self, students_df):
         """Generate daily attendance for past 8 weeks"""
         print("🔄 Generating daily attendance records (8 weeks)...")
@@ -431,6 +636,7 @@ class CompleteDummyDataGenerator:
         """Generate and save all data to CSV files"""
         print("\n" + "="*80)
         print("GENERATING COMPLETE DUMMY DATA FOR 1000+ STUDENTS")
+        print("🆕 NOW INCLUDING CRITICAL MISSING FEATURES!")
         print("="*80 + "\n")
 
         os.makedirs(output_dir, exist_ok=True)
@@ -440,36 +646,52 @@ class CompleteDummyDataGenerator:
 
         family_df = self.generate_family_background(students_df)
         family_df.to_csv(f'{output_dir}/02_family_background.csv', index=False)
+        
+        # 🆕 NEW: Academic History (CRITICAL FEATURES)
+        academic_df = self.generate_academic_history(students_df)
+        academic_df.to_csv(f'{output_dir}/03_academic_history.csv', index=False)
 
         attendance_df = self.generate_daily_attendance(students_df)
-        attendance_df.to_csv(f'{output_dir}/03_daily_attendance.csv', index=False)
+        attendance_df.to_csv(f'{output_dir}/04_daily_attendance.csv', index=False)
 
         marks_df = self.generate_marks_data(students_df)
-        marks_df.to_csv(f'{output_dir}/04_marks_exams.csv', index=False)
+        marks_df.to_csv(f'{output_dir}/05_marks_exams.csv', index=False)
 
         assignments_df = self.generate_assignments(students_df)
-        assignments_df.to_csv(f'{output_dir}/05_assignments.csv', index=False)
+        assignments_df.to_csv(f'{output_dir}/06_assignments.csv', index=False)
 
         behavior_df = self.generate_behavior_reports(students_df)
-        behavior_df.to_csv(f'{output_dir}/06_behavior_reports.csv', index=False)
+        behavior_df.to_csv(f'{output_dir}/07_behavior_reports.csv', index=False)
 
         library_df = self.generate_library_usage(students_df)
-        library_df.to_csv(f'{output_dir}/07_library_usage.csv', index=False)
+        library_df.to_csv(f'{output_dir}/08_library_usage.csv', index=False)
 
         fee_df = self.generate_fee_payments(students_df, family_df)
-        fee_df.to_csv(f'{output_dir}/08_fee_payments.csv', index=False)
+        fee_df.to_csv(f'{output_dir}/09_fee_payments.csv', index=False)
 
-        self._generate_summary_report(output_dir, students_df, family_df, attendance_df,
+        self._generate_summary_report(output_dir, students_df, family_df, academic_df, attendance_df,
                                     marks_df, assignments_df, behavior_df, library_df, fee_df)
 
         print("\n" + "="*80)
         print("✅ ALL DATA GENERATED SUCCESSFULLY!")
         print("="*80)
         print(f"\n📁 Output Directory: {output_dir}/")
+        print(f"\n📊 Generated Files:")
+        print(f"   1. 01_students_master.csv       - {len(students_df)} students")
+        print(f"   2. 02_family_background.csv     - {len(family_df)} records")
+        print(f"   3. 🆕 03_academic_history.csv   - {len(academic_df)} records ⭐ NEW!")
+        print(f"   4. 04_daily_attendance.csv      - {len(attendance_df)} records")
+        print(f"   5. 05_marks_exams.csv           - {len(marks_df)} records")
+        print(f"   6. 06_assignments.csv           - {len(assignments_df)} records")
+        print(f"   7. 07_behavior_reports.csv      - {len(behavior_df)} records")
+        print(f"   8. 08_library_usage.csv         - {len(library_df)} records")
+        print(f"   9. 09_fee_payments.csv          - {len(fee_df)} records")
+        print(f"  10. 00_data_summary.txt          - Overview report")
         
         return {
             'students': students_df,
             'family': family_df,
+            'academic_history': academic_df,  # NEW
             'attendance': attendance_df,
             'marks': marks_df,
             'assignments': assignments_df,
@@ -478,15 +700,13 @@ class CompleteDummyDataGenerator:
             'fee': fee_df
         }
 
-    def _generate_summary_report(self, output_dir, students_df, family_df, attendance_df,
+    def _generate_summary_report(self, output_dir, students_df, family_df, academic_df, attendance_df,
                                 marks_df, assignments_df, behavior_df, library_df, fee_df):
         """Generate summary statistics"""
 
-        # Calculate statistics
         attendance_grouped = attendance_df.groupby('student_id')['status'].apply(
             lambda x: (x == 'Present').sum() / len(x) * 100
         )
-
         avg_attendance = attendance_grouped.mean()
 
         marks_grouped = marks_df.groupby('student_id')['percentage'].mean()
@@ -501,79 +721,109 @@ class CompleteDummyDataGenerator:
         total_fee_collected = fee_grouped.sum()
 
         summary = f"""
-    {'='*80}
-    DUMMY DATA GENERATION SUMMARY
-    {'='*80}
+{'='*80}
+DUMMY DATA GENERATION SUMMARY (ENHANCED VERSION)
+{'='*80}
 
-    Generation Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-    Total Students: {len(students_df)}
+Generation Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+Total Students: {len(students_df)}
 
-    ## DEMOGRAPHICS
+## DEMOGRAPHICS
 
-    Male Students: {(students_df['gender'] == 'Male').sum()}
-    Female Students: {(students_df['gender'] == 'Female').sum()}
+Male Students: {(students_df['gender'] == 'Male').sum()}
+Female Students: {(students_df['gender'] == 'Female').sum()}
 
-    Location Distribution:
+Location Distribution:
+- Rural: {(students_df['location_type'] == 'Rural').sum()}
+- Semi-Urban: {(students_df['location_type'] == 'Semi-Urban').sum()}
+- Urban: {(students_df['location_type'] == 'Urban').sum()}
 
-    - Rural: {(students_df['location_type'] == 'Rural').sum()}
-    - Semi-Urban: {(students_df['location_type'] == 'Semi-Urban').sum()}
-    - Urban: {(students_df['location_type'] == 'Urban').sum()}
+## FAMILY BACKGROUND
 
-    ## FAMILY BACKGROUND
+Income Level Distribution:
+- Low: {(family_df['income_level'] == 'Low').sum()}
+- Lower-Middle: {(family_df['income_level'] == 'Lower-Middle').sum()}
+- Middle: {(family_df['income_level'] == 'Middle').sum()}
+- Upper-Middle: {(family_df['income_level'] == 'Upper-Middle').sum()}
+- High: {(family_df['income_level'] == 'High').sum()}
 
-    Income Level Distribution:
+## 🆕 ACADEMIC HISTORY (NEW - CRITICAL FEATURES)
 
-    - Low: {(family_df['income_level'] == 'Low').sum()}
-    - Lower-Middle: {(family_df['income_level'] == 'Lower-Middle').sum()}
-    - Middle: {(family_df['income_level'] == 'Middle').sum()}
-    - Upper-Middle: {(family_df['income_level'] == 'Upper-Middle').sum()}
-    - High: {(family_df['income_level'] == 'High').sum()}
+Average Cumulative GPA: {academic_df['cumulative_gpa'].mean():.2f}
+Average Credit Completion Rate: {academic_df['credit_completion_rate'].mean():.2f}%
 
-    ## ATTENDANCE
+Students on Academic Probation: {(academic_df['probation_status'] == 'Yes').sum()}
+Students with Course Withdrawals: {(academic_df['total_course_withdrawals'] > 0).sum()}
+Late Registration Students: {(academic_df['registration_status'] != 'On Time').sum()}
 
-    Total Attendance Records: {len(attendance_df)}
-    Average Attendance: {avg_attendance:.2f}%
-    Students with <75% Attendance: {(attendance_grouped < 75).sum()}
+First Year Students at High Risk: {(academic_df['first_year_dropout_risk'] == 'High').sum()}
 
-    ## MARKS & EXAMS
+GPA Distribution:
+- Excellent (8.5+): {(academic_df['cumulative_gpa'] >= 8.5).sum()}
+- Good (7.0-8.5): {((academic_df['cumulative_gpa'] >= 7.0) & (academic_df['cumulative_gpa'] < 8.5)).sum()}
+- Average (5.5-7.0): {((academic_df['cumulative_gpa'] >= 5.5) & (academic_df['cumulative_gpa'] < 7.0)).sum()}
+- Below Average (4.0-5.5): {((academic_df['cumulative_gpa'] >= 4.0) & (academic_df['cumulative_gpa'] < 5.5)).sum()}
+- Poor (<4.0): {(academic_df['cumulative_gpa'] < 4.0).sum()}
 
-    Total Marks Records: {len(marks_df)}
-    Average Marks: {avg_marks:.2f}%
-    Students Scoring <40%: {(marks_grouped < 40).sum()}
+## ATTENDANCE
 
-    ## ASSIGNMENTS
+Total Attendance Records: {len(attendance_df)}
+Average Attendance: {avg_attendance:.2f}%
+Students with <75% Attendance: {(attendance_grouped < 75).sum()}
 
-    Total Assignment Records: {len(assignments_df)}
-    Average Completion Rate: {avg_assignment_completion:.2f}%
-    Students with <50% Completion: {(assignments_grouped < 50).sum()}
+## MARKS & EXAMS
 
-    ## BEHAVIOR REPORTS
+Total Marks Records: {len(marks_df)}
+Average Marks: {avg_marks:.2f}%
+Students Scoring <40%: {(marks_grouped < 40).sum()}
 
-    Total Behavior Reports: {len(behavior_df)}
-    Positive Reports: {(behavior_df['behavior_type'] == 'Positive').sum()}
-    Negative Reports: {(behavior_df['behavior_type'] == 'Negative').sum()}
+## ASSIGNMENTS
 
-    ## LIBRARY USAGE
+Total Assignment Records: {len(assignments_df)}
+Average Completion Rate: {avg_assignment_completion:.2f}%
+Students with <50% Completion: {(assignments_grouped < 50).sum()}
 
-    Total Library Records: {len(library_df)}
-    Active Library Users: {library_df['student_id'].nunique()}
-    Average Visits per Student: {len(library_df) / library_df['student_id'].nunique():.1f}
+## BEHAVIOR REPORTS
 
-    ## FEE PAYMENTS
+Total Behavior Reports: {len(behavior_df)}
+Positive Reports: {(behavior_df['behavior_type'] == 'Positive').sum()}
+Negative Reports: {(behavior_df['behavior_type'] == 'Negative').sum()}
 
-    Total Fee Records: {len(fee_df)}
-    Total Fee Collected: ₹{total_fee_collected:,.2f}
-    Students with Pending Fees: {(fee_df[fee_df['status'] == 'Pending'].groupby('student_id').size() > 0).sum()}
-    {'='*80}
-    """
+## LIBRARY USAGE
+
+Total Library Records: {len(library_df)}
+Active Library Users: {library_df['student_id'].nunique()}
+Average Visits per Student: {len(library_df) / library_df['student_id'].nunique():.1f}
+
+## FEE PAYMENTS
+
+Total Fee Records: {len(fee_df)}
+Total Fee Collected: ₹{total_fee_collected:,.2f}
+Students with Pending Fees: {(fee_df[fee_df['status'] == 'Pending'].groupby('student_id').size() > 0).sum()}
+
+{'='*80}
+🆕 CRITICAL FEATURES ADDED:
+1. ✅ Previous Semester GPA
+2. ✅ Credit Hours (Completed vs Registered)
+3. ✅ First Year Performance
+4. ✅ Course Registration Delays
+5. ✅ Mid-Semester Withdrawal History
+{'='*80}
+"""
         
-        # FIXED: Added encoding='utf-8' to handle the Rupee symbol (₹)
         with open(f'{output_dir}/00_data_summary.txt', 'w', encoding='utf-8') as f:
             f.write(summary)
 
         print(summary)
 
+
 if __name__ == "__main__":
-    # Generate data for 1000 students
     generator = CompleteDummyDataGenerator(n_students=1000)
     generator.save_all_data()
+    
+    print("\n🎉 DONE! Enhanced dataset with CRITICAL features generated!")
+    print("📂 Check the 'dummy_data' folder for all CSV files.")
+    print("\n💡 You now have:")
+    print("   ✅ All previous data (8 CSV files)")
+    print("   🆕 Academic history with 5 CRITICAL dropout predictors")
+    print("   📊 Ready for high-accuracy ML model training!")
