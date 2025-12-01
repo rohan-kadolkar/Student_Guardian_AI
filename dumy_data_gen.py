@@ -572,9 +572,6 @@ class CompleteDummyDataGenerator:
             f.write(summary)
 
         print(summary)
-def function():
-    pass
-
 if __name__ == "__main__":
     # Generate data for 1000 students
     generator = CompleteDummyDataGenerator(n_students=1000)
